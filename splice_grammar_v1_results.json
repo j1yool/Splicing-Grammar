@@ -1,0 +1,28 @@
+{
+  "gene": "SRSF6",
+  "edges_file": "C:\\Users\\jamoo\\Downloads\\SPLICING GRAMMAR\\splice_edges_v1.tsv",
+  "edges_sha256": "7b3d9972192ed31136315cd4cd32f7d7d916a79152310ef7edcd098faf0f0164",
+  "transcripts_file": "C:\\Users\\jamoo\\Downloads\\SPLICING GRAMMAR\\splice_transcripts_v1.tsv",
+  "transcripts_sha256": "5ee0e4e7d08cd9537924d5cc59b2ae0447d8ea1d32ba065e22d555a8af1297c5",
+  "script_sha256_raw": "ae14c987ef264d4f7370a9fadfc0bd2731b36bfd021c44afc10802eed2d858d1",
+  "script_sha256_lf": "8c2bddc19bc6b1a0aa01dc856f4e7c8f6b27af2734e94719df7ee4fbb9935f52",
+  "n_protein_coding_transcripts": 7,
+  "n_productions": 21,
+  "n_paths_L": 18,
+  "n_observed_distinct": 7,
+  "overgeneration": 11,
+  "path_prob_sum_float": 1.0,
+  "hard_stops_passed": [
+    "flow",
+    "H1",
+    "H2",
+    "H3",
+    "H4",
+    "H5"
+  ],
+  "expect": {
+    "paths": 18,
+    "observed": 7,
+    "overgen": 11
+  }
+}
