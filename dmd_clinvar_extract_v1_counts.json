@@ -1,0 +1,36 @@
+{
+  "counts": {
+    "drop_assembly_not_GRCh38": 12310,
+    "drop_gene_not_exactly_DMD": 221,
+    "drop_outside_DMD_span": 3,
+    "drop_type_not_SNV": 1686,
+    "excl_review_zero_star": 32,
+    "excl_significance: -": 251,
+    "excl_significance: Conflicting classifications of pathogenicity": 731,
+    "excl_significance: Uncertain significance": 3170,
+    "note_multigene_symbol_kept_in_funnel": 32
+  },
+  "input": "variant_summary.txt.gz",
+  "input_sha256": "7c39f2d875f3cd1ccd2d568662f06a7df647dd91fc0f51a072a758b08004c72e",
+  "kept_review_status": {
+    "criteria provided, multiple submitters, no conflicts": 1360,
+    "criteria provided, single submitter": 3490
+  },
+  "kept_significance": {
+    "Benign": 351,
+    "Benign/Likely benign": 185,
+    "Likely benign": 3128,
+    "Likely pathogenic": 227,
+    "Pathogenic": 844,
+    "Pathogenic/Likely pathogenic": 115
+  },
+  "n_benign_label0": 3664,
+  "n_pathogenic_label1": 1186,
+  "n_rows_read": 9345867,
+  "n_rows_with_DMD_substring": 23254,
+  "output_tsv_sha256": "ce00c9175e96d4f81d438ea4565034fdfb6f58f039a16936c5cb7f85c1d2454f",
+  "span": [
+    31097677,
+    33339609
+  ]
+}
