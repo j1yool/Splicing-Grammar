@@ -1,0 +1,44 @@
+{
+  "kinds": {
+    "acceptor_exon|0": 42,
+    "acceptor_exon|1": 6,
+    "acceptor_intron|0": 564,
+    "acceptor_intron|1": 161,
+    "donor_exon|0": 6,
+    "donor_exon|1": 31,
+    "donor_intron|0": 86,
+    "donor_intron|1": 188
+  },
+  "mapping_status": {
+    "ambiguous": 13,
+    "off_reference": 8,
+    "out_of_scope": 3745,
+    "scored": 1084
+  },
+  "pins": {
+    "extract_tsv_sha256": "ce00c9175e96d4f81d438ea4565034fdfb6f58f039a16936c5cb7f85c1d2454f",
+    "extractor_lf_sha256": "ba5e5c4455b90031d8ecd158ee1427e9b02f59bea4558f25d753a6b461643768",
+    "scorer_lf_sha256": "3452a563e99fb7b13559f2a79b989a800bc856e784847765f5b6e8e03c491b8e"
+  },
+  "results": {
+    "auc_frame": 0.5467100672535891,
+    "auc_grammar": 0.5232789465089004,
+    "boot_dropped": 0,
+    "boot_used": 10000,
+    "ci_hi": 0.0282814740331081,
+    "ci_lo": -0.07760323600447694,
+    "diff": -0.02343112074468867,
+    "n_benign": 698,
+    "n_exons": 77,
+    "n_pathogenic": 386,
+    "n_variants": 1084,
+    "verdict": "FAIL"
+  },
+  "scope_counts": {
+    "collapsed_edges": 120,
+    "internal_set": 82,
+    "pc_transcripts": 40,
+    "ref_exons": 79,
+    "ref_internal": 77
+  }
+}

@@ -1,0 +1,4851 @@
+VariationID	Start	label	status	exon_id	window
+11209	32484931	1	out_of_scope		
+11210	32345978	1	out_of_scope		
+11211	31444621	1	out_of_scope		
+11212	31182736	1	scored	E149	donor_intron
+11213	31178784	1	out_of_scope		
+11220	31875331	1	out_of_scope		
+11222	32501833	1	out_of_scope		
+11225	32816565	1	out_of_scope		
+11229	32454660	1	scored	E067	donor_intron
+11233	32545310	1	out_of_scope		
+11239	32849736	1	out_of_scope		
+11242	32699219	1	out_of_scope		
+11246	32614347	1	out_of_scope		
+11247	32595870	1	out_of_scope		
+11248	32595757	1	scored	E044	donor_exon
+11249	32565742	1	out_of_scope		
+11250	32501827	1	out_of_scope		
+11254	32468539	1	out_of_scope		
+11255	32464674	1	out_of_scope		
+11256	32411772	1	out_of_scope		
+11257	32389605	1	out_of_scope		
+11258	32342123	1	out_of_scope		
+11260	32217062	1	scored	E090	acceptor_exon
+11261	32216981	1	out_of_scope		
+11263	31929718	1	out_of_scope		
+11267	31478314	0	out_of_scope		
+11268	31478309	0	out_of_scope		
+11269	31478281	0	out_of_scope		
+11270	31323625	1	out_of_scope		
+11273	31178751	1	out_of_scope		
+11280	32448611	1	out_of_scope		
+11282	31206663	1	out_of_scope		
+11283	32438372	1	out_of_scope		
+11286	31261301	1	out_of_scope		
+11288	31478330	1	out_of_scope		
+11290	32310214	1	out_of_scope		
+29962	33211304	1	out_of_scope		
+94395	33212440	0	out_of_scope		
+673844	33339475	0	out_of_scope		
+94415	33211731	0	out_of_scope		
+94418	33212119	0	out_of_scope		
+94419	33211320	0	out_of_scope		
+94421	31180423	1	out_of_scope		
+94422	31180369	1	scored	E151	donor_intron
+94423	31178825	0	scored	E153	acceptor_intron
+94424	31178829	0	out_of_scope		
+94426	32645101	1	out_of_scope		
+94428	31178721	1	out_of_scope		
+1453123	31178700	1	out_of_scope		
+94430	31178668	1	scored	E153	donor_intron
+94437	32645065	1	out_of_scope		
+94446	31147283	0	out_of_scope		
+94447	31147270	1	scored	E173	donor_intron
+1624882	31126623	0	out_of_scope		
+94453	32644238	0	out_of_scope		
+94454	32644202	1	out_of_scope		
+94455	32644177	1	out_of_scope		
+674245	32644106	0	out_of_scope		
+94459	32614471	0	scored	E043	acceptor_intron
+94460	32614462	1	scored	E043	acceptor_intron
+94468	32614320	1	out_of_scope		
+94469	32614302	1	scored	E043	donor_intron
+94470	32595883	0	scored	E044	acceptor_intron
+94471	32595846	0	out_of_scope		
+94473	32595805	0	out_of_scope		
+94475	32573834	1	out_of_scope		
+94476	32573814	0	out_of_scope		
+94477	32573694	0	out_of_scope		
+94480	32573530	0	scored	E050	donor_exon
+94482	32565825	0	out_of_scope		
+94483	32565808	1	out_of_scope		
+2435909	32565794	1	out_of_scope		
+94486	32565704	1	scored	E053	donor_exon
+94489	32545295	1	out_of_scope		
+94494	32545184	0	out_of_scope		
+94495	32545146	0	out_of_scope		
+94497	32518138	0	scored	E057	acceptor_intron
+94498	32518127	0	out_of_scope		
+94501	32501857	0	scored	E059	acceptor_intron
+94503	32501804	0	out_of_scope		
+94504	32501803	1	out_of_scope		
+94505	32501754	1	scored	E059	donor_intron
+3725907	32501753	1	scored	E059	donor_intron
+94508	32491519	1	scored	E060	acceptor_intron
+94509	32491513	0	out_of_scope		
+94510	32491508	0	out_of_scope		
+94511	32491480	1	out_of_scope		
+94512	32491463	1	out_of_scope		
+1322235	32491381	1	out_of_scope		
+94523	32491292	0	out_of_scope		
+94526	32491276	1	scored	E060	donor_intron
+94527	32491244	0	out_of_scope		
+94528	32485110	0	scored	E061	acceptor_intron
+94530	32485072	1	out_of_scope		
+94531	32485040	0	out_of_scope		
+94532	32484964	1	out_of_scope		
+94536	32484918	1	scored	E061	donor_intron
+94537	32472310	1	scored	E063	acceptor_intron
+94538	32472297	1	out_of_scope		
+94541	32472271	0	out_of_scope		
+94542	32472247	1	out_of_scope		
+94545	32468712	1	scored	E064	acceptor_intron
+1322429	32468706	1	out_of_scope		
+4710688	32468683	1	out_of_scope		
+94548	32468639	0	out_of_scope		
+94550	32468601	1	out_of_scope		
+94551	32468584	1	out_of_scope		
+94554	33211281	1	out_of_scope		
+94555	33210990	0	out_of_scope		
+94556	33174336	0	out_of_scope		
+679045	33174171	0	out_of_scope		
+668550	33128744	0	out_of_scope		
+1290104	33128744	0	out_of_scope		
+94564	33128643	0	out_of_scope		
+1239700	33128592	0	out_of_scope		
+681316	33128539	0	out_of_scope		
+681317	33128524	0	out_of_scope		
+675398	33128361	0	out_of_scope		
+675973	33128102	0	out_of_scope		
+94573	33127969	0	out_of_scope		
+94576	32468509	1	out_of_scope		
+94577	32464717	0	scored	E065	acceptor_intron
+94582	32464569	0	out_of_scope		
+94583	32464585	1	scored	E065	donor_intron
+94584	32463576	1	out_of_scope		
+94585	32823316	1	out_of_scope		
+94587	32463465	0	out_of_scope		
+94589	32463438	1	scored	E066	donor_intron
+94590	32461403	0	out_of_scope		
+1254271	32461350	0	out_of_scope		
+94592	32463436	1	scored	E066	donor_intron
+1322378	32454833	1	scored	E067	acceptor_intron
+1270668	32823253	0	out_of_scope		
+94597	32454685	1	out_of_scope		
+94598	32454660	1	scored	E067	donor_intron
+94600	32454654	0	scored	E067	donor_intron
+94603	32448537	0	out_of_scope		
+94604	32448508	0	out_of_scope		
+94607	32441332	0	scored	E070	acceptor_intron
+94608	32438342	0	out_of_scope		
+94612	32411868	1	out_of_scope		
+94613	32411860	0	out_of_scope		
+94615	32411823	0	out_of_scope		
+94617	32390194	0	scored	E074	acceptor_intron
+94618	32390140	0	out_of_scope		
+94620	32390054	0	out_of_scope		
+94622	32816564	1	out_of_scope		
+94623	32389644	1	out_of_scope		
+94624	32389614	1	out_of_scope		
+94630	32389496	1	scored	E075	donor_intron
+94632	32386455	0	out_of_scope		
+94641	32380512	1	scored	E077	donor_exon
+94642	32365167	0	out_of_scope		
+2664331	32816509	1	out_of_scope		
+94646	32365049	1	out_of_scope		
+94648	32365029	0	out_of_scope		
+94650	32364717	0	scored	E080	acceptor_intron
+94654	32364602	1	out_of_scope		
+94657	32362879	0	out_of_scope		
+94658	32362826	1	out_of_scope		
+1584142	32809628	0	scored	E030	acceptor_intron
+3241343	32809613	1	scored	E030	acceptor_intron
+676020	32348550	0	out_of_scope		
+94668	32348501	1	out_of_scope		
+94669	32345999	1	out_of_scope		
+94670	32345975	1	out_of_scope		
+94672	32345925	0	out_of_scope		
+671472	32345913	0	out_of_scope		
+94675	32343253	0	out_of_scope		
+94676	32343233	1	out_of_scope		
+94679	32343149	0	out_of_scope		
+1583527	32343119	0	out_of_scope		
+94681	32342249	1	out_of_scope		
+94684	32809559	1	out_of_scope		
+94686	32310261	1	out_of_scope		
+94688	32310199	1	out_of_scope		
+94691	32310127	1	out_of_scope		
+94693	32809527	1	out_of_scope		
+2825797	32287593	1	out_of_scope		
+94697	32287536	1	out_of_scope		
+1601709	32287514	0	out_of_scope		
+1255507	32287502	0	out_of_scope		
+94703	32217032	0	out_of_scope		
+1298075	32155550	0	out_of_scope		
+94741	31968490	0	out_of_scope		
+94743	32809492	1	scored	E030	donor_intron
+1231568	32809445	0	out_of_scope		
+1324238	31929747	1	scored	E098	acceptor_intron
+94749	31929608	0	out_of_scope		
+94750	31929602	1	out_of_scope		
+3724151	31875343	1	out_of_scope		
+94756	31836767	0	out_of_scope		
+94758	31836729	1	out_of_scope		
+94760	31819974	1	scored	E104	donor_intron
+1236933	31774221	0	out_of_scope		
+94763	31774228	0	out_of_scope		
+94765	31774026	0	out_of_scope		
+94767	31773947	0	out_of_scope		
+94769	31729767	0	scored	E107	acceptor_intron
+94772	31729634	1	out_of_scope		
+94773	31679575	1	out_of_scope		
+94774	31679565	1	out_of_scope		
+94775	31679564	1	out_of_scope		
+94776	31679519	0	out_of_scope		
+94778	31679476	1	out_of_scope		
+94781	31658123	1	out_of_scope		
+94783	31657979	0	out_of_scope		
+94784	32699141	0	out_of_scope		
+94786	31627821	1	out_of_scope		
+680534	31508522	0	out_of_scope		
+94791	31508083	0	out_of_scope		
+94798	32699112	1	scored	E036	donor_exon
+94799	32698015	0	scored	E038	acceptor_intron
+94800	32698016	0	scored	E038	acceptor_intron
+676631	32698042	0	out_of_scope		
+2032773	31507313	1	out_of_scope		
+94803	31507303	0	out_of_scope		
+94805	32697993	0	out_of_scope		
+94807	31496892	1	out_of_scope		
+3724144	31496871	1	out_of_scope		
+94809	31479080	0	out_of_scope		
+94810	31479043	1	out_of_scope		
+94812	31478964	0	out_of_scope		
+94813	31478957	0	out_of_scope		
+679815	31364131	0	out_of_scope		
+94822	31364173	0	out_of_scope		
+3241340	31323659	1	scored	E123	acceptor_intron
+94828	31266743	0	out_of_scope		
+94830	31266928	0	out_of_scope		
+94835	31261619	0	out_of_scope		
+94837	31261663	1	out_of_scope		
+671089	31261685	0	out_of_scope		
+94839	31223071	1	out_of_scope		
+94841	31223046	1	scored	E142	donor_intron
+94842	31223046	1	scored	E142	donor_intron
+94845	31206668	1	scored	E145	acceptor_intron
+94849	32650983	1	out_of_scope		
+1291269	32651005	0	out_of_scope		
+1269368	32651133	0	out_of_scope		
+94854	31206567	0	out_of_scope		
+94855	31204120	1	scored	E147	acceptor_intron
+94856	31204086	0	out_of_scope		
+94861	31203964	0	out_of_scope		
+1322632	31182861	1	out_of_scope		
+94864	31182850	1	out_of_scope		
+137104	31965045	0	out_of_scope		
+137105	31875190	0	scored	E100	donor_exon
+137106	31478233	0	out_of_scope		
+137107	31261661	0	out_of_scope		
+137108	31261317	0	out_of_scope		
+137109	33020194	0	out_of_scope		
+137110	33307573	0	out_of_scope		
+137111	33014546	0	out_of_scope		
+137112	33014538	0	out_of_scope		
+137113	33283911	0	out_of_scope		
+137114	33283879	0	out_of_scope		
+137115	33283874	0	out_of_scope		
+137116	32501744	0	out_of_scope		
+137117	32485077	0	out_of_scope		
+155781	32573629	0	out_of_scope		
+161219	31729720	0	out_of_scope		
+162497	32573529	1	scored	E050	donor_intron
+166824	32484967	1	out_of_scope		
+166817	32468704	1	out_of_scope		
+166668	31478363	1	out_of_scope		
+166784	32454733	1	out_of_scope		
+166864	32697947	1	out_of_scope		
+166661	31323659	1	scored	E123	acceptor_intron
+166667	31478233	0	out_of_scope		
+166706	31875190	0	scored	E100	donor_exon
+166756	32348491	1	out_of_scope		
+166763	32380549	1	out_of_scope		
+166842	32485077	0	out_of_scope		
+166854	32491415	1	out_of_scope		
+166863	32644211	0	out_of_scope		
+193663	32645020	1	out_of_scope		
+193869	32644177	1	out_of_scope		
+193870	32644315	1	scored	E041	acceptor_intron
+194384	32573744	1	scored	E047	donor_intron
+194636	32565782	1	out_of_scope		
+194844	32518039	0	out_of_scope		
+194951	32501745	0	out_of_scope		
+195492	32491521	0	scored	E060	acceptor_intron
+195494	32491324	0	out_of_scope		
+195495	32491420	1	out_of_scope		
+195599	32484977	0	out_of_scope		
+195600	32484918	1	scored	E061	donor_intron
+195678	32472311	1	scored	E063	acceptor_intron
+195752	32468689	0	out_of_scope		
+195967	32454730	1	out_of_scope		
+196126	32441263	1	out_of_scope		
+196372	32849781	1	out_of_scope		
+196695	32390100	1	out_of_scope		
+196897	32380682	1	scored	E077	acceptor_intron
+197434	32342154	1	out_of_scope		
+197522	31968382	0	out_of_scope		
+197545	31932110	0	out_of_scope		
+197593	31875304	1	out_of_scope		
+198011	31478995	1	out_of_scope		
+198020	31478376	1	scored	E118	acceptor_intron
+198320	31323606	1	out_of_scope		
+198374	31180478	1	out_of_scope		
+198501	32809577	1	out_of_scope		
+198504	32809570	1	out_of_scope		
+198665	31147520	1	ambiguous		
+201740	31507363	0	out_of_scope		
+201727	31774030	0	out_of_scope		
+201759	32485100	1	scored	E061	acceptor_intron
+201730	32565806	0	out_of_scope		
+201729	32573783	0	out_of_scope		
+201728	32645085	0	out_of_scope		
+210853	31965029	1	out_of_scope		
+216919	32438312	1	out_of_scope		
+217174	31169492	1	out_of_scope		
+217173	31169584	1	out_of_scope		
+217172	31178668	1	scored	E153	donor_intron
+217215	31507279	1	scored	E115	donor_intron
+217214	31507314	1	out_of_scope		
+217213	31627852	1	out_of_scope		
+217212	31657988	1	scored	E111	donor_intron
+217211	31679430	1	out_of_scope		
+217210	31679492	1	out_of_scope		
+217209	31836813	1	out_of_scope		
+217206	32342105	1	out_of_scope		
+217205	32343232	1	out_of_scope		
+217203	32346068	1	out_of_scope		
+217202	32348504	1	out_of_scope		
+217201	32364605	1	out_of_scope		
+217199	32380626	1	out_of_scope		
+217198	32386378	1	out_of_scope		
+217197	32390175	1	out_of_scope		
+217193	32463444	1	out_of_scope		
+217192	32468669	1	out_of_scope		
+217190	32472311	1	scored	E063	acceptor_intron
+217188	32484925	1	out_of_scope		
+217186	32485102	1	scored	E061	acceptor_intron
+217185	32491288	1	out_of_scope		
+217184	32491492	1	out_of_scope		
+217183	32501767	1	out_of_scope		
+217182	32518085	1	out_of_scope		
+217181	32573766	1	out_of_scope		
+217180	32573786	1	out_of_scope		
+217179	32595877	1	scored	E044	acceptor_intron
+217178	32614397	1	out_of_scope		
+217177	32644131	1	scored	E041	donor_intron
+217176	32644139	1	out_of_scope		
+217196	32816642	1	scored	E028	acceptor_intron
+217195	32823297	1	scored	E025	donor_exon
+217187	32823389	1	scored	E025	acceptor_intron
+217218	32849821	1	scored	E022	acceptor_intron
+226569	31121881	0	out_of_scope		
+227312	31206673	0	scored	E145	acceptor_intron
+226568	31508251	0	out_of_scope		
+227311	31729616	0	out_of_scope		
+227310	31729695	0	out_of_scope		
+228594	31774105	0	out_of_scope		
+227309	31820040	0	out_of_scope		
+226567	32362848	0	out_of_scope		
+227308	32464592	0	out_of_scope		
+227307	32491330	0	out_of_scope		
+226566	32573624	0	out_of_scope		
+227306	32595856	0	out_of_scope		
+239614	31209575	0	out_of_scope		
+239608	32346023	1	out_of_scope		
+239606	32365175	1	out_of_scope		
+239605	32380500	0	out_of_scope		
+239601	32573638	1	scored	E050	acceptor_intron
+239599	32595855	1	out_of_scope		
+259216	32287687	0	out_of_scope		
+259215	32454698	0	out_of_scope		
+263647	31820003	0	out_of_scope		
+264114	32348505	0	out_of_scope		
+264223	32364688	0	out_of_scope		
+263440	32463511	0	out_of_scope		
+264229	32472229	0	out_of_scope		
+264085	32573850	0	scored	E047	acceptor_intron
+263352	32380671	0	out_of_scope		
+265411	31348571	1	out_of_scope		
+265325	31507455	1	scored	E115	acceptor_intron
+265412	31932079	1	scored	E096	donor_intron
+265413	32362799	1	out_of_scope		
+265414	32464603	1	out_of_scope		
+280633	32644175	1	out_of_scope		
+280296	32287528	1	scored	E089	donor_intron
+280051	32565829	1	out_of_scope		
+281179	33174335	1	out_of_scope		
+281195	31609621	1	out_of_scope		
+281258	32645054	0	out_of_scope		
+281412	32364704	1	out_of_scope		
+281487	32565884	0	scored	E053	acceptor_intron
+282229	32364647	1	out_of_scope		
+282233	32491387	1	out_of_scope		
+282389	32644279	0	out_of_scope		
+282841	31169519	1	out_of_scope		
+282849	32614368	1	out_of_scope		
+283068	31478286	0	out_of_scope		
+283346	33020138	1	scored	E018	donor_intron
+283413	32545157	1	scored	E055	donor_intron
+283713	31173588	1	out_of_scope		
+283945	32364596	1	out_of_scope		
+284461	31180394	1	out_of_scope		
+284717	32699247	0	out_of_scope		
+284862	32809492	1	scored	E030	donor_intron
+284924	32816541	1	out_of_scope		
+285195	32343133	1	scored	E085	donor_intron
+285219	32573533	0	out_of_scope		
+285784	32595765	1	out_of_scope		
+285921	32644314	1	scored	E041	acceptor_intron
+286155	32614302	1	scored	E043	donor_intron
+286577	32287596	1	out_of_scope		
+286833	32411811	1	out_of_scope		
+286985	31657983	0	scored	E111	donor_intron
+287438	32448495	1	out_of_scope		
+288164	31147500	1	out_of_scope		
+288177	32849726	1	scored	E022	donor_intron
+288476	32472252	1	out_of_scope		
+288725	31209497	1	scored	E144	donor_intron
+288923	32389536	1	out_of_scope		
+289521	32697907	0	out_of_scope		
+289992	31478375	1	scored	E118	acceptor_intron
+290206	32287679	0	out_of_scope		
+290261	32390103	1	out_of_scope		
+290270	32463458	1	out_of_scope		
+290445	32348510	1	out_of_scope		
+290599	32380509	1	scored	E077	donor_intron
+290604	31180483	1	scored	E151	acceptor_intron
+290909	32816641	1	scored	E028	acceptor_intron
+368208	31120281	0	out_of_scope		
+368203	31119880	0	out_of_scope		
+368213	31120472	0	out_of_scope		
+368205	31120136	0	out_of_scope		
+368207	31120188	0	out_of_scope		
+368217	31120634	0	out_of_scope		
+368230	31121442	0	out_of_scope		
+368211	31120464	0	out_of_scope		
+369655	32287680	1	out_of_scope		
+372742	32595756	1	scored	E044	donor_intron
+373618	32697988	0	out_of_scope		
+373091	32545158	1	scored	E055	donor_intron
+374059	32343174	1	out_of_scope		
+374191	32573812	1	out_of_scope		
+379121	31121860	0	out_of_scope		
+387687	31177975	0	scored	E159	acceptor_intron
+391330	31206610	0	out_of_scope		
+390785	31209551	0	out_of_scope		
+387169	31261192	0	out_of_scope		
+392366	31478098	0	scored	E118	donor_intron
+380130	31478277	0	out_of_scope		
+383053	31478283	0	out_of_scope		
+390333	31478331	0	out_of_scope		
+387394	31496770	0	out_of_scope		
+387783	31679522	0	out_of_scope		
+379872	32342264	1	out_of_scope		
+390491	32441162	0	out_of_scope		
+383402	32448564	0	out_of_scope		
+385823	32491342	0	out_of_scope		
+388356	32573857	0	scored	E047	acceptor_intron
+391751	32614323	0	out_of_scope		
+392072	32614407	0	out_of_scope		
+380751	32614411	0	out_of_scope		
+385517	32697859	0	out_of_scope		
+379297	31126631	0	out_of_scope		
+385396	31182878	0	out_of_scope		
+390099	31209671	0	out_of_scope		
+382849	31478370	0	out_of_scope		
+390835	31968518	0	scored	E092	acceptor_intron
+390847	32287676	0	out_of_scope		
+387951	32287705	0	scored	E089	acceptor_intron
+388357	32468546	0	out_of_scope		
+388200	32545266	0	out_of_scope		
+386773	32573725	0	out_of_scope		
+386402	32614464	0	scored	E043	acceptor_intron
+387234	32644290	0	out_of_scope		
+386220	32645107	0	out_of_scope		
+377774	32698001	0	scored	E038	acceptor_intron
+383844	32698015	0	scored	E038	acceptor_intron
+387047	31507323	0	out_of_scope		
+388968	31657972	0	out_of_scope		
+390047	31658150	0	scored	E111	acceptor_intron
+390951	31968464	0	out_of_scope		
+393178	32342150	1	out_of_scope		
+385930	32454761	0	out_of_scope		
+390843	32454767	0	out_of_scope		
+383312	32491373	0	out_of_scope		
+388592	32565825	0	out_of_scope		
+381571	32816487	1	out_of_scope		
+385831	32849770	0	out_of_scope		
+377773	32849829	0	scored	E022	acceptor_intron
+392839	33211341	0	out_of_scope		
+377776	31121904	0	out_of_scope		
+384423	31172337	0	out_of_scope		
+388186	31178822	0	scored	E153	acceptor_intron
+384897	32310250	0	out_of_scope		
+390924	32364627	0	out_of_scope		
+381150	32364718	0	scored	E080	acceptor_intron
+391221	32365169	0	out_of_scope		
+391925	32411763	1	out_of_scope		
+390853	32448652	0	scored	E068	acceptor_intron
+377775	32565870	0	out_of_scope		
+384552	32595811	0	out_of_scope		
+383271	32644287	0	out_of_scope		
+379176	32698018	0	scored	E038	acceptor_intron
+415859	31177970	0	scored	E159	acceptor_exon
+409891	31209536	0	out_of_scope		
+415863	31323612	0	out_of_scope		
+415855	32348484	0	out_of_scope		
+409889	31627681	1	out_of_scope		
+409924	32364626	1	out_of_scope		
+415858	31658073	0	out_of_scope		
+409919	32365187	1	out_of_scope		
+409917	32438240	1	scored	E071	donor_intron
+409914	31968337	1	scored	E092	donor_intron
+415868	32345946	0	out_of_scope		
+415865	32346070	0	out_of_scope		
+415861	32438371	0	out_of_scope		
+409911	32485057	1	out_of_scope		
+409907	32518098	1	out_of_scope		
+409942	32545250	1	out_of_scope		
+409899	32573796	1	out_of_scope		
+409918	32645052	1	out_of_scope		
+409886	32698013	1	scored	E038	acceptor_intron
+415860	33020148	0	out_of_scope		
+409896	31147274	1	scored	E173	donor_intron
+415853	31147479	0	out_of_scope		
+415856	31182914	0	scored	E149	acceptor_intron
+409890	31206610	1	out_of_scope		
+409903	31478129	1	out_of_scope		
+409916	31627731	0	out_of_scope		
+415851	32216940	0	out_of_scope		
+415867	31204096	0	out_of_scope		
+409937	32287702	1	scored	E089	acceptor_intron
+415866	31496803	0	out_of_scope		
+409892	32343226	1	out_of_scope		
+415854	32380608	0	out_of_scope		
+409932	32345998	0	out_of_scope		
+415864	32565768	0	out_of_scope		
+409908	32411914	1	scored	E073	acceptor_intron
+409904	32644963	1	scored	E040	donor_intron
+409882	32454659	1	scored	E067	donor_intron
+415852	32472309	0	scored	E063	acceptor_exon
+415871	32644991	0	out_of_scope		
+409897	32518024	1	out_of_scope		
+415857	32823355	0	out_of_scope		
+409929	32645047	0	out_of_scope		
+419240	31147421	1	out_of_scope		
+420583	31507280	1	scored	E115	donor_intron
+424045	32348405	1	scored	E082	donor_intron
+419607	32454778	1	out_of_scope		
+419572	32491344	1	out_of_scope		
+429926	31182754	1	out_of_scope		
+430030	31875283	0	out_of_scope		
+439616	31478261	1	out_of_scope		
+439613	31496946	1	scored	E116	acceptor_intron
+439617	32491414	1	out_of_scope		
+439615	32491483	1	out_of_scope		
+439605	31478449	0	out_of_scope		
+439606	32545226	1	out_of_scope		
+439607	32380508	1	scored	E077	donor_intron
+439608	31209501	1	out_of_scope		
+439609	31968313	0	out_of_scope		
+439610	31658118	1	out_of_scope		
+439612	31478163	1	out_of_scope		
+439618	31627693	1	out_of_scope		
+446469	32738791	1	out_of_scope		
+447268	31348554	1	scored	E122	donor_intron
+447265	31679588	1	scored	E109	acceptor_intron
+447262	32216931	1	out_of_scope		
+447260	32342171	1	out_of_scope		
+447259	32345942	1	scored	E084	donor_intron
+447256	32464645	1	out_of_scope		
+447251	32644153	1	out_of_scope		
+447261	32809553	1	out_of_scope		
+450806	31479076	1	out_of_scope		
+451763	32217037	1	out_of_scope		
+449381	32380691	1	scored	E077	acceptor_intron
+449832	32809613	1	scored	E030	acceptor_intron
+455852	31178770	0	out_of_scope		
+455947	31206581	1	scored	E145	donor_intron
+455940	31478325	0	out_of_scope		
+455929	31875187	1	scored	E100	donor_intron
+455924	31932138	0	out_of_scope		
+455923	31932229	1	scored	E096	acceptor_intron
+455886	32472310	1	scored	E063	acceptor_intron
+455875	32545251	0	out_of_scope		
+455946	32697892	0	out_of_scope		
+455925	32699257	1	out_of_scope		
+455921	32699292	0	scored	E036	acceptor_exon
+455949	31182784	1	out_of_scope		
+455935	31496787	1	scored	E116	donor_intron
+455932	31820003	0	out_of_scope		
+455914	32343126	0	scored	E085	donor_intron
+455912	32345952	0	out_of_scope		
+455909	32348436	0	out_of_scope		
+455906	32362936	0	out_of_scope		
+455905	32362950	0	out_of_scope		
+455901	32365164	0	out_of_scope		
+455893	32461403	1	out_of_scope		
+455892	32464685	0	out_of_scope		
+455871	32565829	1	out_of_scope		
+455862	32614312	0	out_of_scope		
+455861	32614402	0	out_of_scope		
+455855	31147347	0	out_of_scope		
+455919	32216930	1	out_of_scope		
+455917	32217073	0	scored	E090	acceptor_intron
+455910	32348399	0	scored	E082	donor_intron
+455894	32438388	0	scored	E071	acceptor_exon
+455889	32472203	0	out_of_scope		
+455881	32491376	0	out_of_scope		
+455937	32697969	0	out_of_scope		
+455933	32699102	0	out_of_scope		
+455934	32699111	1	scored	E036	donor_intron
+455916	32809518	0	out_of_scope		
+455870	32849727	1	scored	E022	donor_intron
+455854	31147452	0	out_of_scope		
+455920	32216906	0	out_of_scope		
+455897	32411779	0	out_of_scope		
+455885	32484977	0	out_of_scope		
+455883	32485055	0	out_of_scope		
+455879	32491477	0	out_of_scope		
+455873	32565774	0	out_of_scope		
+455865	32595817	0	out_of_scope		
+455850	32645105	0	out_of_scope		
+455942	32697942	0	out_of_scope		
+492825	31774193	1	scored	E105	acceptor_intron
+492823	32485053	1	out_of_scope		
+495113	32518006	1	scored	E057	donor_intron
+496923	32468712	1	scored	E064	acceptor_intron
+497172	32386366	1	out_of_scope		
+497183	32595756	1	scored	E044	donor_intron
+497229	31679587	1	scored	E109	acceptor_intron
+497353	32411865	1	out_of_scope		
+497971	31836748	1	out_of_scope		
+498335	32448607	0	out_of_scope		
+498985	31968409	1	out_of_scope		
+499187	32342222	1	out_of_scope		
+499188	32386393	1	out_of_scope		
+499537	32468692	1	out_of_scope		
+499610	32348447	1	out_of_scope		
+499729	32389524	1	out_of_scope		
+499880	32343160	1	out_of_scope		
+500710	31478105	1	scored	E118	donor_intron
+500809	31968331	0	scored	E092	donor_intron
+501095	31180369	1	scored	E151	donor_intron
+501260	32644208	1	out_of_scope		
+501337	31479004	1	out_of_scope		
+501437	32823369	1	out_of_scope		
+501758	31444620	0	out_of_scope		
+501780	32573528	1	scored	E050	donor_intron
+502009	31836759	1	out_of_scope		
+502556	31169477	1	out_of_scope		
+517355	32390193	0	scored	E074	acceptor_intron
+506904	31204063	0	out_of_scope		
+517859	31875262	0	out_of_scope		
+508740	31929584	0	out_of_scope		
+517840	32364603	0	out_of_scope		
+509142	32365204	0	scored	E078	acceptor_intron
+517690	32390078	0	out_of_scope		
+511146	32411745	0	scored	E073	donor_intron
+513667	32565881	0	scored	E053	acceptor_exon
+510956	31147299	0	out_of_scope		
+513376	31178821	0	scored	E153	acceptor_intron
+512476	31180359	0	out_of_scope		
+512485	31444465	0	out_of_scope		
+511209	31875212	0	out_of_scope		
+507197	32216905	0	out_of_scope		
+514029	32343218	0	out_of_scope		
+512440	32380493	0	out_of_scope		
+508328	32485055	0	out_of_scope		
+506764	32518148	0	scored	E057	acceptor_intron
+513536	32595813	0	out_of_scope		
+509243	32823314	0	out_of_scope		
+510466	33211262	0	out_of_scope		
+511533	31173595	0	out_of_scope		
+511243	31180487	0	scored	E151	acceptor_intron
+514961	31209665	0	out_of_scope		
+506984	31478966	0	out_of_scope		
+517851	31657977	0	out_of_scope		
+513113	31929588	0	scored	E098	donor_intron
+515179	32472315	0	scored	E063	acceptor_intron
+508731	32491529	0	scored	E060	acceptor_intron
+510621	32614462	0	scored	E043	acceptor_intron
+506987	31209491	0	scored	E144	donor_intron
+509634	31932116	0	out_of_scope		
+508222	32217083	0	scored	E090	acceptor_intron
+515135	32310106	0	out_of_scope		
+514028	32310256	0	out_of_scope		
+509025	32346042	0	out_of_scope		
+509510	32411925	0	scored	E073	acceptor_intron
+511635	32441173	0	scored	E070	donor_intron
+507206	32468640	0	out_of_scope		
+515706	32491262	0	out_of_scope		
+514127	32573641	0	scored	E050	acceptor_intron
+518897	31146376	0	out_of_scope		
+518503	31223117	0	out_of_scope		
+518691	31444589	0	out_of_scope		
+518745	32287619	0	out_of_scope		
+518647	32441276	0	out_of_scope		
+518845	32468687	0	out_of_scope		
+518923	32501804	0	out_of_scope		
+518956	32595784	0	out_of_scope		
+522691	32411870	0	out_of_scope		
+523468	32380517	1	out_of_scope		
+523467	32823294	1	scored	E025	donor_intron
+523470	33020138	1	scored	E018	donor_intron
+523784	31204077	1	out_of_scope		
+523910	31627813	1	out_of_scope		
+526070	31968408	0	out_of_scope		
+526076	32216946	1	out_of_scope		
+526092	32342238	0	out_of_scope		
+526135	32438324	0	out_of_scope		
+526089	32464594	1	out_of_scope		
+526061	32472163	1	scored	E063	donor_intron
+526072	32484946	1	out_of_scope		
+526095	32697953	0	out_of_scope		
+526114	32823319	0	out_of_scope		
+526129	32849752	0	out_of_scope		
+526109	31172380	0	out_of_scope		
+526079	31180482	1	scored	E151	acceptor_intron
+526130	31204117	0	scored	E147	acceptor_exon
+526112	32343185	0	out_of_scope		
+526083	32343271	1	out_of_scope		
+526123	32364632	0	out_of_scope		
+526058	32380593	0	out_of_scope		
+526046	32411754	1	scored	E073	donor_exon
+526132	31507316	0	out_of_scope		
+526136	32438352	0	out_of_scope		
+526126	32454793	0	out_of_scope		
+526106	32463431	0	scored	E066	donor_intron
+526131	32485108	0	scored	E061	acceptor_intron
+526117	32491499	0	out_of_scope		
+526101	32310141	0	out_of_scope		
+526093	32362847	1	out_of_scope		
+526043	32362860	0	out_of_scope		
+526113	32390101	0	out_of_scope		
+526103	32565701	1	scored	E053	donor_intron
+526116	32573526	0	scored	E050	donor_intron
+526138	32573635	0	scored	E050	acceptor_exon
+526133	32573641	0	scored	E050	acceptor_intron
+526110	32645114	0	out_of_scope		
+526120	32809539	0	out_of_scope		
+526094	32823329	1	out_of_scope		
+526100	31146366	0	off_reference	E177	acceptor_intron
+526051	31147289	1	out_of_scope		
+526137	31173559	0	out_of_scope		
+526127	31178813	0	scored	E153	acceptor_intron
+526115	31182884	0	out_of_scope		
+526087	31323639	1	out_of_scope		
+526128	31444592	0	out_of_scope		
+526091	31657989	1	scored	E111	donor_intron
+526125	31875344	0	out_of_scope		
+526107	31968470	0	out_of_scope		
+526108	32380503	0	scored	E077	donor_intron
+526064	32389518	1	out_of_scope		
+526111	32411755	0	out_of_scope		
+526047	32411880	0	out_of_scope		
+526124	32501783	0	out_of_scope		
+526066	32614419	1	out_of_scope		
+526062	32644171	1	out_of_scope		
+526121	32645029	0	out_of_scope		
+526084	32645038	1	out_of_scope		
+526134	32816473	0	out_of_scope		
+526056	33211281	1	out_of_scope		
+545963	32345996	1	out_of_scope		
+546041	32365021	1	scored	E078	donor_exon
+545973	32518043	1	out_of_scope		
+546214	32595757	1	scored	E044	donor_exon
+547070	31729630	1	scored	E107	donor_intron
+578413	31203956	1	scored	E147	donor_intron
+569802	31348619	1	out_of_scope		
+582905	31820032	1	out_of_scope		
+568924	31820037	1	out_of_scope		
+570242	31968418	0	out_of_scope		
+574223	32468640	1	out_of_scope		
+579849	32565748	0	out_of_scope		
+576087	31323597	1	scored	E123	donor_intron
+572550	32448563	1	out_of_scope		
+580058	32573830	1	out_of_scope		
+576144	32364580	1	scored	E080	donor_intron
+571814	32809612	1	scored	E030	acceptor_intron
+575436	31348625	0	out_of_scope		
+577742	31478996	1	out_of_scope		
+570910	32364712	1	scored	E080	acceptor_intron
+575026	32448500	1	out_of_scope		
+578444	32448639	1	scored	E068	acceptor_intron
+582787	32573755	0	out_of_scope		
+575704	32645107	1	out_of_scope		
+575175	32697912	1	out_of_scope		
+585779	31169450	1	out_of_scope		
+585785	32380597	1	out_of_scope		
+585783	32441297	1	out_of_scope		
+585781	32454661	1	scored	E067	donor_intron
+585778	32849814	1	out_of_scope		
+587510	32463513	1	out_of_scope		
+590902	32389533	1	out_of_scope		
+592600	31478268	1	out_of_scope		
+593031	32573797	1	out_of_scope		
+593221	31203960	1	scored	E147	donor_intron
+593295	32464642	1	out_of_scope		
+593327	32348483	1	out_of_scope		
+593328	31658007	1	out_of_scope		
+593723	32342155	1	out_of_scope		
+593815	32844782	1	scored	E024	donor_intron
+594248	32345966	1	out_of_scope		
+594953	31507280	1	scored	E115	donor_intron
+595152	32699111	1	scored	E036	donor_intron
+595153	32438389	1	scored	E071	acceptor_exon
+595841	31968373	1	out_of_scope		
+595842	32454765	1	out_of_scope		
+595843	32491343	1	out_of_scope		
+595844	32645051	1	out_of_scope		
+595916	32573848	1	scored	E047	acceptor_intron
+595953	31204041	1	out_of_scope		
+596350	32310174	1	out_of_scope		
+596803	31178807	1	scored	E153	acceptor_intron
+597288	32573829	1	out_of_scope		
+597691	31932193	1	out_of_scope		
+598713	32463497	1	out_of_scope		
+618599	31206597	1	out_of_scope		
+618063	31496811	1	out_of_scope		
+618600	31929634	1	out_of_scope		
+618598	32287543	1	out_of_scope		
+618604	32389646	0	out_of_scope		
+618065	32441245	1	out_of_scope		
+618597	32573811	1	out_of_scope		
+620196	32364654	1	out_of_scope		
+620249	32386438	1	out_of_scope		
+624395	31658050	0	out_of_scope		
+638586	31182563	1	out_of_scope		
+654722	31147307	1	out_of_scope		
+661830	31178710	1	out_of_scope		
+658297	31182774	1	out_of_scope		
+650214	31348625	1	out_of_scope		
+643851	31478162	1	out_of_scope		
+644485	31496809	0	out_of_scope		
+642578	31507281	1	scored	E115	donor_exon
+640083	31774048	1	out_of_scope		
+639544	31774102	1	out_of_scope		
+640322	31875220	1	out_of_scope		
+650688	31968339	1	scored	E092	donor_exon
+654027	32342202	0	out_of_scope		
+659520	32364645	0	out_of_scope		
+648287	32365168	0	out_of_scope		
+640379	32389586	1	out_of_scope		
+644344	32464664	0	out_of_scope		
+663605	32468614	0	out_of_scope		
+643749	32472244	1	out_of_scope		
+661628	32485018	1	out_of_scope		
+642610	32565787	0	out_of_scope		
+663125	32614362	0	out_of_scope		
+642449	32614434	1	out_of_scope		
+659785	32809526	1	out_of_scope		
+649535	32844861	1	scored	E024	acceptor_intron
+663374	32365200	1	scored	E078	acceptor_intron
+653035	32573639	1	scored	E050	acceptor_intron
+653791	32699111	1	scored	E036	donor_intron
+656754	31209496	1	scored	E144	donor_intron
+667106	31774038	0	out_of_scope		
+667105	32565719	0	out_of_scope		
+671370	31627754	0	out_of_scope		
+680061	31929720	0	out_of_scope		
+672190	32216991	0	out_of_scope		
+679985	32342182	0	out_of_scope		
+681662	32345985	0	out_of_scope		
+669035	32365198	0	scored	E078	acceptor_exon
+668684	32448606	0	out_of_scope		
+669365	32454675	0	out_of_scope		
+682359	32545247	0	out_of_scope		
+675810	31146158	0	out_of_scope		
+675357	31146524	0	out_of_scope		
+675356	31146603	0	out_of_scope		
+671292	31147193	0	out_of_scope		
+673851	31178448	0	out_of_scope		
+675975	31178944	0	out_of_scope		
+678092	31206954	0	out_of_scope		
+671412	31210848	0	out_of_scope		
+671291	31261154	0	out_of_scope		
+672530	31323803	0	out_of_scope		
+678497	31363920	0	out_of_scope		
+676569	31627976	0	out_of_scope		
+673846	31729904	0	out_of_scope		
+678971	31819752	0	out_of_scope		
+673654	31879132	0	out_of_scope		
+671410	31879148	0	out_of_scope		
+671087	31879289	0	out_of_scope		
+671086	31879513	0	out_of_scope		
+675876	31929420	0	out_of_scope		
+671238	31968657	0	out_of_scope		
+675737	32217165	0	out_of_scope		
+671237	32217178	0	out_of_scope		
+673008	32287851	0	out_of_scope		
+675667	32310488	0	out_of_scope		
+680532	32343594	0	out_of_scope		
+671085	32364917	0	out_of_scope		
+680531	32448160	0	out_of_scope		
+680694	32463896	0	out_of_scope		
+681019	32468244	0	out_of_scope		
+679471	32544910	0	out_of_scope		
+679284	32544937	0	out_of_scope		
+675865	32565949	0	out_of_scope		
+680546	32596130	0	out_of_scope		
+672481	32849953	0	out_of_scope		
+680688	33019836	0	out_of_scope		
+678471	33174138	0	out_of_scope		
+675284	31146514	0	out_of_scope		
+680561	31147779	0	out_of_scope		
+680543	31180087	0	out_of_scope		
+675738	31203743	0	out_of_scope		
+672561	31206877	0	out_of_scope		
+680603	31210638	0	out_of_scope		
+672560	31222909	0	out_of_scope		
+676081	31260804	0	out_of_scope		
+671449	31261691	0	out_of_scope		
+679120	31609785	0	out_of_scope		
+674546	31836585	0	out_of_scope		
+671088	31879136	0	out_of_scope		
+674068	31879559	0	out_of_scope		
+680940	31929319	0	out_of_scope		
+680987	31931769	0	out_of_scope		
+673005	32287764	0	out_of_scope		
+671290	32348582	0	out_of_scope		
+681318	32349013	0	out_of_scope		
+680542	32386035	0	out_of_scope		
+680540	32386040	0	out_of_scope		
+673724	32386499	0	out_of_scope		
+678474	32441965	0	out_of_scope		
+680696	32452866	0	out_of_scope		
+681681	32464358	0	out_of_scope		
+676568	32491708	0	out_of_scope		
+672488	32518335	0	out_of_scope		
+680537	32544881	0	out_of_scope		
+671354	32573412	0	out_of_scope		
+671395	32595943	0	out_of_scope		
+671082	32595986	0	out_of_scope		
+675355	32614212	0	out_of_scope		
+679044	32651289	0	out_of_scope		
+680691	32697558	0	out_of_scope		
+673386	32698052	0	out_of_scope		
+671236	32809348	0	out_of_scope		
+680625	32824115	0	out_of_scope		
+675710	32849693	0	out_of_scope		
+671393	33014519	0	out_of_scope		
+672565	31126523	0	out_of_scope		
+677500	33019899	0	out_of_scope		
+674094	31133820	0	out_of_scope		
+675358	31146108	0	out_of_scope		
+672564	31178071	0	out_of_scope		
+668593	31204391	0	out_of_scope		
+679470	31206953	0	out_of_scope		
+675741	33339155	0	out_of_scope		
+672528	31348367	0	out_of_scope		
+672527	31478774	0	out_of_scope		
+679288	31479353	0	out_of_scope		
+674342	31496635	0	out_of_scope		
+681682	31496962	0	scored	E116	acceptor_intron
+680560	31497231	0	out_of_scope		
+681319	31657671	0	out_of_scope		
+679287	31774442	0	out_of_scope		
+672525	31820242	0	out_of_scope		
+674303	31875032	0	out_of_scope		
+673845	31875487	0	out_of_scope		
+674648	31931939	0	out_of_scope		
+680953	31964754	0	out_of_scope		
+672522	32310455	0	out_of_scope		
+669065	32342089	0	out_of_scope		
+680533	32343592	0	out_of_scope		
+679286	32345705	0	out_of_scope		
+682080	32364730	0	scored	E080	acceptor_intron
+673725	32380733	0	out_of_scope		
+680539	32386784	0	out_of_scope		
+679285	32412454	0	out_of_scope		
+680910	32440909	0	out_of_scope		
+679482	32448868	0	out_of_scope		
+680695	32460923	0	out_of_scope		
+671084	32463746	0	out_of_scope		
+675655	32468342	0	out_of_scope		
+675833	32468800	0	out_of_scope		
+680937	32471910	0	out_of_scope		
+672487	32544968	0	out_of_scope		
+671083	32545371	0	out_of_scope		
+671409	32565507	0	out_of_scope		
+680545	32614739	0	out_of_scope		
+668560	32614746	0	out_of_scope		
+671394	32644077	0	out_of_scope		
+672485	32645300	0	out_of_scope		
+680692	32697540	0	out_of_scope		
+671352	32816779	0	out_of_scope		
+678185	32844875	0	scored	E024	acceptor_intron
+670483	32849485	0	out_of_scope		
+681746	31122179	0	out_of_scope		
+677762	31146055	0	out_of_scope		
+671357	31147140	0	out_of_scope		
+668473	31172331	0	out_of_scope		
+671240	31206764	0	out_of_scope		
+680541	31207382	0	out_of_scope		
+671356	31208348	0	out_of_scope		
+680544	31222788	0	out_of_scope		
+676082	31260789	0	out_of_scope		
+680538	31314141	0	out_of_scope		
+680536	31314177	0	out_of_scope		
+668551	31314574	0	out_of_scope		
+671724	31323334	0	out_of_scope		
+675861	31507107	0	out_of_scope		
+680599	31507906	0	out_of_scope		
+680597	31507909	0	out_of_scope		
+676595	31932432	0	out_of_scope		
+672517	32365352	0	out_of_scope		
+672515	32441052	0	out_of_scope		
+679606	32442305	0	out_of_scope		
+678523	32460955	0	out_of_scope		
+673627	32464743	0	out_of_scope		
+680530	32472591	0	out_of_scope		
+680594	32573201	0	out_of_scope		
+671081	32595999	0	out_of_scope		
+676063	32644001	0	out_of_scope		
+674341	32644005	0	out_of_scope		
+675354	32645261	0	out_of_scope		
+671723	32844516	0	out_of_scope		
+671392	33014651	0	out_of_scope		
+671391	33014669	0	out_of_scope		
+680936	33174650	0	out_of_scope		
+684863	32463452	0	out_of_scope		
+689489	31478243	1	out_of_scope		
+697341	31223105	0	out_of_scope		
+696548	32343173	0	out_of_scope		
+697023	32362833	0	out_of_scope		
+701238	31209526	0	out_of_scope		
+697609	31209651	0	out_of_scope		
+699380	31444583	0	out_of_scope		
+699118	31478118	0	out_of_scope		
+698324	31478178	0	out_of_scope		
+701497	31478280	0	out_of_scope		
+699387	31627715	0	out_of_scope		
+698483	31658094	0	out_of_scope		
+697476	31836787	0	out_of_scope		
+699101	32343254	0	out_of_scope		
+699811	32346024	0	out_of_scope		
+698342	32386313	0	out_of_scope		
+701544	32389561	0	out_of_scope		
+701077	32411755	0	out_of_scope		
+700819	32448630	0	out_of_scope		
+701280	32463496	0	out_of_scope		
+700174	32468675	0	out_of_scope		
+697468	32518074	0	out_of_scope		
+697997	32565749	0	out_of_scope		
+700516	32573789	0	out_of_scope		
+699443	32595787	0	out_of_scope		
+701088	32644182	0	out_of_scope		
+699319	32644209	0	out_of_scope		
+697566	32697912	0	out_of_scope		
+699962	32699214	0	out_of_scope		
+700912	31478096	0	out_of_scope		
+698231	31478974	0	out_of_scope		
+698406	32468719	0	scored	E064	acceptor_intron
+699423	32501748	0	scored	E059	donor_intron
+697845	32517999	0	out_of_scope		
+706093	31182875	0	out_of_scope		
+702611	31679531	0	out_of_scope		
+703133	31774017	0	out_of_scope		
+705965	31875206	0	out_of_scope		
+706796	32287681	0	out_of_scope		
+706710	32464667	0	out_of_scope		
+705952	32468528	0	out_of_scope		
+702991	32468609	0	out_of_scope		
+702479	32491475	0	out_of_scope		
+702327	32545267	0	out_of_scope		
+702742	32645109	0	out_of_scope		
+703436	32697936	0	out_of_scope		
+707624	32699268	0	out_of_scope		
+703738	32491526	0	scored	E060	acceptor_intron
+772510	32565711	0	out_of_scope		
+790530	31968401	0	out_of_scope		
+790535	32454832	0	scored	E067	acceptor_exon
+720970	31478219	0	out_of_scope		
+714400	31875194	0	out_of_scope		
+710549	31932182	0	out_of_scope		
+710550	31932205	0	out_of_scope		
+708216	31223039	0	scored	E142	donor_intron
+722016	31147495	0	out_of_scope		
+731180	31507424	0	out_of_scope		
+725512	32216996	0	out_of_scope		
+730368	32411809	0	out_of_scope		
+733460	32816515	0	out_of_scope		
+742693	31146364	0	off_reference	E177	acceptor_intron
+742494	31178692	0	out_of_scope		
+735566	31180471	0	out_of_scope		
+742113	31182767	0	out_of_scope		
+743737	31323612	0	out_of_scope		
+744097	31479011	0	out_of_scope		
+744969	31627760	0	out_of_scope		
+745436	31820049	0	out_of_scope		
+743967	32216979	0	out_of_scope		
+744957	32365105	0	out_of_scope		
+744839	32411785	0	out_of_scope		
+739306	32411903	0	out_of_scope		
+746915	32438298	0	out_of_scope		
+748176	32454719	0	out_of_scope		
+745309	32809554	0	out_of_scope		
+748061	31836824	0	scored	E102	acceptor_intron
+741151	32364573	0	out_of_scope		
+743904	32517998	0	out_of_scope		
+753533	31134163	0	out_of_scope		
+759945	31134193	0	scored	E180	acceptor_exon
+751554	31146394	0	out_of_scope		
+756370	31147338	0	out_of_scope		
+765985	31147485	0	out_of_scope		
+764694	31209539	0	out_of_scope		
+751606	31478187	0	out_of_scope		
+764519	31478313	0	out_of_scope		
+761205	31774098	0	out_of_scope		
+753228	31968440	0	out_of_scope		
+760518	32287660	0	out_of_scope		
+750807	32346036	0	out_of_scope		
+762160	32348477	0	out_of_scope		
+758487	32365044	0	out_of_scope		
+755818	32365137	0	out_of_scope		
+750865	32380621	0	out_of_scope		
+760938	32389515	0	out_of_scope		
+761383	32390119	0	out_of_scope		
+756603	32411812	0	out_of_scope		
+763306	32411911	0	scored	E073	acceptor_exon
+765680	32441285	0	out_of_scope		
+752669	32454728	0	out_of_scope		
+754803	32454752	0	out_of_scope		
+765759	32464613	0	out_of_scope		
+766230	32472298	0	out_of_scope		
+757047	32501807	0	out_of_scope		
+756556	32501831	0	out_of_scope		
+755514	32545206	0	out_of_scope		
+759370	32573599	0	out_of_scope		
+765161	32573778	0	out_of_scope		
+761902	32573808	0	out_of_scope		
+765291	32644236	0	out_of_scope		
+756632	32644982	0	out_of_scope		
+761790	32645033	0	out_of_scope		
+766423	32809545	0	out_of_scope		
+755448	32809560	0	out_of_scope		
+764311	32844858	0	scored	E024	acceptor_exon
+757246	31147265	0	out_of_scope		
+765642	32448648	0	scored	E068	acceptor_intron
+754112	32849720	0	scored	E022	donor_intron
+756995	31180361	0	out_of_scope		
+763594	32386300	0	out_of_scope		
+765262	32595749	0	scored	E044	donor_intron
+767327	32849721	0	scored	E022	donor_intron
+794664	31206654	0	out_of_scope		
+800110	31223072	0	out_of_scope		
+799619	31627697	0	out_of_scope		
+799290	31679546	0	out_of_scope		
+798699	31875365	0	out_of_scope		
+796562	31968400	0	out_of_scope		
+793994	31968503	0	out_of_scope		
+794492	32346075	0	out_of_scope		
+797588	32365092	0	out_of_scope		
+794188	32390092	0	out_of_scope		
+794680	32441257	0	out_of_scope		
+796810	32468531	0	out_of_scope		
+799963	32468705	0	out_of_scope		
+796908	32545317	0	out_of_scope		
+795045	32565729	0	out_of_scope		
+792691	32565783	0	out_of_scope		
+798094	32573566	0	out_of_scope		
+800138	32573760	0	out_of_scope		
+797931	32644176	0	out_of_scope		
+794788	32644184	0	out_of_scope		
+792514	32816500	0	out_of_scope		
+792581	32816596	0	out_of_scope		
+799074	31729755	0	scored	E107	acceptor_intron
+798411	32823394	0	scored	E025	acceptor_intron
+797586	31836828	0	scored	E102	acceptor_intron
+792567	32816647	0	scored	E028	acceptor_intron
+796624	31173613	0	scored	E163	acceptor_intron
+792575	31932231	0	scored	E096	acceptor_intron
+803786	31169567	1	out_of_scope		
+803787	31173563	1	out_of_scope		
+803789	31178806	1	scored	E153	acceptor_intron
+803790	31180379	1	out_of_scope		
+803792	31182753	1	out_of_scope		
+803796	31182906	1	scored	E149	acceptor_intron
+803801	31206669	1	scored	E145	acceptor_intron
+803802	31209497	1	scored	E144	donor_intron
+803803	31209673	0	out_of_scope		
+803804	31209681	1	out_of_scope		
+803809	31444543	1	out_of_scope		
+803810	31478105	1	scored	E118	donor_intron
+803815	31478299	1	out_of_scope		
+803818	31478376	1	scored	E118	acceptor_intron
+803821	31496875	1	out_of_scope		
+803824	31496945	1	scored	E116	acceptor_intron
+803826	31507372	1	out_of_scope		
+803827	31507393	1	out_of_scope		
+803828	31627744	1	out_of_scope		
+803830	31657989	1	scored	E111	donor_intron
+803831	31679373	1	scored	E109	donor_intron
+803832	31679374	1	scored	E109	donor_intron
+803834	31679530	1	out_of_scope		
+803835	31679542	1	out_of_scope		
+803836	31729727	1	out_of_scope		
+803838	31819974	1	scored	E104	donor_intron
+803837	31819974	1	scored	E104	donor_intron
+803839	31875187	1	scored	E100	donor_intron
+803841	31875257	1	out_of_scope		
+803842	31875258	1	out_of_scope		
+803844	31875374	1	scored	E100	acceptor_intron
+803845	31875375	1	scored	E100	acceptor_intron
+803846	31932082	1	scored	E096	donor_exon
+803847	31932088	1	out_of_scope		
+803849	32216947	1	out_of_scope		
+803851	32216997	1	out_of_scope		
+803852	32216998	1	out_of_scope		
+803855	32310176	1	out_of_scope		
+803858	32343184	1	out_of_scope		
+803859	32343237	1	out_of_scope		
+803863	32362858	1	out_of_scope		
+803864	32362946	1	out_of_scope		
+803865	32364680	1	out_of_scope		
+803866	32365065	1	out_of_scope		
+803868	32380662	1	out_of_scope		
+803870	32380671	1	out_of_scope		
+803871	32386324	1	out_of_scope		
+803874	32389581	1	out_of_scope		
+803875	32389596	1	out_of_scope		
+803876	32389667	1	out_of_scope		
+803878	32390088	1	out_of_scope		
+803881	32390121	1	out_of_scope		
+803885	32441258	1	out_of_scope		
+803886	32441306	1	out_of_scope		
+803887	32448545	1	out_of_scope		
+803890	32454661	1	scored	E067	donor_intron
+803893	32454805	1	out_of_scope		
+803899	32468647	1	out_of_scope		
+803902	32484914	1	scored	E061	donor_intron
+803906	32485080	1	out_of_scope		
+803907	32491276	1	scored	E060	donor_intron
+803910	32491371	0	out_of_scope		
+803912	32491438	1	out_of_scope		
+803913	32491451	1	out_of_scope		
+803916	32501754	1	scored	E059	donor_intron
+803918	32518132	1	scored	E057	acceptor_intron
+803922	32565728	1	out_of_scope		
+803923	32565800	1	out_of_scope		
+803926	32573565	1	out_of_scope		
+803927	32573592	1	out_of_scope		
+803931	32614373	0	out_of_scope		
+803932	32644315	1	scored	E041	acceptor_intron
+803933	32644966	1	scored	E040	donor_exon
+803936	32645115	1	out_of_scope		
+803938	32645153	1	scored	E040	acceptor_intron
+803940	32699121	1	out_of_scope		
+803943	32699250	1	out_of_scope		
+803944	32699277	1	out_of_scope		
+803946	32809570	1	out_of_scope		
+803948	32816545	1	out_of_scope		
+803951	32823850	1	out_of_scope		
+803954	32844851	1	out_of_scope		
+803955	32849822	0	scored	E022	acceptor_intron
+803957	33020138	1	scored	E018	donor_intron
+803961	33211277	1	out_of_scope		
+804333	32491369	1	out_of_scope		
+804746	32464585	1	scored	E065	donor_intron
+804749	33020137	1	scored	E018	donor_intron
+810544	31266811	0	out_of_scope		
+810552	32346030	0	out_of_scope		
+811920	32256572	0	out_of_scope		
+811846	32342096	1	scored	E087	donor_intron
+810974	32348258	0	out_of_scope		
+811341	32364567	0	out_of_scope		
+811554	32412302	0	out_of_scope		
+813446	32342099	1	scored	E087	donor_intron
+817525	31507309	1	out_of_scope		
+828074	32454755	0	out_of_scope		
+845389	31146302	0	out_of_scope		
+851421	31147376	0	out_of_scope		
+846491	31177946	0	out_of_scope		
+854585	31177946	1	out_of_scope		
+858516	31182860	1	out_of_scope		
+838351	31478222	1	out_of_scope		
+851918	31479025	1	out_of_scope		
+852294	31627676	1	out_of_scope		
+834602	31773974	0	out_of_scope		
+838434	31774124	1	out_of_scope		
+846715	31875193	0	out_of_scope		
+856607	31929607	1	out_of_scope		
+864502	31932220	1	out_of_scope		
+862316	31968366	0	out_of_scope		
+864809	32216931	1	out_of_scope		
+848438	32518073	1	out_of_scope		
+859693	32565875	0	out_of_scope		
+837236	32699115	0	out_of_scope		
+840853	32472310	1	scored	E063	acceptor_intron
+845533	32287527	1	scored	E089	donor_intron
+847190	32463596	1	scored	E066	acceptor_intron
+851300	32698000	1	scored	E038	acceptor_intron
+852346	32844862	1	scored	E024	acceptor_intron
+837336	31147273	1	scored	E173	donor_intron
+844999	32699294	1	scored	E036	acceptor_intron
+870594	31932229	1	scored	E096	acceptor_intron
+872763	31729716	0	out_of_scope		
+871125	32380678	0	scored	E077	acceptor_exon
+871126	32438309	1	out_of_scope		
+915101	31119356	0	out_of_scope		
+912398	31120120	0	out_of_scope		
+912399	31120214	0	out_of_scope		
+913517	31120884	0	out_of_scope		
+913898	31121064	0	out_of_scope		
+913900	31121110	0	out_of_scope		
+913901	31121348	0	out_of_scope		
+914621	33211334	0	out_of_scope		
+917478	32389617	1	out_of_scope		
+929015	31209600	1	out_of_scope		
+929016	32348405	1	scored	E082	donor_intron
+932486	31929619	1	out_of_scope		
+949535	31182844	1	out_of_scope		
+945640	31206589	0	out_of_scope		
+952118	32346077	1	out_of_scope		
+952077	32468508	0	out_of_scope		
+947371	32491369	0	out_of_scope		
+951145	32816510	1	out_of_scope		
+935691	31679511	1	out_of_scope		
+941725	31679527	1	out_of_scope		
+938822	31836786	0	out_of_scope		
+936227	32343220	1	out_of_scope		
+937223	32386384	1	out_of_scope		
+934553	32438255	1	out_of_scope		
+938083	32472187	1	out_of_scope		
+943312	32491459	1	out_of_scope		
+939633	32565797	0	out_of_scope		
+933803	32565857	1	out_of_scope		
+936169	32645137	1	out_of_scope		
+951643	31203959	1	scored	E147	donor_intron
+947912	31209493	1	scored	E144	donor_intron
+945133	32468497	1	scored	E064	donor_intron
+959273	31146399	1	out_of_scope		
+964022	32348444	0	out_of_scope		
+958650	32365142	1	out_of_scope		
+954964	32365148	1	out_of_scope		
+965215	31627732	0	out_of_scope		
+971334	31679395	1	out_of_scope		
+967012	31929617	0	out_of_scope		
+965214	32348461	0	out_of_scope		
+966191	32362954	0	out_of_scope		
+972186	32365177	0	out_of_scope		
+970612	32545170	0	out_of_scope		
+965439	32565839	1	out_of_scope		
+964743	32614374	0	out_of_scope		
+969322	32614428	1	out_of_scope		
+966170	32644225	1	out_of_scope		
+967332	32699174	0	out_of_scope		
+953669	31679587	1	scored	E109	acceptor_intron
+953819	32472162	1	scored	E063	donor_intron
+968221	32310282	0	scored	E088	acceptor_intron
+964684	32454660	1	scored	E067	donor_intron
+973532	32645026	1	out_of_scope		
+975106	32699132	1	out_of_scope		
+978050	31479105	1	scored	E117	acceptor_intron
+978345	32310127	0	out_of_scope		
+978757	31121880	0	out_of_scope		
+982037	32438330	1	out_of_scope		
+982294	32386467	1	scored	E076	acceptor_intron
+984094	31146405	1	out_of_scope		
+984095	31147373	1	out_of_scope		
+984096	31204025	1	out_of_scope		
+984097	31209699	1	scored	E144	acceptor_exon
+984098	31444551	1	out_of_scope		
+984213	31478992	1	out_of_scope		
+984214	31496852	1	out_of_scope		
+984215	31507342	1	out_of_scope		
+984216	31657994	1	out_of_scope		
+984217	31679414	1	out_of_scope		
+984218	32216926	1	out_of_scope		
+984219	32287602	1	out_of_scope		
+984220	32287644	1	out_of_scope		
+983654	32287695	1	out_of_scope		
+983655	32342162	1	out_of_scope		
+983656	32342228	1	out_of_scope		
+983657	32348471	1	out_of_scope		
+983658	32364622	1	out_of_scope		
+983659	32364710	1	scored	E080	acceptor_exon
+983660	32365033	1	out_of_scope		
+983942	32365066	1	out_of_scope		
+983943	32386328	1	out_of_scope		
+983944	32386335	1	out_of_scope		
+983945	32389565	1	out_of_scope		
+983946	32390073	1	scored	E074	donor_exon
+983947	32441203	1	out_of_scope		
+983948	32441209	1	out_of_scope		
+984107	32441277	1	out_of_scope		
+984108	32454808	1	out_of_scope		
+984109	32468601	1	out_of_scope		
+984110	32485096	1	out_of_scope		
+984111	32565875	1	out_of_scope		
+984112	32595858	1	out_of_scope		
+984113	32614380	1	out_of_scope		
+984427	32380515	1	out_of_scope		
+984428	32472168	1	out_of_scope		
+984440	32454775	1	out_of_scope		
+984441	32501787	1	out_of_scope		
+984679	32342210	1	out_of_scope		
+984681	31679479	1	out_of_scope		
+984682	32380681	1	scored	E077	acceptor_intron
+989348	32346008	1	out_of_scope		
+989453	32390144	1	out_of_scope		
+991387	32348415	0	out_of_scope		
+993336	31929640	1	out_of_scope		
+993853	32573514	0	out_of_scope		
+994144	32644214	1	out_of_scope		
+996225	31929685	1	out_of_scope		
+996267	32346053	1	out_of_scope		
+1003654	31932138	0	out_of_scope		
+1007648	32343258	0	out_of_scope		
+1000393	32346061	0	out_of_scope		
+999161	32362828	0	out_of_scope		
+1002425	32364574	0	scored	E080	donor_intron
+1001446	32491437	0	out_of_scope		
+1002534	32491515	0	out_of_scope		
+1026802	32346036	0	out_of_scope		
+1022986	32365100	0	out_of_scope		
+1022971	32438345	0	out_of_scope		
+1025152	32484998	0	out_of_scope		
+1022742	32823326	0	out_of_scope		
+1046109	31146397	0	out_of_scope		
+1037974	31209578	0	out_of_scope		
+1035333	32545324	0	out_of_scope		
+1051975	32343201	0	out_of_scope		
+1056252	32380625	0	out_of_scope		
+1056480	32545319	0	out_of_scope		
+1055926	32823341	0	out_of_scope		
+1064632	32573525	1	scored	E050	donor_intron
+1067593	31261018	1	scored	E137	acceptor_intron
+1068103	31323593	1	scored	E123	donor_intron
+1066543	32645154	1	scored	E040	acceptor_intron
+1067707	32699112	1	scored	E036	donor_exon
+1075347	31169571	1	out_of_scope		
+1072908	31209646	1	out_of_scope		
+1071899	31478298	1	out_of_scope		
+1071900	31496844	1	out_of_scope		
+1075853	31496914	1	out_of_scope		
+1071901	31496919	1	out_of_scope		
+1071903	31679425	1	out_of_scope		
+1072778	31875375	1	scored	E100	acceptor_intron
+1072046	31932165	1	out_of_scope		
+1072763	32287565	1	out_of_scope		
+1076848	32287673	1	out_of_scope		
+1069895	32348450	1	out_of_scope		
+1071902	32365181	1	out_of_scope		
+1069896	32380578	1	out_of_scope		
+1071576	32389499	1	scored	E075	donor_intron
+1075942	32389635	1	out_of_scope		
+1074767	32411814	1	out_of_scope		
+1075943	32411838	1	out_of_scope		
+1070053	32454754	1	out_of_scope		
+1069390	32463445	1	out_of_scope		
+1071406	32468572	1	out_of_scope		
+1070054	32468666	1	out_of_scope		
+1073408	32472196	1	out_of_scope		
+1073002	32485027	1	out_of_scope		
+1072121	32491294	1	out_of_scope		
+1072122	32491378	1	out_of_scope		
+1072123	32501782	1	out_of_scope		
+1074008	32565733	1	out_of_scope		
+1074010	32573621	1	out_of_scope		
+1070671	32573753	1	out_of_scope		
+1072276	32573848	1	scored	E047	acceptor_intron
+1074009	32614446	1	out_of_scope		
+1071092	32644223	1	out_of_scope		
+1073030	32699153	1	out_of_scope		
+1071032	32809574	1	out_of_scope		
+1072628	32816610	1	out_of_scope		
+1072167	32849822	1	scored	E022	acceptor_intron
+1070319	33211281	1	out_of_scope		
+1094153	31134092	0	out_of_scope		
+1095948	31134121	0	out_of_scope		
+1085793	31134124	0	out_of_scope		
+1091870	31147422	0	out_of_scope		
+1081486	31147431	0	out_of_scope		
+1086701	31169568	0	out_of_scope		
+1081054	31173529	0	out_of_scope		
+1082307	31178800	0	out_of_scope		
+1082467	31178803	0	scored	E153	acceptor_exon
+1088738	31178814	0	scored	E153	acceptor_intron
+1087595	31180490	0	scored	E151	acceptor_intron
+1097383	31204069	0	out_of_scope		
+1090137	31206628	0	out_of_scope		
+1078075	31209608	0	out_of_scope		
+1077325	31261007	0	out_of_scope		
+1083338	31348578	0	out_of_scope		
+1080108	31348593	0	out_of_scope		
+1083104	31478235	0	out_of_scope		
+1095401	31478349	0	out_of_scope		
+1088930	31479050	0	out_of_scope		
+1096650	31496780	0	scored	E116	donor_intron
+1077630	31496800	0	out_of_scope		
+1091432	31496824	0	out_of_scope		
+1079535	31496833	0	out_of_scope		
+1097062	31496881	0	out_of_scope		
+1093919	31496895	0	out_of_scope		
+1089471	31496911	0	out_of_scope		
+1092891	31507431	0	out_of_scope		
+1085136	31657995	0	out_of_scope		
+1095420	31658010	0	out_of_scope		
+1082010	31658136	0	out_of_scope		
+1086724	31679432	0	out_of_scope		
+1083306	31679567	0	out_of_scope		
+1097990	31729671	0	out_of_scope		
+1080518	31773982	0	out_of_scope		
+1082362	31774040	0	out_of_scope		
+1093762	31774110	0	out_of_scope		
+1084059	31820038	0	out_of_scope		
+1096454	31836721	0	out_of_scope		
+1098170	31929730	0	out_of_scope		
+1087848	31929737	0	out_of_scope		
+1081396	31932143	0	out_of_scope		
+1088361	31932194	0	out_of_scope		
+1090720	32217021	0	out_of_scope		
+1093760	32287534	0	out_of_scope		
+1090542	32287570	0	out_of_scope		
+1077738	32287645	0	out_of_scope		
+1096674	32287654	0	out_of_scope		
+1081944	32310074	0	scored	E088	donor_intron
+1089707	32342199	0	out_of_scope		
+1096352	32342241	0	out_of_scope		
+1079035	32343158	0	out_of_scope		
+1090494	32343170	0	out_of_scope		
+1077333	32343176	0	out_of_scope		
+1089177	32343260	0	out_of_scope		
+1091100	32346066	0	out_of_scope		
+1098090	32348502	0	out_of_scope		
+1095626	32348523	0	out_of_scope		
+1096794	32362778	0	out_of_scope		
+1092406	32362851	0	out_of_scope		
+1087607	32362875	0	out_of_scope		
+1079403	32362917	0	out_of_scope		
+1095912	32364597	0	out_of_scope		
+1090004	32364621	0	out_of_scope		
+1080057	32364624	0	out_of_scope		
+1079974	32364681	0	out_of_scope		
+1084135	32380663	0	out_of_scope		
+1081223	32386370	0	out_of_scope		
+1080938	32389660	0	out_of_scope		
+1097399	32390116	0	out_of_scope		
+1086246	32411782	0	out_of_scope		
+1083603	32411839	0	out_of_scope		
+1097987	32411894	0	out_of_scope		
+1083422	32438313	0	out_of_scope		
+1088651	32441225	0	out_of_scope		
+1085517	32441282	0	out_of_scope		
+1085069	32441312	0	scored	E070	acceptor_exon
+1085329	32448501	0	out_of_scope		
+1086886	32463451	0	out_of_scope		
+1089663	32463553	0	out_of_scope		
+1087403	32464685	0	out_of_scope		
+1091029	32464706	0	scored	E065	acceptor_intron
+1086592	32472155	0	out_of_scope		
+1097438	32472224	0	out_of_scope		
+1093111	32472302	0	out_of_scope		
+1091243	32484950	0	out_of_scope		
+1084611	32485028	0	out_of_scope		
+1078616	32491268	0	out_of_scope		
+1094383	32491475	0	out_of_scope		
+1093779	32501767	0	out_of_scope		
+1078912	32501833	0	out_of_scope		
+1091775	32518029	0	out_of_scope		
+1089294	32518077	0	out_of_scope		
+1089393	32545203	0	out_of_scope		
+1082585	32545266	0	out_of_scope		
+1084599	32573575	0	out_of_scope		
+1093681	32573823	0	out_of_scope		
+1079624	32573841	0	out_of_scope		
+1087673	32595829	0	out_of_scope		
+1079725	32614354	0	out_of_scope		
+1080432	32614414	0	out_of_scope		
+1093611	32614450	0	out_of_scope		
+1089101	32644125	0	scored	E041	donor_intron
+1096292	32644152	0	out_of_scope		
+1079692	32644155	0	out_of_scope		
+1079052	32644249	0	out_of_scope		
+1084019	32645090	0	out_of_scope		
+1092146	32645126	0	out_of_scope		
+1095573	32697924	0	out_of_scope		
+1096507	32699259	0	out_of_scope		
+1086725	32699283	0	out_of_scope		
+1085051	32816482	0	out_of_scope		
+1081481	32816565	0	out_of_scope		
+1094885	32816578	0	out_of_scope		
+1091448	32816593	0	out_of_scope		
+1087030	32816602	0	out_of_scope		
+1088569	32844775	0	scored	E024	donor_intron
+1094318	32844801	0	out_of_scope		
+1088549	33020172	0	out_of_scope		
+1098086	33211292	0	out_of_scope		
+1113252	31147316	0	off_reference	E172	donor_intron
+1117663	31147386	0	out_of_scope		
+1115394	31169544	0	out_of_scope		
+1099570	31178749	0	out_of_scope		
+1103823	31180379	0	out_of_scope		
+1118963	31182752	0	out_of_scope		
+1103040	31204078	0	out_of_scope		
+1103442	31223125	0	scored	E142	acceptor_intron
+1117445	31261013	0	out_of_scope		
+1115094	31261024	0	scored	E137	acceptor_intron
+1109348	31348587	0	out_of_scope		
+1112937	31444490	0	out_of_scope		
+1109529	31478118	0	out_of_scope		
+1113895	31478262	0	out_of_scope		
+1119120	31478301	0	out_of_scope		
+1099636	31478367	0	out_of_scope		
+1114923	31496839	0	out_of_scope		
+1116085	31496952	0	scored	E116	acceptor_intron
+1113859	31496953	0	scored	E116	acceptor_intron
+1116703	31507286	0	out_of_scope		
+1099621	31507451	0	scored	E115	acceptor_exon
+1111333	31627804	0	out_of_scope		
+1116463	31658055	0	out_of_scope		
+1100487	31658088	0	out_of_scope		
+1101280	31679441	0	out_of_scope		
+1105217	31679524	0	out_of_scope		
+1118916	31679525	0	out_of_scope		
+1099185	31729689	0	out_of_scope		
+1115005	31819967	0	scored	E104	donor_intron
+1105512	31929662	0	out_of_scope		
+1119005	31929677	0	out_of_scope		
+1118002	32216961	0	out_of_scope		
+1116644	32217067	0	scored	E090	acceptor_intron
+1115107	32310181	0	out_of_scope		
+1115920	32310283	0	scored	E088	acceptor_intron
+1101277	32342090	0	out_of_scope		
+1109604	32343196	0	out_of_scope		
+1107864	32348535	0	scored	E082	acceptor_intron
+1116761	32362824	0	out_of_scope		
+1100903	32364666	0	out_of_scope		
+1105583	32365047	0	out_of_scope		
+1103490	32365059	0	out_of_scope		
+1101978	32386301	0	out_of_scope		
+1106910	32389563	0	out_of_scope		
+1110066	32390131	0	out_of_scope		
+1108401	32411827	0	out_of_scope		
+1116561	32411895	0	out_of_scope		
+1110844	32411896	0	out_of_scope		
+1114542	32411917	0	scored	E073	acceptor_intron
+1117843	32438233	0	scored	E071	donor_intron
+1109437	32438382	0	out_of_scope		
+1100209	32441210	0	out_of_scope		
+1112159	32463484	0	out_of_scope		
+1107850	32463520	0	out_of_scope		
+1102401	32464616	0	out_of_scope		
+1110514	32468493	0	scored	E064	donor_intron
+1101694	32468552	0	out_of_scope		
+1111635	32468558	0	out_of_scope		
+1105426	32468567	0	out_of_scope		
+1109223	32468594	0	out_of_scope		
+1117910	32472239	0	out_of_scope		
+1112220	32472272	0	out_of_scope		
+1111316	32484953	0	out_of_scope		
+1113342	32485001	0	out_of_scope		
+1118251	32491320	0	out_of_scope		
+1107888	32491487	0	out_of_scope		
+1108828	32501768	0	out_of_scope		
+1105645	32501804	0	out_of_scope		
+1106709	32518086	0	out_of_scope		
+1100139	32518139	0	scored	E057	acceptor_intron
+1105862	32545191	0	out_of_scope		
+1114979	32565729	0	out_of_scope		
+1101640	32565747	0	out_of_scope		
+1111696	32565834	0	out_of_scope		
+1101937	32565837	0	out_of_scope		
+1115889	32565870	0	out_of_scope		
+1108763	32565887	0	scored	E053	acceptor_intron
+1105978	32595814	0	out_of_scope		
+1114758	32614321	0	out_of_scope		
+1104317	32644224	0	out_of_scope		
+1100659	32644266	0	out_of_scope		
+1105546	32645120	0	out_of_scope		
+1107845	32697862	0	scored	E038	donor_intron
+1113045	32697978	0	out_of_scope		
+1107954	32699103	0	out_of_scope		
+1107608	32699199	0	out_of_scope		
+1112741	32809509	0	out_of_scope		
+1100004	32809587	0	out_of_scope		
+1106527	32816533	0	out_of_scope		
+1119608	32816617	0	out_of_scope		
+1113674	32844827	0	out_of_scope		
+1101289	32849752	0	out_of_scope		
+1118016	32849782	0	out_of_scope		
+1133846	31126633	0	out_of_scope		
+1127663	31146334	0	out_of_scope		
+1130249	31146412	0	scored	E176	acceptor_exon
+1122887	31147453	0	out_of_scope		
+1132316	31147500	0	out_of_scope		
+1137205	31147512	0	out_of_scope		
+1128282	31147526	0	ambiguous		
+1139288	31169544	0	out_of_scope		
+1138431	31173559	0	out_of_scope		
+1125022	31173601	0	out_of_scope		
+1123211	31178731	0	out_of_scope		
+1129743	31180442	0	out_of_scope		
+1133839	31182827	0	out_of_scope		
+1134806	31204012	0	out_of_scope		
+1134576	31209512	0	out_of_scope		
+1134181	31209557	0	out_of_scope		
+1135557	31209620	0	out_of_scope		
+1131572	31209638	0	out_of_scope		
+1127324	31260959	0	out_of_scope		
+1121519	31260983	0	out_of_scope		
+1130641	31261025	0	scored	E137	acceptor_intron
+1120659	31348611	0	out_of_scope		
+1132903	31444525	0	out_of_scope		
+1136875	31444568	0	out_of_scope		
+1135513	31478199	0	out_of_scope		
+1125193	31478343	0	out_of_scope		
+1137881	31478381	0	scored	E118	acceptor_intron
+1126095	31479002	0	out_of_scope		
+1130419	31496806	0	out_of_scope		
+1132365	31496842	0	out_of_scope		
+1127289	31507375	0	out_of_scope		
+1141008	31627819	0	out_of_scope		
+1130235	31679381	0	out_of_scope		
+1130401	31679384	0	out_of_scope		
+1132005	31729712	0	out_of_scope		
+1129495	31774002	0	out_of_scope		
+1131993	31774089	0	out_of_scope		
+1129759	31774161	0	out_of_scope		
+1138784	31774167	0	out_of_scope		
+1125063	31819966	0	out_of_scope		
+1124281	31836825	0	scored	E102	acceptor_intron
+1137500	31875203	0	out_of_scope		
+1138429	31875278	0	out_of_scope		
+1122086	31875382	0	scored	E100	acceptor_intron
+1132322	31932104	0	out_of_scope		
+1127388	31932179	0	out_of_scope		
+1124194	31932203	0	out_of_scope		
+1127130	31968461	0	out_of_scope		
+1124771	31968470	0	out_of_scope		
+1137620	32217035	0	out_of_scope		
+1123636	32287657	0	out_of_scope		
+1130659	32310256	0	out_of_scope		
+1136524	32342179	0	out_of_scope		
+1134815	32342259	0	out_of_scope		
+1131270	32343230	0	out_of_scope		
+1124085	32343294	0	scored	E085	acceptor_intron
+1124639	32346020	0	out_of_scope		
+1138489	32362815	0	out_of_scope		
+1124884	32365103	0	out_of_scope		
+1127320	32365140	0	out_of_scope		
+1139143	32365146	0	out_of_scope		
+1120613	32380557	0	out_of_scope		
+1127509	32380566	0	out_of_scope		
+1134967	32380575	0	out_of_scope		
+1120974	32380689	0	scored	E077	acceptor_intron
+1125897	32386451	0	out_of_scope		
+1120646	32390074	0	out_of_scope		
+1133549	32390152	0	out_of_scope		
+1125510	32390167	0	out_of_scope		
+1135213	32411764	0	out_of_scope		
+1131290	32411863	0	out_of_scope		
+1134449	32438370	0	out_of_scope		
+1128857	32441309	0	out_of_scope		
+1132690	32441321	0	scored	E070	acceptor_intron
+1140559	32463431	0	scored	E066	donor_intron
+1128402	32464619	0	out_of_scope		
+1125827	32468555	0	out_of_scope		
+1123842	32468693	0	out_of_scope		
+1136590	32468714	0	scored	E064	acceptor_intron
+1127886	32472318	0	scored	E063	acceptor_intron
+1136248	32485057	0	out_of_scope		
+1126297	32491328	0	out_of_scope		
+1136163	32491331	0	out_of_scope		
+1124008	32518104	0	out_of_scope		
+1138043	32545194	0	out_of_scope		
+1136846	32545245	0	out_of_scope		
+1124161	32565705	0	out_of_scope		
+1139337	32573805	0	out_of_scope		
+1138531	32573820	0	out_of_scope		
+1122711	32595760	0	out_of_scope		
+1132771	32595823	0	out_of_scope		
+1138853	32595874	0	scored	E044	acceptor_exon
+1132333	32644122	0	out_of_scope		
+1128448	32644164	0	out_of_scope		
+1133070	32644224	0	out_of_scope		
+1125679	32644967	0	out_of_scope		
+1125457	32697954	0	out_of_scope		
+1123596	32697990	0	out_of_scope		
+1132573	32698002	0	scored	E038	acceptor_intron
+1120383	32699133	0	out_of_scope		
+1127411	32699262	0	out_of_scope		
+1131981	32809620	0	scored	E030	acceptor_intron
+1121195	32816527	0	out_of_scope		
+1123151	32816551	0	out_of_scope		
+1138514	32816575	0	out_of_scope		
+1131158	32844773	0	out_of_scope		
+1121086	32844789	0	out_of_scope		
+1133059	32844806	0	out_of_scope		
+1122064	32849779	0	out_of_scope		
+1132603	32849784	0	out_of_scope		
+1160748	31121925	0	out_of_scope		
+1155536	31134148	0	out_of_scope		
+1147980	31146424	0	scored	E176	acceptor_intron
+1162043	31147314	0	off_reference	E172	donor_intron
+1142439	31147329	0	out_of_scope		
+1142080	31147419	0	out_of_scope		
+1146722	31147512	0	out_of_scope		
+1159014	31169562	0	out_of_scope		
+1148619	31173544	0	out_of_scope		
+1141993	31178689	0	out_of_scope		
+1154467	31178713	0	out_of_scope		
+1143885	31180451	0	out_of_scope		
+1141898	31182824	0	out_of_scope		
+1141992	31182833	0	out_of_scope		
+1156979	31203953	0	scored	E147	donor_intron
+1141556	31203982	0	out_of_scope		
+1160015	31444471	0	out_of_scope		
+1159327	31478099	0	scored	E118	donor_intron
+1158581	31478181	0	out_of_scope		
+1159559	31478207	0	out_of_scope		
+1146535	31478370	0	out_of_scope		
+1142420	31478382	0	scored	E118	acceptor_intron
+1143758	31496794	0	out_of_scope		
+1144236	31507379	0	out_of_scope		
+1145914	31627717	0	out_of_scope		
+1149882	31658010	0	out_of_scope		
+1151036	31658040	0	out_of_scope		
+1152974	31658148	0	scored	E111	acceptor_intron
+1157675	31679432	0	out_of_scope		
+1149879	31679536	0	out_of_scope		
+1161496	31679590	0	scored	E109	acceptor_intron
+1152996	31729622	0	out_of_scope		
+1143708	31774008	0	out_of_scope		
+1142816	31774095	0	out_of_scope		
+1145285	31774116	0	out_of_scope		
+1149687	31774164	0	out_of_scope		
+1154903	31875268	0	out_of_scope		
+1141916	31929653	0	out_of_scope		
+1144655	31932101	0	out_of_scope		
+1142364	31968431	0	out_of_scope		
+1147389	31968458	0	out_of_scope		
+1144745	31968469	0	out_of_scope		
+1158402	31968521	0	scored	E092	acceptor_intron
+1150506	32216949	0	out_of_scope		
+1143474	32216967	0	out_of_scope		
+1149058	32310208	0	out_of_scope		
+1146761	32310208	0	out_of_scope		
+1158720	32342122	0	out_of_scope		
+1149949	32342268	0	out_of_scope		
+1161645	32346000	0	out_of_scope		
+1143285	32346086	0	scored	E084	acceptor_intron
+1157267	32348523	0	out_of_scope		
+1156821	32364591	0	out_of_scope		
+1151059	32365121	0	out_of_scope		
+1152026	32365167	0	out_of_scope		
+1154159	32386349	0	out_of_scope		
+1154526	32390104	0	out_of_scope		
+1154454	32390149	0	out_of_scope		
+1158330	32411788	0	out_of_scope		
+1143874	32411854	0	out_of_scope		
+1152921	32441201	0	out_of_scope		
+1159011	32441210	0	out_of_scope		
+1142473	32441323	0	scored	E070	acceptor_intron
+1144400	32448552	0	out_of_scope		
+1161236	32454734	0	out_of_scope		
+1147628	32454839	0	scored	E067	acceptor_intron
+1157175	32463466	0	out_of_scope		
+1152747	32463598	0	scored	E066	acceptor_intron
+1146880	32464610	0	out_of_scope		
+1154644	32464707	0	scored	E065	acceptor_intron
+1142419	32468564	0	out_of_scope		
+1143892	32472220	0	out_of_scope		
+1144014	32472263	0	out_of_scope		
+1145494	32491280	0	out_of_scope		
+1152041	32491415	0	out_of_scope		
+1150484	32501792	0	out_of_scope		
+1159244	32501798	0	out_of_scope		
+1160875	32565771	0	out_of_scope		
+1158374	32565813	0	out_of_scope		
+1157388	32565864	0	out_of_scope		
+1143122	32573523	0	scored	E050	donor_intron
+1144170	32595853	0	out_of_scope		
+1145583	32614327	0	out_of_scope		
+1141430	32614329	0	out_of_scope		
+1152027	32614375	0	out_of_scope		
+1161644	32614429	0	out_of_scope		
+1152214	32614447	0	out_of_scope		
+1155003	32644308	0	out_of_scope		
+1155262	32645009	0	out_of_scope		
+1150978	32650983	0	out_of_scope		
+1150957	32697860	0	out_of_scope		
+1160070	32697945	0	out_of_scope		
+1152827	32697993	0	out_of_scope		
+1144929	32699241	0	out_of_scope		
+1158719	32809503	0	out_of_scope		
+1161799	32809532	0	out_of_scope		
+1146395	32816584	0	out_of_scope		
+1158754	32816638	0	scored	E028	acceptor_exon
+1157511	32823319	0	out_of_scope		
+1151091	32823358	0	out_of_scope		
+1147031	32849755	0	out_of_scope		
+1167778	31178732	0	out_of_scope		
+1168468	31348548	0	scored	E122	donor_intron
+1169246	31507364	0	out_of_scope		
+1167950	31627838	0	out_of_scope		
+1169990	31727368	0	out_of_scope		
+1167123	31929671	0	out_of_scope		
+1170775	31968351	0	out_of_scope		
+1168395	31968491	0	out_of_scope		
+1166934	32346019	0	out_of_scope		
+1167642	32348397	0	out_of_scope		
+1164834	32364588	0	out_of_scope		
+1169178	32365032	0	out_of_scope		
+1170066	32454769	0	out_of_scope		
+1170272	32464589	0	out_of_scope		
+1168925	32464680	0	out_of_scope		
+1167468	32468583	0	out_of_scope		
+1164629	32472167	0	out_of_scope		
+1168407	32491268	0	out_of_scope		
+1167083	32491379	0	out_of_scope		
+1168674	32573600	0	out_of_scope		
+1169991	32582611	0	out_of_scope		
+1165206	32614452	0	scored	E043	acceptor_exon
+1169509	32644140	0	out_of_scope		
+1170766	32699265	0	out_of_scope		
+1165492	32738868	0	out_of_scope		
+1169373	32809563	0	out_of_scope		
+1168436	32823397	0	scored	E025	acceptor_intron
+1175139	32545148	0	out_of_scope		
+1175617	32452749	0	out_of_scope		
+1175560	32460859	0	out_of_scope		
+1177491	32441212	0	out_of_scope		
+1178733	32389464	0	out_of_scope		
+1179899	31679088	0	out_of_scope		
+1180303	31875139	0	out_of_scope		
+1180147	32738682	0	out_of_scope		
+1180800	31968377	1	out_of_scope		
+1180603	32346026	1	out_of_scope		
+1180608	32386341	1	out_of_scope		
+1180846	32485024	1	out_of_scope		
+1180642	32491315	1	out_of_scope		
+1181536	31180661	0	out_of_scope		
+1187439	31178882	0	out_of_scope		
+1188310	31679647	0	out_of_scope		
+1186298	31879154	0	out_of_scope		
+1186160	31965215	0	out_of_scope		
+1186692	32389713	0	out_of_scope		
+1186724	32472396	0	out_of_scope		
+1187442	32596109	0	out_of_scope		
+1186915	32816720	0	out_of_scope		
+1190595	31180029	0	out_of_scope		
+1190790	31180624	0	out_of_scope		
+1191191	32362632	0	out_of_scope		
+1189207	32442337	0	out_of_scope		
+1190865	32461702	0	out_of_scope		
+1190497	32464700	1	scored	E065	acceptor_intron
+1190179	32518283	0	out_of_scope		
+1190717	32565481	0	out_of_scope		
+1191957	32698135	0	out_of_scope		
+1189170	32816594	0	out_of_scope		
+1192503	31180482	1	scored	E151	acceptor_intron
+1194343	31147059	0	out_of_scope		
+1193197	31172116	0	out_of_scope		
+1195820	31968143	0	out_of_scope		
+1194150	32389274	0	out_of_scope		
+1194116	32448185	0	out_of_scope		
+1193004	32565919	0	out_of_scope		
+1193962	32595649	0	out_of_scope		
+1194912	32596086	0	out_of_scope		
+1194328	32651372	0	out_of_scope		
+1193459	33020383	0	out_of_scope		
+1196103	31147484	1	out_of_scope		
+1199008	31207991	0	out_of_scope		
+1196446	31348518	0	out_of_scope		
+1197329	31820115	0	out_of_scope		
+1196034	31879194	0	out_of_scope		
+1196525	31964766	0	out_of_scope		
+1199131	32346354	0	out_of_scope		
+1198563	32463403	0	out_of_scope		
+1196711	32472027	0	out_of_scope		
+1196794	32698985	0	out_of_scope		
+1200779	31657736	0	out_of_scope		
+1200015	32452395	0	out_of_scope		
+1200221	32463825	0	out_of_scope		
+1199700	32472505	0	out_of_scope		
+1199937	32698829	0	out_of_scope		
+1201112	32699017	0	out_of_scope		
+1200214	32823433	0	out_of_scope		
+1204213	31147233	0	out_of_scope		
+1205465	32364755	0	out_of_scope		
+1205673	32386239	0	out_of_scope		
+1205160	32472629	0	out_of_scope		
+1203299	32573361	0	out_of_scope		
+1205077	32614063	0	out_of_scope		
+1203504	32809287	0	out_of_scope		
+1207406	31364331	0	out_of_scope		
+1207573	32345891	0	out_of_scope		
+1208439	32448233	0	out_of_scope		
+1207231	32454728	0	out_of_scope		
+1207696	33014646	0	out_of_scope		
+1211030	32485368	0	out_of_scope		
+1211141	32573247	0	out_of_scope		
+1211268	31679857	0	out_of_scope		
+1211379	32310560	0	out_of_scope		
+1211680	32501708	0	out_of_scope		
+1212252	32348900	0	out_of_scope		
+1212670	31968552	0	out_of_scope		
+1212876	32412495	0	out_of_scope		
+1213207	31323593	1	scored	E123	donor_intron
+1213220	32643929	0	out_of_scope		
+1215111	31172680	0	out_of_scope		
+1215350	32699383	0	out_of_scope		
+1215745	32518437	0	out_of_scope		
+1215762	32472003	0	out_of_scope		
+1215792	32849932	0	out_of_scope		
+1216661	33014484	0	out_of_scope		
+1216671	32698057	0	out_of_scope		
+1217511	32348786	0	out_of_scope		
+1217739	32464368	0	out_of_scope		
+1218163	32386477	0	scored	E076	acceptor_intron
+1218354	31261417	0	out_of_scope		
+1218818	32389377	0	out_of_scope		
+1219163	32645276	0	out_of_scope		
+1219183	31177881	0	out_of_scope		
+1219379	31477908	0	out_of_scope		
+1220107	31204182	0	out_of_scope		
+1221597	32463402	0	out_of_scope		
+1223526	31879219	0	out_of_scope		
+1223937	32348237	0	out_of_scope		
+1227759	32464736	0	out_of_scope		
+1225600	32452328	0	out_of_scope		
+1228187	32485132	0	out_of_scope		
+1232216	31146585	0	out_of_scope		
+1229762	32738700	0	out_of_scope		
+1229817	32343106	0	out_of_scope		
+1229959	31208524	0	out_of_scope		
+1231783	32438212	0	out_of_scope		
+1231300	31478459	0	out_of_scope		
+1229038	32386132	0	out_of_scope		
+1234997	32386270	0	out_of_scope		
+1235006	32484752	0	out_of_scope		
+1233105	32343095	0	out_of_scope		
+1234499	32573895	0	out_of_scope		
+1232596	31208253	0	out_of_scope		
+1236047	32406779	0	out_of_scope		
+1235517	32411938	0	out_of_scope		
+1235734	32438431	0	out_of_scope		
+1236866	31836665	0	out_of_scope		
+1238777	31819799	0	out_of_scope		
+1239469	31178621	0	out_of_scope		
+1241103	31147784	0	out_of_scope		
+1243452	32651255	0	out_of_scope		
+1247470	31479352	0	out_of_scope		
+1247686	32738673	0	out_of_scope		
+1251566	32651165	0	out_of_scope		
+1251774	31496768	0	out_of_scope		
+1249435	32644094	0	out_of_scope		
+1249574	31260299	0	out_of_scope		
+1252698	32438594	0	out_of_scope		
+1252902	32452334	0	out_of_scope		
+1254342	32441034	0	out_of_scope		
+1255256	31657945	0	out_of_scope		
+1257579	31169779	0	out_of_scope		
+1263300	32738686	0	out_of_scope		
+1262215	31657969	0	out_of_scope		
+1262290	31931896	0	out_of_scope		
+1262355	31172319	0	out_of_scope		
+1263976	31323706	0	out_of_scope		
+1267252	32386601	0	out_of_scope		
+1267361	32738683	0	out_of_scope		
+1265001	32342349	0	out_of_scope		
+1266713	33283876	0	out_of_scope		
+1266869	32363021	0	out_of_scope		
+1266160	31479252	0	out_of_scope		
+1265832	32472037	0	out_of_scope		
+1265975	32412386	0	out_of_scope		
+1272019	32472127	0	out_of_scope		
+1271391	31208197	0	out_of_scope		
+1271572	32345901	0	out_of_scope		
+1269108	31126602	0	out_of_scope		
+1269331	32643910	0	out_of_scope		
+1270844	31820098	0	scored	E104	acceptor_intron
+1271236	32390043	0	out_of_scope		
+1272412	32595948	0	out_of_scope		
+1275601	31508235	0	out_of_scope		
+1273763	32310059	0	out_of_scope		
+1277239	32342824	0	out_of_scope		
+1279170	32342916	0	out_of_scope		
+1279956	32343095	0	out_of_scope		
+1282365	31206554	0	out_of_scope		
+1282464	31204276	0	out_of_scope		
+1282514	33020418	0	out_of_scope		
+1283848	31206934	0	out_of_scope		
+1285789	31364337	0	out_of_scope		
+1286064	31260905	0	out_of_scope		
+1288035	32441950	0	out_of_scope		
+1289021	31209747	0	out_of_scope		
+1289655	32463624	0	out_of_scope		
+1289779	32364769	0	out_of_scope		
+1290162	32738679	0	out_of_scope		
+1290397	31879235	0	out_of_scope		
+1290934	32454631	0	out_of_scope		
+1291274	31173472	0	out_of_scope		
+1291283	31932285	0	out_of_scope		
+1291291	31261623	0	out_of_scope		
+1291477	32287844	0	out_of_scope		
+1291594	31147544	0	out_of_scope		
+1291903	31180560	0	out_of_scope		
+1292849	32454869	0	out_of_scope		
+1294300	31223240	0	out_of_scope		
+1294313	32390032	0	out_of_scope		
+1297274	31627904	0	out_of_scope		
+1297683	32545164	0	out_of_scope		
+1298000	32380343	0	out_of_scope		
+1299643	33020161	1	out_of_scope		
+1299654	32823388	1	scored	E025	acceptor_intron
+1300962	32364981	0	out_of_scope		
+1301350	32565735	0	out_of_scope		
+1314981	32390042	0	out_of_scope		
+1319977	32343241	1	out_of_scope		
+3768149	32816467	1	scored	E028	donor_intron
+2588890	32823339	1	out_of_scope		
+1322213	32697923	1	out_of_scope		
+1322214	32645080	1	out_of_scope		
+1322216	32645081	1	out_of_scope		
+1322224	32565851	1	out_of_scope		
+1322228	32518133	1	scored	E057	acceptor_intron
+2631358	32501844	1	scored	E059	acceptor_intron
+4294028	32501843	1	scored	E059	acceptor_intron
+1322237	32472240	1	out_of_scope		
+4710687	32463534	1	out_of_scope		
+2737163	32463567	1	out_of_scope		
+1322243	31260992	1	out_of_scope		
+4710669	31323640	1	out_of_scope		
+1322249	31348610	1	out_of_scope		
+4532188	31444493	1	out_of_scope		
+1322265	32454709	1	out_of_scope		
+3381849	32343236	1	out_of_scope		
+4737668	31774184	1	out_of_scope		
+1322300	31875313	1	out_of_scope		
+1322307	31679497	1	out_of_scope		
+1322311	31627675	1	scored	E112	donor_exon
+2501294	31507447	1	out_of_scope		
+1322317	32573767	1	out_of_scope		
+1322318	31182905	1	scored	E149	acceptor_intron
+1322319	32816641	1	scored	E028	acceptor_intron
+1322321	32697869	1	scored	E038	donor_intron
+1322322	32464585	1	scored	E065	donor_intron
+1322326	32823298	1	out_of_scope		
+1322328	32699117	1	out_of_scope		
+3910014	32699242	1	out_of_scope		
+2884100	32644286	1	out_of_scope		
+1322337	32644262	1	out_of_scope		
+4710699	32644981	1	out_of_scope		
+1322339	32614356	1	out_of_scope		
+1322340	32614410	1	out_of_scope		
+1322342	32699198	1	out_of_scope		
+2737175	32595795	1	out_of_scope		
+1322345	32697927	1	out_of_scope		
+3724176	32545229	1	out_of_scope		
+3362469	32545158	1	scored	E055	donor_intron
+1322351	32565766	1	out_of_scope		
+1322352	32518024	1	out_of_scope		
+2737170	32501836	1	out_of_scope		
+3724174	32518087	1	out_of_scope		
+1322358	32501770	1	out_of_scope		
+1322359	32485053	1	out_of_scope		
+1322363	32468524	1	out_of_scope		
+1322364	32463441	1	scored	E066	donor_exon
+1322366	32448620	1	out_of_scope		
+4949571	32411901	1	out_of_scope		
+1322380	32348456	1	out_of_scope		
+4487371	32472166	1	scored	E063	donor_exon
+1322386	32468686	1	out_of_scope		
+1322392	32389500	1	scored	E075	donor_intron
+1322393	32287533	1	out_of_scope		
+2737153	32343227	1	out_of_scope		
+1322400	31875211	1	out_of_scope		
+2737145	31774065	1	out_of_scope		
+2737147	31932121	1	out_of_scope		
+1322431	32485080	1	out_of_scope		
+1322437	32342144	1	out_of_scope		
+4949555	32342129	1	out_of_scope		
+1322444	32287683	1	out_of_scope		
+3391814	32380508	1	scored	E077	donor_intron
+1322451	32346081	1	scored	E084	acceptor_intron
+1322455	31968361	1	out_of_scope		
+3340709	32343227	1	out_of_scope		
+2674869	31679392	1	out_of_scope		
+4710672	31627714	1	out_of_scope		
+2737142	31478351	1	out_of_scope		
+1322465	31496852	1	out_of_scope		
+1322468	31729706	1	out_of_scope		
+1322477	31182883	1	out_of_scope		
+1322482	32441251	1	out_of_scope		
+1322486	32816604	1	out_of_scope		
+4710706	32823299	1	out_of_scope		
+4710702	32809491	1	scored	E030	donor_intron
+1322491	32699234	1	out_of_scope		
+1322493	32644196	1	out_of_scope		
+2737177	32644256	1	out_of_scope		
+1322497	32644962	1	scored	E040	donor_intron
+2737174	32573559	1	out_of_scope		
+3338844	32573615	1	out_of_scope		
+1322507	32573744	1	scored	E047	donor_intron
+2737172	32518006	1	scored	E057	donor_intron
+1322510	32501755	1	scored	E059	donor_exon
+1322514	32545202	1	out_of_scope		
+2737168	32485101	1	scored	E061	acceptor_intron
+1322519	32849811	1	out_of_scope		
+1322520	32448468	1	out_of_scope		
+4710686	32463438	1	scored	E066	donor_intron
+1322524	32389520	1	out_of_scope		
+5001209	32472184	1	out_of_scope		
+3724172	32468574	1	out_of_scope		
+1322535	32464690	1	out_of_scope		
+4884302	31180379	1	out_of_scope		
+1322539	32518030	1	out_of_scope		
+1322542	32365043	1	out_of_scope		
+1322544	32844839	1	out_of_scope		
+1322546	32389665	1	out_of_scope		
+1322547	32518006	1	scored	E057	donor_intron
+1322548	32491450	1	out_of_scope		
+1322551	31180368	1	scored	E151	donor_intron
+1322556	32849751	1	out_of_scope		
+1322557	33211302	1	out_of_scope		
+4710703	32809593	1	out_of_scope		
+2737178	32809612	1	scored	E030	acceptor_intron
+1322567	32595849	1	out_of_scope		
+2737176	32614311	1	out_of_scope		
+1322577	32454749	1	out_of_scope		
+2737162	32454721	1	out_of_scope		
+2626777	32472163	1	scored	E063	donor_intron
+5003258	32454750	1	out_of_scope		
+4710679	32380665	1	out_of_scope		
+2737164	32463595	1	scored	E066	acceptor_intron
+4820646	32310164	1	out_of_scope		
+2737150	32287581	1	out_of_scope		
+1322609	32287560	1	out_of_scope		
+1322610	32216984	1	out_of_scope		
+1322616	31875337	1	out_of_scope		
+2502038	31658144	1	scored	E111	acceptor_exon
+4241383	32518019	1	out_of_scope		
+1322631	31182799	1	out_of_scope		
+3598267	31627779	1	out_of_scope		
+1322638	31627816	1	out_of_scope		
+1322639	31496915	1	out_of_scope		
+1322642	31729715	1	out_of_scope		
+2737141	31478267	1	out_of_scope		
+3252347	31444564	1	out_of_scope		
+1322652	31496856	1	out_of_scope		
+1322653	31478982	1	scored	E117	donor_intron
+1322654	32595878	1	scored	E044	acceptor_intron
+1322655	31679374	1	scored	E109	donor_intron
+1322656	31773992	1	out_of_scope		
+4710700	32699110	1	scored	E036	donor_intron
+4949630	32816570	1	out_of_scope		
+3724189	32699222	1	out_of_scope		
+3339833	32697868	1	scored	E038	donor_intron
+4066335	32573847	1	scored	E047	acceptor_intron
+1322674	32565821	1	out_of_scope		
+2737169	32501818	1	out_of_scope		
+1322686	32468689	1	out_of_scope		
+1322689	32464673	1	out_of_scope		
+1322694	32464606	1	out_of_scope		
+1322695	32464588	1	scored	E065	donor_exon
+2674868	32454703	1	out_of_scope		
+1322707	32411835	1	out_of_scope		
+1322709	32380562	1	out_of_scope		
+1322710	32365193	1	out_of_scope		
+3724171	32463438	1	scored	E066	donor_intron
+1322715	32362904	1	out_of_scope		
+1322717	32365036	1	out_of_scope		
+3724163	32438240	1	scored	E071	donor_intron
+4815309	32389500	1	scored	E075	donor_intron
+1322722	32287569	1	out_of_scope		
+4081625	32343262	1	out_of_scope		
+3724153	32216963	1	out_of_scope		
+1322726	32380681	1	scored	E077	acceptor_intron
+4066196	32346081	1	scored	E084	acceptor_intron
+1322730	31774031	1	out_of_scope		
+3368273	31932183	1	out_of_scope		
+1322737	31507300	1	out_of_scope		
+1322740	31209616	1	out_of_scope		
+1322742	31204029	1	out_of_scope		
+1322744	31323660	1	scored	E123	acceptor_intron
+2737156	32348410	1	out_of_scope		
+2499125	31595570	1	out_of_scope		
+4774215	33211312	1	out_of_scope		
+1324247	32386470	1	scored	E076	acceptor_intron
+1324248	31210914	1	out_of_scope		
+4710670	31364153	1	out_of_scope		
+1324254	32809488	1	scored	E030	donor_intron
+1326155	31323695	0	out_of_scope		
+1328633	32738695	0	out_of_scope		
+1328883	32738688	0	out_of_scope		
+1329014	32365200	1	scored	E078	acceptor_intron
+1332690	31627863	1	scored	E112	acceptor_intron
+1333487	31209577	1	out_of_scope		
+1344498	31968338	1	scored	E092	donor_intron
+1504071	32448454	1	scored	E068	donor_intron
+1504099	31169602	1	scored	E169	acceptor_intron
+1504110	31178666	1	scored	E153	donor_intron
+1394335	32595768	1	out_of_scope		
+1412003	32362840	1	out_of_scope		
+1439388	32545341	0	scored	E055	acceptor_intron
+1424825	31223097	1	out_of_scope		
+1425087	32386396	0	out_of_scope		
+1355814	32545284	0	out_of_scope		
+1493562	32644149	0	out_of_scope		
+1468519	31147258	0	out_of_scope		
+1496261	32362959	1	scored	E081	acceptor_intron
+1468325	32362959	1	scored	E081	acceptor_intron
+1452322	32809496	1	out_of_scope		
+1479959	31929633	0	out_of_scope		
+1399550	32468650	1	out_of_scope		
+1454313	32545308	0	out_of_scope		
+1495275	31932177	0	out_of_scope		
+1415863	32343256	0	out_of_scope		
+1390017	32614396	1	out_of_scope		
+1401357	31679506	0	out_of_scope		
+1416471	32699220	0	out_of_scope		
+1443373	31478308	0	out_of_scope		
+1444971	32468711	1	scored	E064	acceptor_intron
+1444342	32614422	0	out_of_scope		
+1363886	31932079	1	scored	E096	donor_intron
+1402878	31507295	0	out_of_scope		
+1349669	32697970	0	out_of_scope		
+1501527	32411779	0	out_of_scope		
+1365986	32342283	1	scored	E087	acceptor_intron
+1448296	31444600	1	out_of_scope		
+1475827	31348554	1	scored	E122	donor_intron
+1420741	31223123	1	scored	E142	acceptor_intron
+1486919	32595795	0	out_of_scope		
+1419831	32644164	1	out_of_scope		
+1395065	32595877	1	scored	E044	acceptor_intron
+1449882	31209542	0	out_of_scope		
+1477229	31729750	1	scored	E107	acceptor_intron
+1505008	32454693	0	out_of_scope		
+1424191	32849746	0	out_of_scope		
+1423723	31206586	1	out_of_scope		
+1380705	32644281	0	out_of_scope		
+1476201	32518053	0	out_of_scope		
+1395681	32491441	0	out_of_scope		
+1426001	31180408	0	out_of_scope		
+1451409	31729688	1	out_of_scope		
+1452980	32389642	0	out_of_scope		
+1480548	32472243	1	out_of_scope		
+1410046	31875238	1	out_of_scope		
+1464341	32438313	0	out_of_scope		
+1508710	32389675	1	scored	E075	acceptor_intron
+1454799	32573848	1	scored	E047	acceptor_intron
+1383957	31147319	1	off_reference	E172	donor_exon
+1384039	32390142	1	out_of_scope		
+1438914	32346065	0	out_of_scope		
+1371464	32310216	0	out_of_scope		
+1371555	31203960	1	scored	E147	donor_intron
+1374612	32595787	0	out_of_scope		
+1429262	32343174	1	out_of_scope		
+1348525	31177971	1	scored	E159	acceptor_intron
+1357994	32389504	1	out_of_scope		
+1467634	32565888	0	scored	E053	acceptor_intron
+1400934	32614313	0	out_of_scope		
+1455386	31146357	1	off_reference	E177	acceptor_intron
+1455458	31627671	1	scored	E112	donor_intron
+1455557	32287702	1	scored	E089	acceptor_intron
+1455624	32809613	1	scored	E030	acceptor_intron
+1513770	32595868	0	out_of_scope		
+1377945	31203960	1	scored	E147	donor_intron
+1458082	32468557	1	out_of_scope		
+1387479	31875349	1	out_of_scope		
+1442158	31875323	0	out_of_scope		
+1497480	31146289	1	ambiguous		
+1457263	32645153	1	scored	E040	acceptor_intron
+1512566	31178720	0	out_of_scope		
+1376498	32644260	0	out_of_scope		
+1379785	31172379	0	out_of_scope		
+1432376	32389674	1	scored	E075	acceptor_exon
+1379207	31774132	0	out_of_scope		
+1416856	32573837	0	out_of_scope		
+1458670	31773959	1	scored	E105	donor_intron
+1458696	32386357	1	out_of_scope		
+1458766	31679455	1	out_of_scope		
+1378468	31203956	1	scored	E147	donor_intron
+1516868	32452609	1	out_of_scope		
+1409231	31178757	1	out_of_scope		
+1500939	32345989	0	out_of_scope		
+1420173	32386422	0	out_of_scope		
+1502535	32441319	0	scored	E070	acceptor_intron
+1380174	31260973	1	out_of_scope		
+1489758	31507387	0	out_of_scope		
+1355682	31479079	1	out_of_scope		
+1462980	32411921	0	scored	E073	acceptor_intron
+1463066	32343299	0	scored	E085	acceptor_intron
+1463090	32698004	0	scored	E038	acceptor_intron
+1464661	32645156	0	scored	E040	acceptor_intron
+1517267	32411787	0	out_of_scope		
+1520379	32699294	1	scored	E036	acceptor_intron
+1526196	32348491	1	out_of_scope		
+1610246	32698009	0	scored	E038	acceptor_intron
+1576200	32365125	0	out_of_scope		
+1576300	32386334	0	out_of_scope		
+1576316	32491283	0	out_of_scope		
+1642777	31968443	0	out_of_scope		
+1553886	32463538	0	out_of_scope		
+1577701	31444505	0	out_of_scope		
+1577870	32501851	0	scored	E059	acceptor_intron
+1577986	32348465	0	out_of_scope		
+1577992	33020151	0	out_of_scope		
+1578015	31172421	0	scored	E166	acceptor_intron
+1644781	32342291	0	scored	E087	acceptor_intron
+1542675	32644254	0	out_of_scope		
+1542732	32287520	0	out_of_scope		
+1542769	31323675	0	scored	E123	acceptor_intron
+1542919	32348536	0	scored	E082	acceptor_intron
+1542929	32468630	0	out_of_scope		
+1601446	32485114	0	scored	E061	acceptor_intron
+1601506	32644952	0	out_of_scope		
+1601737	31260942	0	out_of_scope		
+1635390	31836790	0	out_of_scope		
+1544603	32844767	0	out_of_scope		
+1544823	31134115	0	out_of_scope		
+1637177	32386336	0	out_of_scope		
+1639144	32491334	0	out_of_scope		
+1546239	32217057	0	out_of_scope		
+1546505	32390195	0	scored	E074	acceptor_intron
+1546514	31774149	0	out_of_scope		
+1546516	31968437	0	out_of_scope		
+1616491	32485115	0	scored	E061	acceptor_intron
+1654096	32518125	0	out_of_scope		
+1654285	31204051	0	out_of_scope		
+1617988	32463499	0	out_of_scope		
+1618035	31627694	0	out_of_scope		
+1618134	32343299	0	scored	E085	acceptor_intron
+1619759	31478322	0	out_of_scope		
+1619970	32573862	0	scored	E047	acceptor_intron
+1620115	32501759	0	out_of_scope		
+1620126	32823349	0	out_of_scope		
+1583798	32816524	0	out_of_scope		
+1583834	31206575	0	scored	E145	donor_intron
+1583920	31147404	0	out_of_scope		
+1621787	31774137	0	out_of_scope		
+1655916	32491394	0	out_of_scope		
+1655968	31173610	0	scored	E163	acceptor_intron
+1655969	32310067	0	out_of_scope		
+1656104	31774011	0	out_of_scope		
+1671187	32644953	0	out_of_scope		
+1671362	32644311	0	scored	E041	acceptor_exon
+1671407	32364636	0	out_of_scope		
+1533343	32573778	0	out_of_scope		
+1533461	32365185	0	out_of_scope		
+1627725	32343116	0	out_of_scope		
+1672794	32645027	0	out_of_scope		
+1629354	32573623	0	out_of_scope		
+1674651	31478175	0	out_of_scope		
+1674768	31658025	0	out_of_scope		
+1536722	33211295	0	out_of_scope		
+1579604	32364621	0	out_of_scope		
+1579733	31348629	0	out_of_scope		
+1579790	32411924	0	scored	E073	acceptor_intron
+1648296	32697963	0	out_of_scope		
+1582882	31204090	0	out_of_scope		
+1582975	32491505	0	out_of_scope		
+1583255	32411738	0	out_of_scope		
+1614025	32310284	0	scored	E088	acceptor_intron
+1570574	31679456	0	out_of_scope		
+1605035	32364663	0	out_of_scope		
+1605179	32365210	0	scored	E078	acceptor_intron
+1548145	31932200	0	out_of_scope		
+1572129	32644281	0	out_of_scope		
+1572242	32345927	0	out_of_scope		
+1549788	32565893	0	scored	E053	acceptor_intron
+1549794	31507391	0	out_of_scope		
+1549880	31819994	0	out_of_scope		
+1573921	31679405	0	out_of_scope		
+1608022	31223132	0	scored	E142	acceptor_intron
+1585544	31968519	0	scored	E092	acceptor_intron
+1585610	32365116	0	out_of_scope		
+1623204	31147531	0	ambiguous		
+1623281	31729719	0	out_of_scope		
+1623307	32464689	0	out_of_scope		
+1623370	32380519	0	out_of_scope		
+1623385	32501858	0	scored	E059	acceptor_intron
+1558017	31209674	0	out_of_scope		
+1657815	32472317	0	scored	E063	acceptor_intron
+1587349	32644200	0	out_of_scope		
+1559644	32573644	0	scored	E050	acceptor_intron
+1659333	32411923	0	scored	E073	acceptor_intron
+1631026	31679362	0	out_of_scope		
+1631082	31929653	0	out_of_scope		
+1538661	32361041	0	out_of_scope		
+1598907	32365001	0	out_of_scope		
+1599241	32287651	0	out_of_scope		
+1540112	32389531	0	out_of_scope		
+1540481	32644326	0	scored	E041	acceptor_intron
+1632825	31658085	0	out_of_scope		
+1632853	32491313	0	out_of_scope		
+1541844	32697927	0	out_of_scope		
+1634897	32545150	0	out_of_scope		
+1651431	31177937	0	out_of_scope		
+1651763	31147413	0	out_of_scope		
+1615658	32472156	0	scored	E063	donor_intron
+1653225	32699105	0	scored	E036	donor_intron
+1653264	32411933	0	scored	E073	acceptor_intron
+1617094	32348457	0	out_of_scope		
+1617335	31929680	0	out_of_scope		
+1617507	32362966	0	scored	E081	acceptor_intron
+1654950	32472299	0	out_of_scope		
+1654955	31679444	0	out_of_scope		
+1555510	31209512	0	out_of_scope		
+1609805	32454841	0	scored	E067	acceptor_intron
+1610010	31223108	0	out_of_scope		
+1551579	32595885	0	scored	E044	acceptor_intron
+1575690	32697945	0	out_of_scope		
+1575701	32816493	0	out_of_scope		
+1642391	32361037	0	out_of_scope		
+1553201	32565810	0	out_of_scope		
+1577269	32362930	0	out_of_scope		
+1577298	32849767	0	out_of_scope		
+1588922	31478963	0	out_of_scope		
+1661032	32491528	0	scored	E060	acceptor_intron
+1661034	32343292	0	scored	E085	acceptor_intron
+1661070	32816515	0	out_of_scope		
+1661094	32216928	0	out_of_scope		
+1661126	32485113	0	scored	E061	acceptor_intron
+1661177	31147392	0	out_of_scope		
+1561356	31323590	0	scored	E123	donor_intron
+1561440	31968353	0	out_of_scope		
+1590877	31206674	0	scored	E145	acceptor_intron
+1662941	31496797	0	out_of_scope		
+1663066	32565852	0	out_of_scope		
+1563058	31180491	0	scored	E151	acceptor_intron
+1563283	32464631	0	out_of_scope		
+1664854	31478095	0	out_of_scope		
+1602305	32441189	0	out_of_scope		
+1602647	32614469	0	scored	E043	acceptor_intron
+1543570	31627733	0	out_of_scope		
+1636395	32441228	0	out_of_scope		
+1636537	31209509	0	out_of_scope		
+1636611	31875169	0	out_of_scope		
+1604132	31169547	0	out_of_scope		
+1604267	32565762	0	out_of_scope		
+1604369	32464709	0	scored	E065	acceptor_intron
+1545471	31223093	0	out_of_scope		
+1545474	32699223	0	out_of_scope		
+1569711	31627697	0	out_of_scope		
+1569840	32645141	0	out_of_scope		
+1638270	32491334	0	out_of_scope		
+1605917	32545290	0	out_of_scope		
+1606088	31147293	0	out_of_scope		
+1584785	32468684	0	out_of_scope		
+1584788	32362808	0	out_of_scope		
+1622555	32484944	0	out_of_scope		
+1557240	31729763	0	scored	E107	acceptor_intron
+1557329	32362815	0	out_of_scope		
+1656875	32342190	0	out_of_scope		
+1656980	32346094	0	scored	E084	acceptor_intron
+1586452	32816499	0	out_of_scope		
+1586454	32645093	0	out_of_scope		
+1586564	32595808	0	out_of_scope		
+1586569	32448651	0	scored	E068	acceptor_intron
+1586695	32346093	0	scored	E084	acceptor_intron
+1624321	31173532	0	scored	E163	donor_intron
+1624376	32343206	0	out_of_scope		
+1554899	31209629	0	out_of_scope		
+1554927	31968404	0	out_of_scope		
+1579052	31173577	0	out_of_scope		
+1579080	31323670	0	scored	E123	acceptor_intron
+1645936	32491267	0	out_of_scope		
+1646127	32362878	0	out_of_scope		
+1646146	32545206	0	out_of_scope		
+1581029	32464579	0	scored	E065	donor_intron
+1581056	31260945	0	out_of_scope		
+1581079	31478319	0	out_of_scope		
+1647861	32545287	0	out_of_scope		
+1582524	32438407	0	scored	E071	acceptor_intron
+1649453	31260962	0	out_of_scope		
+1564851	32217018	0	out_of_scope		
+1564986	31657980	0	out_of_scope		
+1565001	31172341	0	scored	E166	donor_intron
+1594242	32389606	0	out_of_scope		
+1594276	32823394	0	scored	E025	acceptor_intron
+1594417	32346060	0	out_of_scope		
+1666294	32545299	0	out_of_scope		
+1666538	32348398	0	scored	E082	donor_intron
+1566580	31968326	0	out_of_scope		
+1596019	31836701	0	out_of_scope		
+1596103	32809605	0	out_of_scope		
+1668330	32287636	0	out_of_scope		
+1668336	31968353	0	out_of_scope		
+1568368	31178782	0	out_of_scope		
+1597685	31875179	0	out_of_scope		
+1597701	31147255	0	out_of_scope		
+1597739	32448439	0	out_of_scope		
+1547408	31180391	0	out_of_scope		
+1571386	32380525	0	out_of_scope		
+1607134	31169543	0	out_of_scope		
+1607306	31968527	0	scored	E092	acceptor_intron
+1607312	32491399	0	out_of_scope		
+1607313	32491448	0	out_of_scope		
+1607378	31146337	0	out_of_scope		
+1607450	32390110	0	out_of_scope		
+1607451	32844813	0	out_of_scope		
+1548786	32816657	0	scored	E028	acceptor_intron
+1548949	32380585	0	out_of_scope		
+1588242	32614288	0	out_of_scope		
+1588261	32644311	0	scored	E041	acceptor_exon
+1626103	31929577	0	out_of_scope		
+1560385	32518083	0	out_of_scope		
+1560514	31729752	0	scored	E107	acceptor_intron
+1560515	31729754	0	scored	E107	acceptor_intron
+1560646	31209521	0	out_of_scope		
+1589928	32468612	0	out_of_scope		
+1590036	31627682	0	out_of_scope		
+1590161	31209542	0	out_of_scope		
+1662046	32816515	0	out_of_scope		
+1591694	31172339	0	out_of_scope		
+1613506	32595883	0	scored	E044	acceptor_intron
+1650991	32362890	0	out_of_scope		
+1651232	32614294	0	out_of_scope		
+1615009	31126624	0	out_of_scope		
+1615057	32699160	0	out_of_scope		
+1615353	32411764	0	out_of_scope		
+1652960	31968380	0	out_of_scope		
+1652971	32484959	0	out_of_scope		
+1616946	32468651	0	out_of_scope		
+1618476	32362774	0	out_of_scope		
+1618525	32485010	0	out_of_scope		
+1618529	32501854	0	scored	E059	acceptor_intron
+1618736	32348468	0	out_of_scope		
+1620459	32454653	0	out_of_scope		
+1620472	31126657	0	out_of_scope		
+1620557	31478307	0	out_of_scope		
+1620559	32389557	0	out_of_scope		
+1528794	32645030	0	out_of_scope		
+1528796	32343122	0	out_of_scope		
+1669700	32697975	0	out_of_scope		
+1531953	32448600	0	out_of_scope		
+1532003	31820097	0	scored	E104	acceptor_intron
+1532027	32809596	0	out_of_scope		
+1532092	32365004	0	out_of_scope		
+1671507	32518136	0	scored	E057	acceptor_intron
+1671512	31875387	0	scored	E100	acceptor_intron
+1533752	31204057	0	out_of_scope		
+1533926	32644957	0	scored	E040	donor_intron
+1533976	31875251	0	out_of_scope		
+1627999	32501747	0	scored	E059	donor_intron
+1628151	32849839	0	scored	E022	acceptor_intron
+1610615	32699202	0	out_of_scope		
+1610887	32699235	0	out_of_scope		
+1641536	32365003	0	out_of_scope		
+1576409	31774062	0	out_of_scope		
+1643519	32491525	0	scored	E060	acceptor_intron
+1663740	31146421	0	scored	E176	acceptor_intron
+1663945	31206637	0	out_of_scope		
+1563846	32501742	0	out_of_scope		
+1564033	32699175	0	out_of_scope		
+1564109	31444633	0	scored	E119	acceptor_intron
+1564252	32518135	0	scored	E057	acceptor_intron
+1565983	32463442	0	out_of_scope		
+1595231	32614309	0	out_of_scope		
+1667266	32448474	0	out_of_scope		
+1567577	31657977	0	out_of_scope		
+1567610	32823276	0	out_of_scope		
+1567613	32217076	0	scored	E090	acceptor_intron
+1584323	32342081	0	out_of_scope		
+1656346	31679459	0	out_of_scope		
+1656347	31679465	0	out_of_scope		
+1556703	31729674	0	out_of_scope		
+1556908	32491400	0	out_of_scope		
+1621866	31444607	0	out_of_scope		
+1621874	31146275	0	out_of_scope		
+1622081	32380688	0	scored	E077	acceptor_intron
+1658242	32501857	0	scored	E059	acceptor_intron
+1658353	31204136	0	scored	E147	acceptor_intron
+1558468	32343294	0	scored	E085	acceptor_intron
+1558498	32614283	0	out_of_scope		
+1587689	32411917	0	scored	E073	acceptor_intron
+1673437	32380501	0	out_of_scope		
+1535556	31260946	0	out_of_scope		
+1629977	31209580	0	out_of_scope		
+1630033	31478190	0	out_of_scope		
+1537143	32380666	0	out_of_scope		
+1633299	32645135	0	out_of_scope		
+1540617	32485092	0	out_of_scope		
+1540670	31146340	0	out_of_scope		
+1540671	31180475	0	out_of_scope		
+1540672	32491325	0	out_of_scope		
+1540673	32491502	0	out_of_scope		
+1540675	32491505	0	out_of_scope		
+1540708	31968467	0	out_of_scope		
+1645220	31178761	0	out_of_scope		
+1580062	32545346	0	scored	E055	acceptor_intron
+1646773	32644206	0	out_of_scope		
+1648491	32345967	0	out_of_scope		
+1648506	32365098	0	out_of_scope		
+1583488	32342181	0	out_of_scope		
+1583531	31146307	0	out_of_scope		
+1650213	32216901	0	out_of_scope		
+1669145	32518059	0	out_of_scope		
+1569123	31204003	0	out_of_scope		
+1569426	32464566	0	out_of_scope		
+1529353	32464601	0	out_of_scope		
+1529518	32438223	0	out_of_scope		
+1529540	32699172	0	out_of_scope		
+1531149	31209644	0	out_of_scope		
+1531150	32287710	0	scored	E089	acceptor_intron
+1531172	32518068	0	out_of_scope		
+1531199	32454704	0	out_of_scope		
+1531214	32364571	0	out_of_scope		
+1531259	31929589	0	scored	E098	donor_intron
+1531261	31146273	0	out_of_scope		
+1670696	31182791	0	out_of_scope		
+1670898	32823346	0	out_of_scope		
+1587870	32823307	0	out_of_scope		
+1587970	32823407	0	scored	E025	acceptor_intron
+1560329	32699301	0	scored	E036	acceptor_intron
+1625579	32491307	0	out_of_scope		
+1589355	31479118	0	scored	E117	acceptor_intron
+1589363	31323674	0	scored	E123	acceptor_intron
+1561979	31178800	0	out_of_scope		
+1562086	32698014	0	scored	E038	acceptor_intron
+1591059	31204009	0	out_of_scope		
+1591212	32595859	0	out_of_scope		
+1591236	32464652	0	out_of_scope		
+1663196	31209629	0	out_of_scope		
+1599418	32362970	0	scored	E081	acceptor_intron
+1542380	32386340	0	out_of_scope		
+1542612	32644263	0	out_of_scope		
+1601022	32823402	0	scored	E025	acceptor_intron
+1635061	32517993	0	out_of_scope		
+1602779	32816607	0	out_of_scope		
+1602946	32365209	0	scored	E078	acceptor_intron
+1602976	32501852	0	scored	E059	acceptor_intron
+1544353	32545296	0	out_of_scope		
+1636767	32345994	0	out_of_scope		
+1545700	32645172	0	scored	E040	acceptor_intron
+1545782	31729764	0	scored	E107	acceptor_intron
+1614186	31323651	0	out_of_scope		
+1614280	32362892	0	out_of_scope		
+1615860	31627852	0	out_of_scope		
+1616158	31147410	0	out_of_scope		
+1616195	31679411	0	out_of_scope		
+1616216	32390104	0	out_of_scope		
+1654023	31929626	0	out_of_scope		
+1617645	31478096	0	out_of_scope		
+1617809	31223068	0	out_of_scope		
+1617885	32644120	0	out_of_scope		
+1617902	32411851	0	out_of_scope		
+1617903	31177943	0	out_of_scope		
+1619694	32573605	0	out_of_scope		
+1621242	32345935	0	scored	E084	donor_intron
+1655554	32491454	0	out_of_scope		
+1627237	32362944	0	out_of_scope		
+1672518	32348538	0	scored	E082	acceptor_intron
+1672644	32411815	0	out_of_scope		
+1628977	31348575	0	out_of_scope		
+1629212	32348442	0	out_of_scope		
+1674383	32644116	0	out_of_scope		
+1536231	32464631	0	out_of_scope		
+1536344	32362967	0	scored	E081	acceptor_intron
+1630632	32380497	0	out_of_scope		
+1538058	32362869	0	out_of_scope		
+1538155	31627808	0	out_of_scope		
+1538158	31348652	0	scored	E122	acceptor_intron
+1663486	32644278	0	out_of_scope		
+1563696	32362881	0	out_of_scope		
+1593154	32364568	0	out_of_scope		
+1665261	31178820	0	scored	E153	acceptor_intron
+1665277	32645087	0	out_of_scope		
+1665303	31968416	0	out_of_scope		
+1565155	32565891	0	scored	E053	acceptor_intron
+1565194	32454782	0	out_of_scope		
+1565264	32463556	0	out_of_scope		
+1565274	31206674	0	scored	E145	acceptor_intron
+1594781	32411932	0	scored	E073	acceptor_intron
+1666955	32365215	0	scored	E078	acceptor_intron
+1566922	32380639	0	out_of_scope		
+1566923	31223093	0	out_of_scope		
+1567002	32699241	0	out_of_scope		
+1570180	32342106	0	out_of_scope		
+1570249	32472316	0	scored	E063	acceptor_intron
+1604575	31134094	0	scored	E180	donor_intron
+1604619	32386448	0	out_of_scope		
+1604639	32463445	0	out_of_scope		
+1604658	32464685	0	out_of_scope		
+1604754	31819965	0	out_of_scope		
+1604883	32697900	0	out_of_scope		
+1638461	32491457	0	out_of_scope		
+1571978	32698009	0	scored	E038	acceptor_intron
+1606374	31658016	0	out_of_scope		
+1606440	31223037	0	out_of_scope		
+1555752	31679581	0	out_of_scope		
+1585098	31773987	0	out_of_scope		
+1585099	31774044	0	out_of_scope		
+1585100	32362947	0	out_of_scope		
+1585105	32699280	0	out_of_scope		
+1585216	31774182	0	out_of_scope		
+1622889	31209488	0	out_of_scope		
+1623132	32342247	0	out_of_scope		
+1557407	31496956	0	scored	E116	acceptor_intron
+1557452	31627880	0	scored	E112	acceptor_intron
+1557599	32390104	0	out_of_scope		
+1657167	31178743	0	out_of_scope		
+1657273	32287519	0	out_of_scope		
+1586973	31507263	0	out_of_scope		
+1559288	32809624	0	scored	E030	acceptor_intron
+1539874	31177967	0	out_of_scope		
+1539941	32468726	0	scored	E064	acceptor_intron
+1539961	32573738	0	scored	E047	donor_intron
+1598454	32454698	0	out_of_scope		
+1632515	32565886	0	scored	E053	acceptor_intron
+1541377	32849758	0	out_of_scope		
+1541413	32697903	0	out_of_scope		
+1541546	32362779	0	out_of_scope		
+1541708	32849763	0	out_of_scope		
+1600387	32365004	0	out_of_scope		
+1634315	32565897	0	scored	E053	acceptor_intron
+1543116	32438250	0	out_of_scope		
+1543135	32545151	0	scored	E055	donor_intron
+1543429	32849715	0	out_of_scope		
+1596470	31479098	0	out_of_scope		
+1596581	32573513	0	out_of_scope		
+1529080	31658048	0	out_of_scope		
+1529190	32310072	0	out_of_scope		
+1530602	31627784	0	out_of_scope		
+1670459	31679471	0	out_of_scope		
+1532628	31177974	0	scored	E159	acceptor_intron
+1627003	32849719	0	out_of_scope		
+1627082	32342178	0	out_of_scope		
+1671880	31444472	0	out_of_scope		
+1573738	31182919	0	scored	E149	acceptor_intron
+1573750	32342080	0	out_of_scope		
+1550894	32365204	0	scored	E078	acceptor_intron
+1575211	32448573	0	out_of_scope		
+1575342	32573516	0	out_of_scope		
+1575362	32365149	0	out_of_scope		
+1552935	31260971	0	out_of_scope		
+1576922	32816449	0	out_of_scope		
+1577207	32441185	0	out_of_scope		
+1611210	32310187	0	out_of_scope		
+1658914	31147265	0	out_of_scope		
+1588620	32545248	0	out_of_scope		
+1561042	32441165	0	out_of_scope		
+1561074	32816648	0	scored	E028	acceptor_intron
+1660619	32472185	0	out_of_scope		
+1662321	32343137	0	out_of_scope		
+1662548	32614464	0	scored	E043	acceptor_intron
+1562579	32595814	0	out_of_scope		
+1635843	32573859	0	scored	E047	acceptor_intron
+1603658	32491325	0	out_of_scope		
+1603815	31875197	0	out_of_scope		
+1571008	31773996	0	out_of_scope		
+1571040	32545305	0	out_of_scope		
+1605419	32287519	0	out_of_scope		
+1605589	32343268	0	out_of_scope		
+1605721	31182731	0	scored	E149	donor_intron
+1534402	32697996	0	scored	E038	acceptor_exon
+1628790	32343306	0	scored	E085	acceptor_intron
+1536134	32287597	0	out_of_scope		
+1630317	31147259	0	out_of_scope		
+1630493	32389688	0	scored	E075	acceptor_intron
+1630515	32386321	0	out_of_scope		
+1537663	31507261	0	out_of_scope		
+1631912	31679495	0	out_of_scope		
+1631999	31729618	0	out_of_scope		
+1539245	31774188	0	out_of_scope		
+1642020	32485116	0	scored	E061	acceptor_intron
+1554383	31444526	0	out_of_scope		
+1554408	32386463	0	scored	E076	acceptor_exon
+1554479	32438225	0	out_of_scope		
+1554693	31178773	0	out_of_scope		
+1578659	32614289	0	out_of_scope		
+1645450	32380594	0	out_of_scope		
+1645581	31627721	0	out_of_scope		
+1647084	31323609	0	out_of_scope		
+1647475	32342208	0	out_of_scope		
+1582101	32485054	0	out_of_scope		
+1582166	32645012	0	out_of_scope		
+1664046	31496821	0	out_of_scope		
+1564386	32699104	0	scored	E036	donor_intron
+1564478	32573511	0	out_of_scope		
+1593795	32380570	0	out_of_scope		
+1566373	32491469	0	out_of_scope		
+1595678	31146319	0	out_of_scope		
+1595697	31819965	0	out_of_scope		
+1667541	31146385	0	out_of_scope		
+1667543	31178740	0	out_of_scope		
+1567757	31627663	0	out_of_scope		
+1567816	32501748	0	scored	E059	donor_intron
+1567899	32809475	0	out_of_scope		
+1568088	31178812	0	scored	E153	acceptor_intron
+1548338	32380690	0	scored	E077	acceptor_intron
+1548443	32573510	0	out_of_scope		
+1572798	32472320	0	scored	E063	acceptor_intron
+1572854	31348642	0	scored	E122	acceptor_intron
+1607020	32343164	0	out_of_scope		
+1608486	31507261	0	out_of_scope		
+1608584	31206598	0	out_of_scope		
+1598331	32448515	0	out_of_scope		
+1633655	31323618	0	out_of_scope		
+1540977	32345923	0	out_of_scope		
+1541220	31261025	0	scored	E137	acceptor_intron
+1541235	32809551	0	out_of_scope		
+1582364	32468597	0	out_of_scope		
+1612782	31209677	0	out_of_scope		
+1652339	31875179	0	out_of_scope		
+1652527	31820068	0	out_of_scope		
+1597312	31147311	0	off_reference	E172	donor_intron
+1529742	32287536	0	out_of_scope		
+1529947	32614408	0	out_of_scope		
+1669244	32365143	0	out_of_scope		
+1531629	32699100	0	out_of_scope		
+1531787	32386448	0	out_of_scope		
+1531789	32345926	0	out_of_scope		
+1677942	31929595	1	scored	E098	donor_intron
+1679454	32809511	1	out_of_scope		
+1684982	31207203	0	out_of_scope		
+1685299	32441316	1	scored	E070	acceptor_intron
+1685697	31178664	1	scored	E153	donor_intron
+1685701	31182736	1	scored	E149	donor_intron
+1685704	31182906	1	scored	E149	acceptor_intron
+1685708	31209574	1	out_of_scope		
+1685709	31209700	1	scored	E144	acceptor_intron
+1685711	31223122	1	scored	E142	acceptor_intron
+1685715	31496889	1	out_of_scope		
+1685717	31627684	1	out_of_scope		
+1685719	31627863	1	scored	E112	acceptor_intron
+1685720	31679588	1	scored	E109	acceptor_intron
+1685722	31875276	1	out_of_scope		
+1685723	31929694	1	out_of_scope		
+1685724	31968439	1	out_of_scope		
+1685731	32380569	1	out_of_scope		
+1685733	32380632	1	out_of_scope		
+1685739	32501830	1	out_of_scope		
+1685743	32565831	1	out_of_scope		
+1685745	32595755	1	scored	E044	donor_intron
+1685746	32614305	1	scored	E043	donor_exon
+1687589	31496934	1	out_of_scope		
+1698519	32491277	1	scored	E060	donor_exon
+1704414	31968468	1	out_of_scope		
+1704540	32545157	1	scored	E055	donor_intron
+1708325	32454810	1	out_of_scope		
+1708419	32342283	1	scored	E087	acceptor_intron
+1708439	32565765	1	out_of_scope		
+1724180	32472240	1	out_of_scope		
+1724183	32345945	1	scored	E084	donor_exon
+1724244	32614439	1	out_of_scope		
+1724259	32464678	1	out_of_scope		
+1724304	32380640	1	out_of_scope		
+1724713	32342255	1	out_of_scope		
+1724896	32345981	1	out_of_scope		
+1724995	31209527	1	out_of_scope		
+1725030	32362862	1	out_of_scope		
+1725239	32565854	1	out_of_scope		
+1725491	32485030	1	out_of_scope		
+1725516	32438384	1	out_of_scope		
+1725520	31182856	1	out_of_scope		
+1725526	31260957	1	scored	E137	donor_exon
+1725751	32645127	1	out_of_scope		
+1725855	32468500	1	scored	E064	donor_exon
+1726596	32365102	1	out_of_scope		
+1726630	31182755	1	out_of_scope		
+1726854	31323603	1	out_of_scope		
+1733825	32448567	0	out_of_scope		
+1738544	32411797	0	out_of_scope		
+1732788	32823294	1	scored	E025	donor_intron
+1732791	32454695	0	out_of_scope		
+1734904	32441312	0	scored	E070	acceptor_exon
+1745875	32362929	0	out_of_scope		
+1750682	32809548	0	out_of_scope		
+1743226	32380549	0	out_of_scope		
+1748338	32345961	0	out_of_scope		
+1750172	32342153	0	out_of_scope		
+1750198	32342152	0	out_of_scope		
+1752085	32287633	0	out_of_scope		
+1749811	32849794	0	out_of_scope		
+1751298	32310142	0	out_of_scope		
+1764228	31478989	0	out_of_scope		
+1764458	31478316	0	out_of_scope		
+1764487	31478304	0	out_of_scope		
+1765751	31348626	0	out_of_scope		
+1758689	31774103	0	out_of_scope		
+1762352	31627700	0	out_of_scope		
+1763983	32697971	1	out_of_scope		
+1765637	31444496	0	out_of_scope		
+1758223	31819979	0	out_of_scope		
+1758388	31774170	0	out_of_scope		
+1759997	31729634	0	out_of_scope		
+1761910	32699136	0	out_of_scope		
+1767990	31204042	0	out_of_scope		
+1777454	31169469	0	out_of_scope		
+1782067	31147398	0	out_of_scope		
+1792222	33211289	0	out_of_scope		
+1788438	32518049	0	out_of_scope		
+1782828	32844855	0	out_of_scope		
+1784340	32545320	0	out_of_scope		
+1784440	32545314	0	out_of_scope		
+1791541	32491444	0	out_of_scope		
+1794764	32485033	0	out_of_scope		
+1797349	32472218	0	out_of_scope		
+1804756	32468623	1	out_of_scope		
+1806400	32849733	1	out_of_scope		
+1806408	32491333	1	out_of_scope		
+1806416	32411787	1	out_of_scope		
+1806425	32216972	1	out_of_scope		
+1806426	31875286	1	out_of_scope		
+1806428	31679428	1	out_of_scope		
+1806431	31348554	1	scored	E122	donor_intron
+1806435	32463595	1	scored	E066	acceptor_intron
+1806436	31323596	1	scored	E123	donor_intron
+1806437	31223046	1	scored	E142	donor_intron
+1806439	32573743	1	scored	E047	donor_intron
+1806444	31182737	1	scored	E149	donor_intron
+1806445	32346082	1	scored	E084	acceptor_intron
+2136463	32849828	0	scored	E022	acceptor_intron
+2141726	32468729	0	scored	E064	acceptor_intron
+2143275	32454645	0	out_of_scope		
+2143618	33211274	0	out_of_scope		
+2145065	31968377	0	out_of_scope		
+2145078	32491264	0	out_of_scope		
+2145243	31444592	0	out_of_scope		
+2148019	32573817	0	out_of_scope		
+2148328	32348397	0	out_of_scope		
+2148392	32380498	0	out_of_scope		
+2137783	32823404	0	scored	E025	acceptor_intron
+2139397	32454827	0	out_of_scope		
+2139537	32448477	0	out_of_scope		
+2141289	32491495	0	out_of_scope		
+2141064	32364705	0	out_of_scope		
+2141092	32644220	0	out_of_scope		
+2142406	31478334	0	out_of_scope		
+2146053	31658109	0	out_of_scope		
+2148964	32310193	0	out_of_scope		
+2138505	31208283	1	out_of_scope		
+2138507	31479091	1	out_of_scope		
+2138508	31507279	1	scored	E115	donor_intron
+2138850	32348544	0	scored	E082	acceptor_intron
+2138864	32844873	0	scored	E024	acceptor_intron
+2140276	31507456	0	scored	E115	acceptor_intron
+2140479	32849709	0	out_of_scope		
+2140555	32463611	0	scored	E066	acceptor_intron
+2142048	31348544	0	out_of_scope		
+2142269	32310291	0	scored	E088	acceptor_intron
+2147296	32484978	0	out_of_scope		
+2147335	31147477	0	out_of_scope		
+2148447	31479080	0	out_of_scope		
+2148817	32448564	0	out_of_scope		
+2149971	31627655	0	out_of_scope		
+2150016	32501777	0	out_of_scope		
+2154935	31121935	0	out_of_scope		
+2156684	32565694	0	scored	E053	donor_intron
+2161883	31773993	0	out_of_scope		
+2162155	32346050	0	out_of_scope		
+2152901	32645069	0	out_of_scope		
+2152991	32501856	0	scored	E059	acceptor_intron
+2153012	32441244	0	out_of_scope		
+2154598	32595791	0	out_of_scope		
+2154638	32501744	0	out_of_scope		
+2156274	32287617	0	out_of_scope		
+2158303	32390183	1	scored	E074	acceptor_intron
+2163352	31658140	0	out_of_scope		
+2152671	32310064	0	out_of_scope		
+2157697	32844804	0	out_of_scope		
+2157734	31658159	0	scored	E111	acceptor_intron
+2161086	31507269	0	out_of_scope		
+2152090	32501774	0	out_of_scope		
+2153977	31496772	0	out_of_scope		
+2158912	32346100	0	scored	E084	acceptor_intron
+2164988	32468654	0	out_of_scope		
+2166654	32614327	0	out_of_scope		
+2171988	32849745	0	out_of_scope		
+2173521	31478154	0	out_of_scope		
+2173560	31496862	0	out_of_scope		
+2173765	32365007	0	out_of_scope		
+2177170	31147338	0	out_of_scope		
+2164681	32380688	0	scored	E077	acceptor_intron
+2164785	32454705	0	out_of_scope		
+2169639	32287529	1	scored	E089	donor_exon
+2169936	31968374	0	out_of_scope		
+2171613	32454767	0	out_of_scope		
+2165953	32472225	0	out_of_scope		
+2166009	31820036	0	out_of_scope		
+2172703	31134087	0	out_of_scope		
+2174690	32844807	0	out_of_scope		
+2163654	32463478	0	out_of_scope		
+2165364	32472301	0	out_of_scope		
+2172215	32699238	0	out_of_scope		
+2174261	32644293	0	out_of_scope		
+2175700	32518141	0	scored	E057	acceptor_intron
+2176033	32342172	0	out_of_scope		
+2178826	32438388	0	scored	E071	acceptor_exon
+2178916	32545200	0	out_of_scope		
+2180393	32816601	1	out_of_scope		
+2180704	31178803	0	scored	E153	acceptor_exon
+2184060	32565836	0	out_of_scope		
+2185953	32343295	0	scored	E085	acceptor_intron
+2178601	32697882	0	out_of_scope		
+2178642	31147261	0	out_of_scope		
+2179997	32645141	0	out_of_scope		
+2185199	31478971	0	out_of_scope		
+2192036	32348441	0	out_of_scope		
+2183015	31479118	0	scored	E117	acceptor_intron
+2183178	31478969	0	out_of_scope		
+2185093	32287517	0	out_of_scope		
+2188260	31182725	0	out_of_scope		
+2188261	31478098	0	scored	E118	donor_intron
+2188262	31478223	0	out_of_scope		
+2188264	32545230	0	out_of_scope		
+2188266	32645143	0	out_of_scope		
+2188267	32699312	0	scored	E036	acceptor_intron
+2189947	32365218	0	scored	E078	acceptor_intron
+2186412	32644951	0	out_of_scope		
+2189641	32816653	0	scored	E028	acceptor_intron
+2189840	32809604	0	out_of_scope		
+2192685	32463600	0	scored	E066	acceptor_intron
+2192844	32816485	0	out_of_scope		
+2201219	32809527	0	out_of_scope		
+2201373	32485109	0	scored	E061	acceptor_intron
+2194136	31444608	0	out_of_scope		
+2197557	32343227	0	out_of_scope		
+2199068	32491396	0	out_of_scope		
+2202532	32545172	0	out_of_scope		
+2202533	32565784	0	out_of_scope		
+2191978	32468552	0	out_of_scope		
+2193449	31507364	0	out_of_scope		
+2193450	32287632	0	out_of_scope		
+2195088	31836784	0	out_of_scope		
+2195115	32448438	0	out_of_scope		
+2196872	32348416	0	out_of_scope		
+2197006	31729611	0	out_of_scope		
+2197067	32491460	0	out_of_scope		
+2198829	32573787	0	out_of_scope		
+2200464	32365116	0	out_of_scope		
+2202092	31836699	0	out_of_scope		
+2202114	32614462	0	scored	E043	acceptor_intron
+2202290	31169433	0	out_of_scope		
+2191172	31178822	0	scored	E153	acceptor_intron
+2193036	31121940	0	out_of_scope		
+2194864	32411932	0	scored	E073	acceptor_intron
+2196578	32565834	0	out_of_scope		
+2201981	32346098	0	scored	E084	acceptor_intron
+2419193	31206577	1	scored	E145	donor_intron
+2425727	31968327	0	out_of_scope		
+2415624	32518151	0	scored	E057	acceptor_intron
+2417457	31177961	0	out_of_scope		
+2418802	31323609	0	out_of_scope		
+2420723	31134202	0	scored	E180	acceptor_intron
+2415163	32389668	0	out_of_scope		
+2415167	32389601	0	out_of_scope		
+2416966	32464651	0	out_of_scope		
+2418728	31507406	0	out_of_scope		
+2420263	32386445	0	out_of_scope		
+2420434	32809480	0	out_of_scope		
+2414758	32844843	0	out_of_scope		
+2416408	32472146	0	out_of_scope		
+2417985	32849806	0	out_of_scope		
+2417998	32491432	0	out_of_scope		
+2428116	31820090	0	scored	E104	acceptor_intron
+2428130	31223133	0	scored	E142	acceptor_intron
+1894524	32464718	0	scored	E065	acceptor_intron
+1907557	32699271	0	out_of_scope		
+1900086	32454809	0	out_of_scope		
+1906934	32595829	0	out_of_scope		
+1908799	32365128	0	out_of_scope		
+1919125	32573529	1	scored	E050	donor_intron
+1920662	32472321	0	scored	E063	acceptor_intron
+1915213	32362773	0	out_of_scope		
+1916710	32697918	0	out_of_scope		
+1918497	31627873	0	scored	E112	acceptor_intron
+1909491	32361046	0	out_of_scope		
+1920080	32809518	0	out_of_scope		
+1926498	32472326	0	scored	E063	acceptor_intron
+1933072	32491433	0	out_of_scope		
+1925977	31496878	0	out_of_scope		
+1926148	32380648	0	out_of_scope		
+1927797	31182908	0	scored	E149	acceptor_intron
+1929571	31820084	1	scored	E104	acceptor_intron
+1929602	32390092	0	out_of_scope		
+1929605	32468579	0	out_of_scope		
+1934706	32485113	0	scored	E061	acceptor_intron
+1936271	32463434	0	scored	E066	donor_intron
+1936442	32816521	0	out_of_scope		
+1925534	32644948	0	out_of_scope		
+1928931	32844803	0	out_of_scope		
+1929087	32287543	0	out_of_scope		
+1923180	31444645	0	scored	E119	acceptor_intron
+1931839	31147389	0	out_of_scope		
+1933630	32411890	0	out_of_scope		
+1943587	32343161	0	out_of_scope		
+1945423	31180423	0	out_of_scope		
+1938083	32844773	0	out_of_scope		
+1944904	31173601	0	out_of_scope		
+1937536	32545215	0	out_of_scope		
+1939310	31178813	0	scored	E153	acceptor_intron
+1941031	32849812	0	out_of_scope		
+1947744	31875296	0	out_of_scope		
+1937102	32216943	0	out_of_scope		
+1937123	32448507	0	out_of_scope		
+1938954	32454643	0	out_of_scope		
+1938967	31146317	0	out_of_scope		
+1942244	32390187	0	scored	E074	acceptor_intron
+1943945	32342081	0	out_of_scope		
+1945976	31679359	0	out_of_scope		
+1945977	32545152	0	scored	E055	donor_intron
+1952371	31182866	0	out_of_scope		
+1957531	32454779	0	out_of_scope		
+1960920	32809518	0	out_of_scope		
+1951862	32386367	0	out_of_scope		
+1953456	32518089	0	out_of_scope		
+1955129	31147519	1	ambiguous		
+1955320	31180418	0	out_of_scope		
+1957040	32491261	0	out_of_scope		
+1964071	32342250	0	out_of_scope		
+1954746	32362800	0	out_of_scope		
+1961565	32389507	0	out_of_scope		
+1961711	32454851	0	scored	E067	acceptor_intron
+1961112	32844766	0	out_of_scope		
+1965687	32468565	0	out_of_scope		
+1967534	32518044	0	out_of_scope		
+1968848	32644326	0	scored	E041	acceptor_intron
+1972533	32217077	0	scored	E090	acceptor_intron
+1973840	32411836	0	out_of_scope		
+1965050	32699178	0	out_of_scope		
+1968475	32448501	1	out_of_scope		
+1970187	31209566	0	out_of_scope		
+1970432	32361044	0	out_of_scope		
+1977000	31134085	0	out_of_scope		
+1964661	32545339	0	scored	E055	acceptor_intron
+1964925	33020207	0	scored	E018	acceptor_intron
+1968033	32614384	0	out_of_scope		
+1969743	31204130	0	scored	E147	acceptor_intron
+1971594	32468624	0	out_of_scope		
+1976410	32809486	0	scored	E030	donor_intron
+1979273	31932064	0	out_of_scope		
+1981033	32441333	0	scored	E070	acceptor_intron
+1988048	31204105	0	out_of_scope		
+1991594	32849834	0	scored	E022	acceptor_intron
+1978757	31679390	0	out_of_scope		
+1982412	32501735	0	out_of_scope		
+1978524	32573522	0	scored	E050	donor_intron
+1989065	32365049	0	out_of_scope		
+1990652	32816580	0	out_of_scope		
+1978021	32614292	0	out_of_scope		
+1978139	32342290	0	scored	E087	acceptor_intron
+1979667	31478151	0	out_of_scope		
+1979841	32573858	0	scored	E047	acceptor_intron
+1981768	32809578	0	out_of_scope		
+1984915	32699286	0	out_of_scope		
+1986733	31147538	0	ambiguous		
+1990084	31146430	0	scored	E176	acceptor_intron
+1992049	32310069	0	out_of_scope		
+1993543	31204000	0	out_of_scope		
+1993565	32463514	0	out_of_scope		
+2003747	32310062	0	out_of_scope		
+1996714	31729614	0	out_of_scope		
+1999757	31180385	0	out_of_scope		
+1999786	32468612	0	out_of_scope		
+1999941	32595843	0	out_of_scope		
+2003532	32823313	0	out_of_scope		
+1994224	32472206	0	out_of_scope		
+1994304	32343302	0	scored	E085	acceptor_intron
+1994473	32573790	0	out_of_scope		
+1996212	31126684	0	scored	E185	acceptor_intron
+1999520	31261017	1	scored	E137	acceptor_intron
+1993946	31496845	0	out_of_scope		
+1997491	31875320	0	out_of_scope		
+1997507	31627871	0	scored	E112	acceptor_intron
+1999146	31348590	0	out_of_scope		
+1999171	32468533	0	out_of_scope		
+2004237	32472203	0	out_of_scope		
+2004254	32310074	0	scored	E088	donor_intron
+2007436	32364655	1	out_of_scope		
+2008803	31147332	0	out_of_scope		
+2009085	32645006	0	out_of_scope		
+2010597	31180415	0	out_of_scope		
+2010776	32468695	0	out_of_scope		
+2012249	32310153	1	out_of_scope		
+2015740	32448540	0	out_of_scope		
+2015880	32645036	0	out_of_scope		
+2015892	32849824	0	scored	E022	acceptor_intron
+2017457	31146319	0	out_of_scope		
+2017685	32545336	1	scored	E055	acceptor_intron
+2017706	32644160	0	out_of_scope		
+2019310	31875224	1	out_of_scope		
+2019438	32454742	1	out_of_scope		
+2006729	31820060	0	out_of_scope		
+2006739	32342115	0	out_of_scope		
+2008368	31932206	0	out_of_scope		
+2013844	32614308	0	out_of_scope		
+2015454	32545269	0	out_of_scope		
+2017240	32472293	0	out_of_scope		
+2018723	32348397	0	out_of_scope		
+2018784	31932091	1	out_of_scope		
+2018866	32823392	0	scored	E025	acceptor_intron
+2018868	31679468	0	out_of_scope		
+2006284	32573844	0	scored	E047	acceptor_exon
+2009903	31260940	0	out_of_scope		
+2014901	32441327	0	scored	E070	acceptor_intron
+2016591	32545354	0	scored	E055	acceptor_intron
+2016692	31178728	0	out_of_scope		
+2016696	31820021	0	out_of_scope		
+2018249	32386403	0	out_of_scope		
+2018268	32565750	0	out_of_scope		
+2018275	32698006	0	scored	E038	acceptor_intron
+2018473	32849803	0	out_of_scope		
+2018562	32310169	0	out_of_scope		
+2007523	32441246	0	out_of_scope		
+2007571	32650983	0	out_of_scope		
+2007575	32644956	0	scored	E040	donor_intron
+2009490	32454833	1	scored	E067	acceptor_intron
+2016297	32816557	0	out_of_scope		
+2016446	32645156	0	scored	E040	acceptor_intron
+2016458	32595829	0	out_of_scope		
+2020811	31261004	0	out_of_scope		
+2022698	32438404	0	scored	E071	acceptor_intron
+2026091	31679486	0	out_of_scope		
+2027898	31126632	0	out_of_scope		
+2029562	32645066	0	out_of_scope		
+2032805	32441178	1	scored	E070	donor_intron
+2033076	32518047	0	out_of_scope		
+2020428	31496954	0	scored	E116	acceptor_intron
+2022192	32389680	0	scored	E075	acceptor_intron
+2023924	32389608	0	out_of_scope		
+2027226	32361036	0	out_of_scope		
+2027303	31932176	0	out_of_scope		
+2027318	31178661	0	scored	E153	donor_intron
+2029076	31836787	0	out_of_scope		
+2032346	32454649	0	out_of_scope		
+2032564	32644948	0	out_of_scope		
+2019904	32573632	0	out_of_scope		
+2023567	31182736	1	scored	E149	donor_intron
+2025249	32491445	0	out_of_scope		
+2025283	32644247	0	out_of_scope		
+2025374	32545344	0	scored	E055	acceptor_intron
+2027026	32365024	1	out_of_scope		
+2027051	32518107	0	out_of_scope		
+2027055	32816590	0	out_of_scope		
+2028648	31627835	0	out_of_scope		
+2028712	32342267	0	out_of_scope		
+2030543	32518047	0	out_of_scope		
+2021352	31444469	0	out_of_scope		
+2024895	31932240	0	scored	E096	acceptor_intron
+2024959	32844846	0	out_of_scope		
+2026635	31169460	0	out_of_scope		
+2028179	31729629	1	scored	E107	donor_intron
+2030131	32411733	0	out_of_scope		
+2031776	32364651	0	out_of_scope		
+2038002	32310071	0	out_of_scope		
+2039721	31177955	0	out_of_scope		
+2039733	32438223	0	out_of_scope		
+2046713	31182720	0	out_of_scope		
+2034014	32614284	0	out_of_scope		
+2034027	32464718	0	scored	E065	acceptor_intron
+2037496	32518140	0	scored	E057	acceptor_intron
+2037497	32518141	0	scored	E057	acceptor_intron
+2042746	32464713	0	scored	E065	acceptor_intron
+2042986	31496801	0	out_of_scope		
+2035585	31478121	0	out_of_scope		
+2037100	32345964	0	out_of_scope		
+2044288	32310063	0	out_of_scope		
+2045995	32491522	0	scored	E060	acceptor_intron
+2036866	31478202	0	out_of_scope		
+2036941	32348537	0	scored	E082	acceptor_intron
+2036997	32565867	0	out_of_scope		
+2038324	32380698	0	scored	E077	acceptor_intron
+2038464	31444517	0	out_of_scope		
+2038704	32699163	0	out_of_scope		
+2040090	32361048	0	out_of_scope		
+2040142	32346086	0	scored	E084	acceptor_intron
+2040301	32348499	0	out_of_scope		
+2040302	32501745	0	out_of_scope		
+2042011	32464637	1	out_of_scope		
+2051875	31627661	0	out_of_scope		
+2060371	32463609	0	scored	E066	acceptor_intron
+2051507	32386470	0	scored	E076	acceptor_intron
+2051552	32464714	0	scored	E065	acceptor_intron
+2051622	32448605	1	out_of_scope		
+2051623	31478105	1	scored	E118	donor_intron
+2054852	32518083	0	out_of_scope		
+2055035	32362780	0	scored	E081	donor_intron
+2056538	32380534	0	out_of_scope		
+2047397	31836839	0	scored	E102	acceptor_intron
+2047427	32441222	0	out_of_scope		
+2048935	32809594	1	out_of_scope		
+2048972	31478169	0	out_of_scope		
+2057664	32468633	0	out_of_scope		
+2065520	31679597	0	scored	E109	acceptor_intron
+2069101	31968482	0	out_of_scope		
+2070510	31173595	0	out_of_scope		
+2072255	31178737	1	out_of_scope		
+2065459	32573581	0	out_of_scope		
+2068753	32463596	1	scored	E066	acceptor_intron
+2063238	31819983	0	out_of_scope		
+2064778	31929581	0	out_of_scope		
+2064846	31260939	0	out_of_scope		
+2066530	31627656	0	out_of_scope		
+2071112	32573566	0	out_of_scope		
+2071465	32491427	0	out_of_scope		
+2064351	32438292	0	out_of_scope		
+2064503	32468507	0	out_of_scope		
+2072436	31169556	0	out_of_scope		
+2072522	31875265	0	out_of_scope		
+2080611	31929680	0	out_of_scope		
+2084082	32287513	0	out_of_scope		
+2084257	32468577	0	out_of_scope		
+2085817	31204026	0	out_of_scope		
+2076936	31323591	0	scored	E123	donor_intron
+2078706	32485117	0	scored	E061	acceptor_intron
+2081861	32823282	0	out_of_scope		
+2087175	31932073	0	scored	E096	donor_intron
+2087256	32468681	0	out_of_scope		
+2074882	31729662	0	out_of_scope		
+2078281	31223105	0	out_of_scope		
+2079951	32849771	0	out_of_scope		
+2086818	32390191	0	scored	E074	acceptor_intron
+2079329	32518092	0	out_of_scope		
+2089299	32343296	0	scored	E085	acceptor_intron
+2091193	32287522	0	scored	E089	donor_intron
+2091283	32389606	0	out_of_scope		
+2094414	32411908	0	out_of_scope		
+2096134	32565756	0	out_of_scope		
+2096153	31932231	0	scored	E096	acceptor_intron
+2097831	32411740	0	out_of_scope		
+2101317	31968500	0	out_of_scope		
+2090675	32697921	0	out_of_scope		
+2101051	31348643	0	scored	E122	acceptor_intron
+2088486	32823373	0	out_of_scope		
+2088495	31929649	1	out_of_scope		
+2092013	32364642	0	out_of_scope		
+2092090	31126683	0	scored	E185	acceptor_intron
+2093621	32364705	1	out_of_scope		
+2093840	32438391	1	scored	E071	acceptor_intron
+2097010	32464595	0	out_of_scope		
+2097258	32809527	1	out_of_scope		
+2097311	32644325	0	scored	E041	acceptor_intron
+2088015	32644259	0	out_of_scope		
+2093108	32342238	0	out_of_scope		
+2094800	32390098	0	out_of_scope		
+2098466	31323621	0	out_of_scope		
+2098488	32518016	1	out_of_scope		
+2103156	32343140	0	out_of_scope		
+2105138	32310294	0	scored	E088	acceptor_intron
+2109933	32365134	0	out_of_scope		
+2109934	31147446	0	out_of_scope		
+2115206	33020175	0	out_of_scope		
+2102851	32644266	0	out_of_scope		
+2102857	32472154	0	out_of_scope		
+2104439	32699219	0	out_of_scope		
+2104603	32448588	0	out_of_scope		
+2108089	32565873	0	out_of_scope		
+2108187	33020210	0	scored	E018	acceptor_intron
+2109816	31820006	0	out_of_scope		
+2109846	31479087	1	out_of_scope		
+2113138	32464571	0	out_of_scope		
+2114933	31836775	0	out_of_scope		
+2102550	31146284	0	ambiguous		
+2104060	32310062	0	out_of_scope		
+2105607	32441172	0	scored	E070	donor_intron
+2105704	32485010	0	out_of_scope		
+2105879	33020125	0	out_of_scope		
+2107608	31774131	0	out_of_scope		
+2110804	31875187	1	scored	E100	donor_intron
+2112880	31478310	0	out_of_scope		
+2103472	32699259	0	out_of_scope		
+2103544	32699154	0	out_of_scope		
+2107243	32472313	0	scored	E063	acceptor_intron
+2108658	32518000	0	scored	E057	donor_intron
+2110728	32362781	0	scored	E081	donor_intron
+2112115	32386346	0	out_of_scope		
+2114045	31146316	0	out_of_scope		
+2116885	31679474	0	out_of_scope		
+2117015	31209661	0	out_of_scope		
+2118631	32697873	0	out_of_scope		
+2118708	31679471	0	out_of_scope		
+2116514	32438355	0	out_of_scope		
+2118268	32491301	0	out_of_scope		
+2118269	31478220	0	out_of_scope		
+2118329	32468540	0	out_of_scope		
+2120109	31820053	1	out_of_scope		
+2120157	31206615	0	out_of_scope		
+2125415	31627766	0	out_of_scope		
+2127036	32491423	0	out_of_scope		
+2128558	31173568	0	out_of_scope		
+2128815	32468618	0	out_of_scope		
+2117847	32573854	0	scored	E047	acceptor_intron
+2123147	32645018	0	out_of_scope		
+2126591	32389519	0	out_of_scope		
+2126632	32343206	0	out_of_scope		
+2119299	32809522	1	out_of_scope		
+2120802	31478277	0	out_of_scope		
+2122812	32565719	1	out_of_scope		
+2124525	31182827	0	out_of_scope		
+2126154	32348426	1	out_of_scope		
+2130945	32472315	0	scored	E063	acceptor_intron
+2132555	31968431	0	out_of_scope		
+2132556	31479071	0	out_of_scope		
+2134387	32217009	0	out_of_scope		
+2130457	32485097	0	scored	E061	acceptor_exon
+2133972	32645057	0	out_of_scope		
+2134002	32697951	0	out_of_scope		
+2129822	31479123	0	scored	E117	acceptor_intron
+2131096	32386293	0	out_of_scope		
+2131417	32287699	0	scored	E089	acceptor_exon
+2134846	32565682	0	out_of_scope		
+2428531	31147546	0	out_of_scope		
+2430380	32644963	1	scored	E040	donor_intron
+2435921	32453842	1	out_of_scope		
+2439738	31178806	1	scored	E153	acceptor_intron
+2439753	32518007	1	scored	E057	donor_intron
+2439758	32365190	1	out_of_scope		
+2439770	32516984	1	out_of_scope		
+2439778	32645154	1	scored	E040	acceptor_intron
+2435903	31180478	1	out_of_scope		
+2444075	32545328	1	out_of_scope		
+2450344	31169517	0	out_of_scope		
+2450354	32390125	0	out_of_scope		
+2450355	31836823	0	scored	E102	acceptor_intron
+2450356	32614395	0	out_of_scope		
+2499487	32230600	1	out_of_scope		
+2565091	31134118	0	out_of_scope		
+2565093	32389615	0	out_of_scope		
+2565103	32484974	0	out_of_scope		
+2571778	32348339	1	out_of_scope		
+2583136	32491275	1	scored	E060	donor_intron
+2584989	32365033	1	out_of_scope		
+2584997	32438259	1	out_of_scope		
+2627919	32438363	1	out_of_scope		
+2637520	31497249	1	out_of_scope		
+2660238	31147404	0	out_of_scope		
+2660241	31444535	0	out_of_scope		
+2674865	32573847	1	scored	E047	acceptor_intron
+2674866	32698000	1	scored	E038	acceptor_intron
+2674867	32697869	1	scored	E038	donor_intron
+2674873	31126640	1	scored	E185	donor_intron
+3359242	31206697	1	out_of_scope		
+2673222	32362839	0	out_of_scope		
+2690586	31507454	1	scored	E115	acceptor_intron
+2690591	31679587	1	scored	E109	acceptor_intron
+2697140	31323669	0	scored	E123	acceptor_intron
+2698865	32501848	0	scored	E059	acceptor_intron
+2698998	31172432	0	scored	E166	acceptor_intron
+2700518	32644145	1	out_of_scope		
+2700643	32386316	0	out_of_scope		
+2700647	32463421	0	out_of_scope		
+2700683	32698017	0	scored	E038	acceptor_intron
+2702051	32342273	0	out_of_scope		
+2702329	32342089	0	out_of_scope		
+2703886	31121925	0	out_of_scope		
+2705697	32844774	0	out_of_scope		
+2694869	32365205	0	scored	E078	acceptor_intron
+2694896	31657971	0	out_of_scope		
+2698404	32454695	0	out_of_scope		
+2701908	32310226	0	out_of_scope		
+2705144	32310094	0	out_of_scope		
+2705213	31204138	0	scored	E147	acceptor_intron
+2694497	32809584	0	out_of_scope		
+2696100	32287719	0	scored	E089	acceptor_intron
+2696219	31836707	0	out_of_scope		
+2697783	32216900	0	out_of_scope		
+2698053	31169615	0	scored	E169	acceptor_intron
+2698139	32454677	0	out_of_scope		
+2699540	31206628	0	out_of_scope		
+2699602	31627691	0	out_of_scope		
+2699799	32614384	0	out_of_scope		
+2701339	32565689	0	out_of_scope		
+2701524	32389482	0	out_of_scope		
+2703199	31968319	0	out_of_scope		
+2692861	32518092	0	out_of_scope		
+2695734	31323662	0	scored	E123	acceptor_intron
+2697339	32844804	0	out_of_scope		
+2697659	32849839	0	scored	E022	acceptor_intron
+2699077	31496963	0	scored	E116	acceptor_intron
+2699352	32342302	0	scored	E087	acceptor_intron
+2700772	32699202	0	out_of_scope		
+2700822	32217083	0	scored	E090	acceptor_intron
+2701140	32411919	0	scored	E073	acceptor_intron
+2702694	32362896	0	out_of_scope		
+2704198	32468630	0	out_of_scope		
+2707324	32380689	0	scored	E077	acceptor_intron
+2707569	32464667	0	out_of_scope		
+2709148	31177919	0	out_of_scope		
+2710663	31180424	0	out_of_scope		
+2710905	31774035	0	out_of_scope		
+2710906	31774071	0	out_of_scope		
+2710907	31774095	0	out_of_scope		
+2710908	31774140	0	out_of_scope		
+2710910	31774200	0	scored	E105	acceptor_intron
+2710911	31929763	0	scored	E098	acceptor_intron
+2712361	32454848	0	scored	E067	acceptor_intron
+2712564	32809621	0	scored	E030	acceptor_intron
+2712574	31178815	0	scored	E153	acceptor_intron
+2714042	31773947	0	out_of_scope		
+2714106	32380630	0	out_of_scope		
+2714340	31627739	0	out_of_scope		
+2714457	32468483	0	out_of_scope		
+2719408	32816536	0	out_of_scope		
+2719479	31875172	0	out_of_scope		
+2710430	31875301	1	out_of_scope		
+2710447	31444616	0	out_of_scope		
+2710516	32343212	0	out_of_scope		
+2717208	32573646	0	scored	E050	acceptor_intron
+2717442	31679360	0	out_of_scope		
+2719058	32217061	0	scored	E090	acceptor_exon
+2719061	32849716	0	out_of_scope		
+2706406	32411776	0	out_of_scope		
+2706542	31496805	1	out_of_scope		
+2706644	31932228	1	scored	E096	acceptor_intron
+2708177	31172340	0	scored	E166	donor_intron
+2709853	32464610	0	out_of_scope		
+2709911	32472200	0	out_of_scope		
+2710116	32454788	0	out_of_scope		
+2711691	31134201	0	scored	E180	acceptor_intron
+2711721	32464709	0	scored	E065	acceptor_intron
+2714947	31836832	0	scored	E102	acceptor_intron
+2716806	32463425	0	out_of_scope		
+2717052	32614289	0	out_of_scope		
+2705968	32565886	0	scored	E053	acceptor_intron
+2709596	32389689	0	scored	E075	acceptor_intron
+2712735	31177972	1	scored	E159	acceptor_intron
+2712927	32484989	0	out_of_scope		
+2713164	32809622	0	scored	E030	acceptor_intron
+2714785	31478086	0	out_of_scope		
+2716465	31836834	0	scored	E102	acceptor_intron
+2720108	31932131	0	out_of_scope		
+2720162	32342296	0	scored	E087	acceptor_intron
+2720209	31204136	0	scored	E147	acceptor_intron
+2720235	32518149	0	scored	E057	acceptor_intron
+2721983	32491266	0	out_of_scope		
+2725398	32644212	0	out_of_scope		
+2725438	31507457	0	scored	E115	acceptor_intron
+2725636	31932158	0	out_of_scope		
+2728835	31169431	0	out_of_scope		
+2728986	32484906	0	out_of_scope		
+2730722	31496949	0	scored	E116	acceptor_intron
+2730766	32472254	0	out_of_scope		
+2732181	32287606	0	out_of_scope		
+2732184	32448651	0	scored	E068	acceptor_intron
+2732292	32518077	0	out_of_scope		
+2732540	32216931	0	out_of_scope		
+2721572	32454647	0	out_of_scope		
+2721771	31929756	0	scored	E098	acceptor_intron
+2723375	32565847	0	out_of_scope		
+2723523	31182720	0	out_of_scope		
+2723538	32518145	0	scored	E057	acceptor_intron
+2724913	32454788	0	out_of_scope		
+2725045	32645164	0	scored	E040	acceptor_intron
+2725227	32348517	0	out_of_scope		
+2726582	31260944	0	out_of_scope		
+2726866	32484902	0	out_of_scope		
+2728357	32310124	0	out_of_scope		
+2730308	31147261	0	out_of_scope		
+2731905	32310285	0	scored	E088	acceptor_intron
+2731914	31479107	0	scored	E117	acceptor_intron
+2731915	31479113	0	scored	E117	acceptor_intron
+2722730	31932134	0	out_of_scope		
+2722949	31729623	0	scored	E107	donor_intron
+2723059	32364615	0	out_of_scope		
+2724436	31627710	0	out_of_scope		
+2724656	31932170	0	out_of_scope		
+2724754	32644956	0	scored	E040	donor_intron
+2726140	32389690	0	scored	E075	acceptor_intron
+2726303	32342106	0	out_of_scope		
+2727885	31146380	0	out_of_scope		
+2728228	31507373	0	out_of_scope		
+2723998	32501741	0	out_of_scope		
+2724069	32441328	0	scored	E070	acceptor_intron
+2725925	31323585	0	out_of_scope		
+2727845	31172425	0	scored	E166	acceptor_intron
+2729280	32485115	0	scored	E061	acceptor_intron
+2729308	32463426	0	out_of_scope		
+2729594	32614463	0	scored	E043	acceptor_intron
+2731067	32310073	0	out_of_scope		
+2732956	31819968	0	scored	E104	donor_intron
+2738240	32699098	0	out_of_scope		
+2739912	32565893	0	scored	E053	acceptor_intron
+2739955	32454776	0	out_of_scope		
+2741435	31260944	0	out_of_scope		
+2741444	31627866	0	scored	E112	acceptor_intron
+2741502	32438400	0	scored	E071	acceptor_intron
+2743229	32448655	0	scored	E068	acceptor_intron
+2743319	31223131	0	scored	E142	acceptor_intron
+2744970	32644229	0	out_of_scope		
+2746863	31929580	0	out_of_scope		
+2737637	32310185	0	out_of_scope		
+2737757	32491265	0	out_of_scope		
+2739359	32348388	0	out_of_scope		
+2741135	32310296	0	scored	E088	acceptor_intron
+2737148	31968338	1	scored	E092	donor_intron
+2737432	31204015	0	out_of_scope		
+2739009	31932161	0	out_of_scope		
+2739101	32849832	0	scored	E022	acceptor_intron
+2742298	32491362	0	out_of_scope		
+2742349	31627733	0	out_of_scope		
+2744269	32342294	0	scored	E087	acceptor_intron
+2744283	32343291	0	scored	E085	acceptor_intron
+2747465	31774053	0	out_of_scope		
+2738571	31348629	0	out_of_scope		
+2738639	32472191	0	out_of_scope		
+2746980	32468663	0	out_of_scope		
+2751529	31177924	0	scored	E159	donor_intron
+2751631	31932089	0	out_of_scope		
+2753127	32468651	0	out_of_scope		
+2755068	32484928	0	out_of_scope		
+2755071	32380494	0	out_of_scope		
+2756497	32573646	0	scored	E050	acceptor_intron
+2758324	31729766	0	scored	E107	acceptor_intron
+2761961	31479112	0	scored	E117	acceptor_intron
+2746327	32844763	0	out_of_scope		
+2749340	32644185	0	out_of_scope		
+2752801	31146423	0	scored	E176	acceptor_intron
+2752837	31444479	1	scored	E119	donor_intron
+2754342	32816539	0	out_of_scope		
+2756018	31147281	0	out_of_scope		
+2758029	32380494	0	out_of_scope		
+2758084	32310281	0	scored	E088	acceptor_intron
+2758143	32463603	0	scored	E066	acceptor_intron
+2752215	31657975	0	out_of_scope		
+2755756	32411830	0	out_of_scope		
+2755908	31836769	0	out_of_scope		
+2755947	31820102	0	scored	E104	acceptor_intron
+2757422	32844880	0	scored	E024	acceptor_intron
+2757437	32380500	0	out_of_scope		
+2757629	31507352	0	out_of_scope		
+2759253	32518110	0	out_of_scope		
+2760837	32614393	0	out_of_scope		
+2750050	32472150	0	out_of_scope		
+2752104	32501743	0	out_of_scope		
+2753476	32844874	0	scored	E024	acceptor_intron
+2753544	32823278	0	out_of_scope		
+2758822	32348421	0	out_of_scope		
+2760454	32348517	0	out_of_scope		
+2760692	32348399	0	scored	E082	donor_intron
+2760724	33211271	0	out_of_scope		
+2764079	31147522	0	ambiguous		
+2764150	32217060	0	out_of_scope		
+2765517	32472146	0	out_of_scope		
+2767571	31203970	0	out_of_scope		
+2767606	32849840	0	scored	E022	acceptor_intron
+2769283	31147398	0	out_of_scope		
+2772001	31134095	0	scored	E180	donor_intron
+2772046	31177934	0	scored	E159	donor_exon
+2761429	32517997	0	out_of_scope		
+2761454	32348387	0	out_of_scope		
+2763452	32816497	0	out_of_scope		
+2763599	32595894	0	scored	E044	acceptor_intron
+2763611	32348526	0	scored	E082	acceptor_exon
+2763651	32573650	0	scored	E050	acceptor_intron
+2765104	31627772	0	out_of_scope		
+2765175	31204075	0	out_of_scope		
+2765434	32411928	0	scored	E073	acceptor_intron
+2767147	31479034	0	out_of_scope		
+2768569	31180463	0	out_of_scope		
+2770450	31595570	0	out_of_scope		
+2771762	31875178	0	out_of_scope		
+2771935	32287567	0	out_of_scope		
+2763247	31658106	0	out_of_scope		
+2763310	31182845	0	out_of_scope		
+2766580	31627805	0	out_of_scope		
+2766718	31178655	0	out_of_scope		
+2768294	32348392	0	out_of_scope		
+2768427	32448441	0	out_of_scope		
+2769815	31121925	0	out_of_scope		
+2769833	31172431	0	scored	E166	acceptor_intron
+2769884	31178651	0	out_of_scope		
+2773119	32438316	0	out_of_scope		
+2773220	32310064	0	out_of_scope		
+2762244	32361047	0	out_of_scope		
+2762398	32518138	0	scored	E057	acceptor_intron
+2762422	32823285	0	out_of_scope		
+2762798	31173553	0	out_of_scope		
+2764368	31875221	0	out_of_scope		
+2764463	32345927	0	out_of_scope		
+2765956	31126691	0	scored	E185	acceptor_intron
+2767791	31836704	0	out_of_scope		
+2767894	32454843	0	scored	E067	acceptor_intron
+2768044	31478210	1	out_of_scope		
+2769481	32699263	0	out_of_scope		
+2769696	31177989	0	scored	E159	acceptor_intron
+2769808	32472173	0	out_of_scope		
+2769809	31968347	0	out_of_scope		
+2771209	32390055	0	out_of_scope		
+2771327	32464710	0	scored	E065	acceptor_intron
+2771518	32389689	0	scored	E075	acceptor_intron
+2772664	32573614	0	out_of_scope		
+2776208	32518087	0	out_of_scope		
+2777665	31177942	0	out_of_scope		
+2778032	31929673	0	out_of_scope		
+2784737	31173524	0	out_of_scope		
+2788002	32501846	0	scored	E059	acceptor_intron
+2777242	31478969	0	out_of_scope		
+2777413	32816648	0	scored	E028	acceptor_intron
+2777416	32484947	0	out_of_scope		
+2778986	31875343	0	out_of_scope		
+2782491	32448586	0	out_of_scope		
+2778748	32472157	0	scored	E063	donor_intron
+2780463	32518099	1	out_of_scope		
+2781966	32823379	0	out_of_scope		
+2782303	32573820	0	out_of_scope		
+2784016	31206671	0	scored	E145	acceptor_intron
+2780050	32518136	0	scored	E057	acceptor_intron
+2780197	32217072	0	scored	E090	acceptor_intron
+2781656	32565898	0	scored	E053	acceptor_intron
+2781810	32595891	0	scored	E044	acceptor_intron
+2785363	31180489	0	scored	E151	acceptor_intron
+2787112	32545208	0	out_of_scope		
+2791531	31968321	0	out_of_scope		
+2791862	32454844	0	scored	E067	acceptor_intron
+2796732	32545302	0	out_of_scope		
+2796898	31121944	0	out_of_scope		
+2798484	32380655	0	out_of_scope		
+2802170	31209631	0	out_of_scope		
+2789638	32698006	0	scored	E038	acceptor_intron
+2794755	31182923	0	scored	E149	acceptor_intron
+2794900	32699302	0	scored	E036	acceptor_intron
+2790960	32844771	0	out_of_scope		
+2792359	32472224	0	out_of_scope		
+2797573	31178677	0	out_of_scope		
+2797669	32345970	0	out_of_scope		
+2797678	31173525	0	out_of_scope		
+2797747	31478089	0	out_of_scope		
+2792286	32438286	0	out_of_scope		
+2795344	32484983	0	out_of_scope		
+2795735	32362776	0	out_of_scope		
+2795754	32287672	0	out_of_scope		
+2798823	32365143	0	out_of_scope		
+2798861	31203952	0	out_of_scope		
+2799147	32844878	0	scored	E024	acceptor_intron
+2802263	32517991	0	out_of_scope		
+2807289	32573596	0	out_of_scope		
+2807402	31223035	0	out_of_scope		
+2809122	32346052	0	out_of_scope		
+2810470	32545149	0	out_of_scope		
+2810507	32573855	0	scored	E047	acceptor_intron
+2810514	31261036	0	scored	E137	acceptor_intron
+2810529	32816491	0	out_of_scope		
+2805007	32491522	0	scored	E060	acceptor_intron
+2805231	32614466	0	scored	E043	acceptor_intron
+2806608	32287666	0	out_of_scope		
+2808476	31182905	1	scored	E149	acceptor_intron
+2809976	31444468	0	out_of_scope		
+2811701	32438263	0	out_of_scope		
+2813707	32468525	0	out_of_scope		
+2815470	32699229	0	out_of_scope		
+2802779	31968410	0	out_of_scope		
+2803088	32441329	0	scored	E070	acceptor_intron
+2804754	33211263	0	out_of_scope		
+2809954	32485112	0	scored	E061	acceptor_intron
+2811266	32380633	0	out_of_scope		
+2811630	31223090	1	out_of_scope		
+2814916	31627657	0	out_of_scope		
+2814925	31875296	0	out_of_scope		
+2805713	31261025	0	scored	E137	acceptor_intron
+2805723	32463423	0	out_of_scope		
+2805725	32468716	0	scored	E064	acceptor_intron
+2807734	32565885	0	scored	E053	acceptor_intron
+2809153	32454648	0	out_of_scope		
+2810896	31348605	0	out_of_scope		
+2819174	32448522	0	out_of_scope		
+2819210	32849749	0	out_of_scope		
+2819214	31147481	0	out_of_scope		
+2821011	31932137	0	out_of_scope		
+2822403	32365050	0	out_of_scope		
+2822503	32362806	0	out_of_scope		
+2822646	31134212	0	scored	E180	acceptor_intron
+2822764	31729621	0	out_of_scope		
+2825870	32464574	0	out_of_scope		
+2826039	32545141	0	out_of_scope		
+2827587	31658040	0	out_of_scope		
+2827783	32697874	1	out_of_scope		
+2818610	31323650	1	out_of_scope		
+2820277	31177918	0	out_of_scope		
+2820467	32645071	0	out_of_scope		
+2822142	32411824	0	out_of_scope		
+2824030	32468654	0	out_of_scope		
+2825389	32595885	0	scored	E044	acceptor_intron
+2825449	32645114	0	out_of_scope		
+2825745	32364565	0	out_of_scope		
+2827146	31147296	0	out_of_scope		
+2816639	32365000	0	out_of_scope		
+2823323	32441322	0	scored	E070	acceptor_intron
+2823423	32501849	0	scored	E059	acceptor_intron
+2823443	31146346	0	out_of_scope		
+2825214	32491439	0	out_of_scope		
+2826704	31260953	1	scored	E137	donor_intron
+2826715	32573727	0	out_of_scope		
+2828377	32310063	0	out_of_scope		
+2828476	32380612	0	out_of_scope		
+2817854	32386291	0	out_of_scope		
+2817866	32491346	0	out_of_scope		
+2817944	32645158	0	scored	E040	acceptor_intron
+2819598	32342142	0	out_of_scope		
+2822810	32645120	0	out_of_scope		
+2823002	32390080	0	out_of_scope		
+2823209	32545335	1	scored	E055	acceptor_intron
+2824884	32448531	0	out_of_scope		
+2826365	32491533	0	scored	E060	acceptor_intron
+2828345	32844879	0	scored	E024	acceptor_intron
+2830046	32454731	0	out_of_scope		
+2831239	31929583	0	out_of_scope		
+2834331	31203959	1	scored	E147	donor_intron
+2834408	32342299	0	scored	E087	acceptor_intron
+2836077	32342118	0	out_of_scope		
+2836328	31444640	0	scored	E119	acceptor_intron
+2836337	32545284	0	out_of_scope		
+2837779	32310280	0	scored	E088	acceptor_intron
+2838098	32573632	0	out_of_scope		
+2839433	32565899	0	scored	E053	acceptor_intron
+2837322	31348572	0	out_of_scope		
+2839153	32645090	0	out_of_scope		
+2840712	32310157	0	out_of_scope		
+2840865	31444464	0	out_of_scope		
+2842799	31929734	0	out_of_scope		
+2832081	32411808	0	out_of_scope		
+2832166	32823334	0	out_of_scope		
+2833482	31929760	0	scored	E098	acceptor_intron
+2833601	32468663	0	out_of_scope		
+2833629	31203979	0	out_of_scope		
+2835211	32463515	0	out_of_scope		
+2837044	32697872	1	scored	E038	donor_exon
+2838995	32411827	0	out_of_scope		
+2840446	31444645	0	scored	E119	acceptor_intron
+2840576	32816450	0	out_of_scope		
+2840659	32491319	0	out_of_scope		
+2842080	31146418	0	scored	E176	acceptor_intron
+2842138	32844765	0	out_of_scope		
+2842351	32645111	0	out_of_scope		
+2831632	32699098	0	out_of_scope		
+2836610	31929576	0	out_of_scope		
+2838554	32644318	0	scored	E041	acceptor_intron
+2838559	31121942	0	out_of_scope		
+2840097	32380685	0	scored	E077	acceptor_intron
+2841615	32565846	0	out_of_scope		
+2841697	32565687	0	out_of_scope		
+2843414	32485019	0	out_of_scope		
+2843524	32472319	0	scored	E063	acceptor_intron
+2843534	31209717	0	scored	E144	acceptor_intron
+2844687	31929722	0	out_of_scope		
+2850083	32849708	0	out_of_scope		
+2851438	32699178	0	out_of_scope		
+2851512	31496771	0	out_of_scope		
+2854782	31479074	0	out_of_scope		
+2856106	32454743	0	out_of_scope		
+2844177	32645048	0	out_of_scope		
+2846238	31820015	0	out_of_scope		
+2847647	32411743	0	out_of_scope		
+2849624	32454824	0	out_of_scope		
+2849650	32485012	0	out_of_scope		
+2852407	32411908	0	out_of_scope		
+2852461	31178719	0	out_of_scope		
+2854104	32565855	0	out_of_scope		
+2854174	31147461	0	out_of_scope		
+2856061	32454642	0	out_of_scope		
+2845534	31496818	0	out_of_scope		
+2845545	31507464	0	scored	E115	acceptor_intron
+2845576	31260941	0	out_of_scope		
+2845709	31774194	1	scored	E105	acceptor_intron
+2847130	32364636	0	out_of_scope		
+2847446	31507269	0	out_of_scope		
+2847466	31773980	1	out_of_scope		
+2850602	31147443	0	out_of_scope		
+2853618	32565789	0	out_of_scope		
+2853721	32361033	0	out_of_scope		
+2853917	31209603	0	out_of_scope		
+2853937	32645166	0	scored	E040	acceptor_intron
+2855532	32844765	0	out_of_scope		
+2845005	31773966	0	out_of_scope		
+2846730	31134090	0	out_of_scope		
+2846984	31507270	0	out_of_scope		
+2847022	31178823	0	scored	E153	acceptor_intron
+2848422	31774060	0	out_of_scope		
+2850466	32823402	0	scored	E025	acceptor_intron
+2852022	32411857	0	out_of_scope		
+2852026	31178823	0	scored	E153	acceptor_intron
+2853239	32849834	0	scored	E022	acceptor_intron
+2854969	32595811	0	out_of_scope		
+2855228	31260938	0	out_of_scope		
+2856781	31507336	0	out_of_scope		
+2856814	31146274	0	out_of_scope		
+2857811	32809523	0	out_of_scope		
+2857816	32644245	0	out_of_scope		
+2858225	32362780	0	scored	E081	donor_intron
+2859682	32472284	0	out_of_scope		
+2859695	32472287	0	out_of_scope		
+2859761	31147534	0	ambiguous		
+2861486	31134199	0	scored	E180	acceptor_intron
+2861566	32644265	0	out_of_scope		
+2864782	32343248	0	out_of_scope		
+2866785	31929579	0	out_of_scope		
+2866795	31169611	0	scored	E169	acceptor_intron
+2869948	32438385	0	out_of_scope		
+2859150	31658150	0	scored	E111	acceptor_intron
+2859381	32698017	0	scored	E038	acceptor_intron
+2862513	31929587	0	out_of_scope		
+2862638	32816638	0	scored	E028	acceptor_exon
+2864390	32518056	0	out_of_scope		
+2866273	32644143	0	out_of_scope		
+2866277	31180478	0	out_of_scope		
+2868029	31968451	0	out_of_scope		
+2869533	32389552	0	out_of_scope		
+2869775	32644245	0	out_of_scope		
+2857368	32216899	0	out_of_scope		
+2860386	31968523	0	scored	E092	acceptor_intron
+2864040	32386303	0	scored	E076	donor_intron
+2865511	32361034	0	out_of_scope		
+2865544	32545296	0	out_of_scope		
+2867510	32454680	0	out_of_scope		
+2870833	31182921	0	scored	E149	acceptor_intron
+2858279	31968412	0	out_of_scope		
+2858519	32849828	0	scored	E022	acceptor_intron
+2860192	32644331	0	scored	E041	acceptor_intron
+2860265	32545142	0	out_of_scope		
+2861728	32448483	0	out_of_scope		
+2861763	31146276	0	out_of_scope		
+2861990	32411866	0	out_of_scope		
+2863783	32545341	0	scored	E055	acceptor_intron
+2865093	31875374	1	scored	E100	acceptor_intron
+2865299	32468588	0	out_of_scope		
+2865482	32485003	0	out_of_scope		
+2870629	31774179	0	out_of_scope		
+2870630	31774196	0	scored	E105	acceptor_intron
+2878766	32844880	0	scored	E024	acceptor_intron
+2880415	32573863	0	scored	E047	acceptor_intron
+2880469	32342084	0	out_of_scope		
+2871360	31773940	0	out_of_scope		
+2878151	31968417	0	out_of_scope		
+2881968	32390105	0	out_of_scope		
+2881988	32464712	0	scored	E065	acceptor_intron
+2879475	32362973	0	scored	E081	acceptor_intron
+2872389	31134204	0	scored	E180	acceptor_intron
+2873898	31177952	0	out_of_scope		
+2874052	32362929	0	out_of_scope		
+2875527	31147530	0	ambiguous		
+2877241	32411869	0	out_of_scope		
+2879171	32501861	0	scored	E059	acceptor_intron
+2880914	31182915	0	scored	E149	acceptor_intron
+2882238	31478968	0	out_of_scope		
+2882368	32342302	0	scored	E087	acceptor_intron
+2882486	32389489	0	out_of_scope		
+2882508	32343114	0	out_of_scope		
+2882548	32448436	0	out_of_scope		
+2885686	32545349	0	scored	E055	acceptor_intron
+2890861	32345946	0	out_of_scope		
+2891023	32573861	0	scored	E047	acceptor_intron
+2894069	32348391	0	out_of_scope		
+2883716	32448549	0	out_of_scope		
+2883775	32484988	0	out_of_scope		
+2890458	32816470	0	scored	E028	donor_exon
+2892458	31729762	0	scored	E107	acceptor_intron
+2893732	32595799	0	out_of_scope		
+2890110	31178654	0	out_of_scope		
+2891720	31729612	0	out_of_scope		
+2891958	31223033	0	out_of_scope		
+2894946	31126631	0	out_of_scope		
+2882689	31209716	0	scored	E144	acceptor_intron
+2884349	32545275	0	out_of_scope		
+2884627	31203948	0	out_of_scope		
+2884667	32441330	0	scored	E070	acceptor_intron
+2886291	31774212	0	scored	E105	acceptor_intron
+2891473	32389645	0	out_of_scope		
+2893097	32463423	0	out_of_scope		
+2897542	31147491	0	out_of_scope		
+2897543	31203950	0	out_of_scope		
+2897544	31209623	0	out_of_scope		
+2897545	31478976	0	scored	E117	donor_intron
+2897546	31774158	0	out_of_scope		
+2897547	32389657	0	out_of_scope		
+2897548	32645059	0	out_of_scope		
+2897549	32816649	0	scored	E028	acceptor_intron
+2902819	32217030	0	out_of_scope		
+2904416	31348626	0	out_of_scope		
+2904599	31968533	0	scored	E092	acceptor_intron
+2906116	31932069	0	out_of_scope		
+2906118	32343298	0	scored	E085	acceptor_intron
+2906213	31932232	0	scored	E096	acceptor_intron
+2896978	31209713	0	scored	E144	acceptor_intron
+2897159	32464566	0	out_of_scope		
+2900357	31774204	0	scored	E105	acceptor_intron
+2900533	31203953	0	scored	E147	donor_intron
+2900550	32468481	0	out_of_scope		
+2905791	31836837	0	scored	E102	acceptor_intron
+2905837	32644202	0	out_of_scope		
+2907352	32697855	0	out_of_scope		
+2909255	31496791	0	out_of_scope		
+2909303	32310070	0	out_of_scope		
+2898478	32365210	0	scored	E078	acceptor_intron
+2899985	31126685	0	scored	E185	acceptor_intron
+2900255	32345930	0	out_of_scope		
+2905479	32310246	0	out_of_scope		
+2906872	31206686	0	scored	E145	acceptor_intron
+2906987	31479027	0	out_of_scope		
+2907186	32849837	0	scored	E022	acceptor_intron
+2908731	31348572	0	out_of_scope		
+2910001	32441166	0	out_of_scope		
+2897762	32614426	0	out_of_scope		
+2899867	32345959	0	out_of_scope		
+2901168	32438274	0	out_of_scope		
+2904717	32472147	0	out_of_scope		
+2906377	32501741	0	out_of_scope		
+2906488	32386480	0	scored	E076	acceptor_intron
+2908492	31146272	0	out_of_scope		
+2912496	32468482	0	out_of_scope		
+2912623	32438404	0	scored	E071	acceptor_intron
+2912690	32411732	0	out_of_scope		
+2912726	32484900	0	out_of_scope		
+2912767	32310118	0	out_of_scope		
+2912768	32310166	0	out_of_scope		
+2914394	32545229	0	out_of_scope		
+2914441	32816644	0	scored	E028	acceptor_intron
+2917823	31444463	0	out_of_scope		
+2917897	32491266	0	out_of_scope		
+2912234	32614345	0	out_of_scope		
+2915585	32699300	0	scored	E036	acceptor_intron
+2915677	31178649	0	out_of_scope		
+2915688	31180358	0	out_of_scope		
+2915700	31126691	0	scored	E185	acceptor_intron
+2919284	31180395	0	out_of_scope		
+2910058	32386296	0	out_of_scope		
+2913462	32565688	0	out_of_scope		
+2913576	31209715	0	scored	E144	acceptor_intron
+2915220	31478373	0	scored	E118	acceptor_exon
+2915388	32454647	0	out_of_scope		
+2915398	32645141	0	out_of_scope		
+2917079	32380699	0	scored	E077	acceptor_intron
+2917134	32697852	0	out_of_scope		
+2920538	32545147	0	out_of_scope		
+2920554	31496774	0	out_of_scope		
+2909618	31178823	0	scored	E153	acceptor_intron
+2911141	32816456	0	out_of_scope		
+2911392	31875287	0	out_of_scope		
+2911554	31968470	0	out_of_scope		
+2913040	32464569	0	out_of_scope		
+2913080	32310163	0	out_of_scope		
+2913139	31147537	0	ambiguous		
+2913188	32310108	0	out_of_scope		
+2913192	32844878	0	scored	E024	acceptor_intron
+2913227	32386292	0	out_of_scope		
+2914856	31223129	0	scored	E142	acceptor_intron
+2916365	31206687	0	scored	E145	acceptor_intron
+2916478	32343301	0	scored	E085	acceptor_intron
+2916556	31134091	0	out_of_scope		
+2916693	32348547	0	scored	E082	acceptor_intron
+2959835	32448442	0	out_of_scope		
+2963460	32342160	0	out_of_scope		
+2966560	32217083	0	scored	E090	acceptor_intron
+2957918	32345972	0	out_of_scope		
+2959719	32468727	0	scored	E064	acceptor_intron
+2961463	32645016	0	out_of_scope		
+2964600	32614463	0	scored	E043	acceptor_intron
+2964435	33020130	0	out_of_scope		
+2955263	31929586	0	out_of_scope		
+2956740	32844879	0	scored	E024	acceptor_intron
+2962213	32438325	0	out_of_scope		
+2968003	31932095	0	out_of_scope		
+2970025	32454801	0	out_of_scope		
+2975047	32809473	0	out_of_scope		
+2976810	31169431	0	out_of_scope		
+2969534	32823275	0	out_of_scope		
+2969570	31260943	0	out_of_scope		
+2971119	31627805	0	out_of_scope		
+2974708	31836748	0	out_of_scope		
+2979883	31932153	0	out_of_scope		
+2981066	31146282	0	out_of_scope		
+2970172	32518151	0	scored	E057	acceptor_intron
+2970356	32545139	0	out_of_scope		
+2972222	32573732	0	out_of_scope		
+2973707	31774059	0	out_of_scope		
+2977146	32644123	0	out_of_scope		
+2991938	31182812	0	out_of_scope		
+2993699	32364678	0	out_of_scope		
+2995221	31126689	0	scored	E185	acceptor_intron
+2988002	32217081	0	scored	E090	acceptor_intron
+2993129	32362806	0	out_of_scope		
+2993295	32573735	0	out_of_scope		
+2994845	32699226	0	out_of_scope		
+2994898	31627692	0	out_of_scope		
+2984320	32844766	0	out_of_scope		
+2985896	32468483	0	out_of_scope		
+2987744	32484912	0	scored	E061	donor_intron
+2983592	32472149	0	out_of_scope		
+2990526	32491466	0	out_of_scope		
+2994068	32698015	0	scored	E038	acceptor_intron
+2996883	32545266	0	out_of_scope		
+2998884	32310271	0	out_of_scope		
+3000330	32411931	0	scored	E073	acceptor_intron
+3004056	31169565	0	out_of_scope		
+3005584	31169484	0	out_of_scope		
+3007592	32365009	0	out_of_scope		
+3007643	31507465	0	scored	E115	acceptor_intron
+3007650	32484999	0	out_of_scope		
+2996555	32342121	0	out_of_scope		
+2998515	32365134	0	out_of_scope		
+3000316	32849788	0	out_of_scope		
+3001679	31627870	0	scored	E112	acceptor_intron
+3003415	32565795	0	out_of_scope		
+3003595	32454818	0	out_of_scope		
+3006951	32645091	0	out_of_scope		
+3008572	32697924	0	out_of_scope		
+3008760	32485028	0	out_of_scope		
+2996258	32501744	0	out_of_scope		
+2999483	32491257	0	out_of_scope		
+3003128	31204133	0	scored	E147	acceptor_intron
+3003291	31679591	0	scored	E109	acceptor_intron
+3003318	32287516	0	out_of_scope		
+3004800	32380686	0	scored	E077	acceptor_intron
+3005035	31209656	0	out_of_scope		
+3006522	32573598	0	out_of_scope		
+2997324	32348540	0	scored	E082	acceptor_intron
+2999048	32816479	0	out_of_scope		
+3002732	32441291	0	out_of_scope		
+3007746	31223054	0	out_of_scope		
+3007863	32699100	0	out_of_scope		
+3010756	32573802	0	out_of_scope		
+3012565	31836805	0	out_of_scope		
+3012598	31126683	0	scored	E185	acceptor_intron
+3012738	32287715	0	scored	E089	acceptor_intron
+3015999	32348463	0	out_of_scope		
+3016111	32565682	0	out_of_scope		
+3019427	31444462	0	out_of_scope		
+3021300	32699096	0	out_of_scope		
+3021507	31206640	0	out_of_scope		
+3013966	32573557	0	out_of_scope		
+3019292	31169618	0	scored	E169	acceptor_intron
+3011596	32645142	0	out_of_scope		
+3011647	32342085	0	out_of_scope		
+3013324	31206682	0	scored	E145	acceptor_intron
+3013501	32463609	0	scored	E066	acceptor_intron
+3015291	31968324	0	out_of_scope		
+3017088	32844770	0	out_of_scope		
+3018793	31223032	0	out_of_scope		
+3020474	31182917	0	scored	E149	acceptor_intron
+3011293	32809602	0	out_of_scope		
+3012955	32438230	0	out_of_scope		
+3013125	32468717	0	scored	E064	acceptor_intron
+3018080	32644949	0	out_of_scope		
+3018118	31209578	0	out_of_scope		
+3020203	32699121	0	out_of_scope		
+3023779	31173522	0	out_of_scope		
+3023400	31968485	0	out_of_scope		
+3023632	31134152	0	out_of_scope		
+3023645	32614318	0	out_of_scope		
+3057679	31444535	0	out_of_scope		
+3045670	32651074	0	out_of_scope		
+3051416	31207104	0	out_of_scope		
+3062012	32698184	1	out_of_scope		
+3065860	32389575	1	out_of_scope		
+3223640	32644290	0	out_of_scope		
+3223641	32614390	0	out_of_scope		
+3223643	32573538	0	out_of_scope		
+3223644	32565881	0	scored	E053	acceptor_exon
+3223645	32565762	0	out_of_scope		
+3223648	32485034	0	out_of_scope		
+3223651	32448596	0	out_of_scope		
+3223656	32365118	0	out_of_scope		
+3223657	32345957	0	out_of_scope		
+3223659	32310223	0	out_of_scope		
+3223660	32287668	0	out_of_scope		
+3223663	31875248	0	out_of_scope		
+3223664	31773984	0	out_of_scope		
+3251959	31147519	1	ambiguous		
+3254563	32310081	1	scored	E088	donor_intron
+3256567	32491519	1	scored	E060	acceptor_intron
+3272376	32454685	0	out_of_scope		
+3272379	32614446	0	out_of_scope		
+3272383	32438364	0	out_of_scope		
+3272384	32463517	0	out_of_scope		
+3272388	32217006	0	out_of_scope		
+3272389	32348487	0	out_of_scope		
+3337036	32565701	1	scored	E053	donor_intron
+3337037	33211275	1	out_of_scope		
+3340530	32454691	1	out_of_scope		
+3362232	32287524	1	scored	E089	donor_intron
+3375024	32362977	0	scored	E081	acceptor_intron
+3375032	32441307	1	out_of_scope		
+3377324	32284453	1	out_of_scope		
+3382794	31169512	1	out_of_scope		
+3383510	33020202	1	scored	E018	acceptor_intron
+3389291	31658056	0	out_of_scope		
+3391221	32216915	1	scored	E090	donor_intron
+3502569	31146367	0	off_reference	E177	acceptor_intron
+3502570	32362911	0	out_of_scope		
+3502577	32468582	0	out_of_scope		
+3502583	31147281	0	out_of_scope		
+3502586	32573590	0	out_of_scope		
+3502589	32345942	1	scored	E084	donor_intron
+3502590	31627699	0	out_of_scope		
+3502591	32464694	0	out_of_scope		
+3502593	32699281	0	out_of_scope		
+3502596	32485058	0	out_of_scope		
+3502598	31679456	0	out_of_scope		
+3502599	31968497	0	out_of_scope		
+3502600	32485061	0	out_of_scope		
+3502601	31929689	0	out_of_scope		
+3502603	31679462	0	out_of_scope		
+3502604	31496893	0	out_of_scope		
+3502605	31679528	0	out_of_scope		
+3502606	31679552	0	out_of_scope		
+3502607	32386346	0	out_of_scope		
+3502608	32386415	0	out_of_scope		
+3502610	32386364	0	out_of_scope		
+3502611	32386373	0	out_of_scope		
+3502612	32386400	0	out_of_scope		
+3502613	32386412	0	out_of_scope		
+3502614	32386388	0	out_of_scope		
+3502616	31178695	0	out_of_scope		
+3502617	31496851	0	out_of_scope		
+3502618	31203978	0	out_of_scope		
+3502619	31929707	0	out_of_scope		
+3502620	31929719	0	out_of_scope		
+3502621	31968407	0	out_of_scope		
+3502622	32362914	0	out_of_scope		
+3502624	32545257	0	out_of_scope		
+3502625	31204048	0	out_of_scope		
+3502626	32816587	0	out_of_scope		
+3502627	31178749	0	out_of_scope		
+3502629	31147308	0	out_of_scope		
+3502630	32491359	0	out_of_scope		
+3502631	31204054	0	out_of_scope		
+3502633	31206652	0	out_of_scope		
+3502635	31182737	1	scored	E149	donor_intron
+3598272	32518007	1	scored	E057	donor_intron
+3598274	32697999	1	scored	E038	acceptor_intron
+3573467	31150514	1	out_of_scope		
+3573468	32353747	1	out_of_scope		
+3573469	32566614	1	out_of_scope		
+3600320	31346046	1	out_of_scope		
+3603605	32362771	0	out_of_scope		
+3607163	32823277	0	out_of_scope		
+3610292	32463535	0	out_of_scope		
+3610343	32343121	0	out_of_scope		
+3604861	31774110	0	out_of_scope		
+3604937	33020163	0	out_of_scope		
+3606702	32823334	0	out_of_scope		
+3609850	31729638	0	out_of_scope		
+3607982	32348485	0	out_of_scope		
+3609533	32565691	0	out_of_scope		
+3611518	32595894	0	scored	E044	acceptor_intron
+3603897	32565828	0	out_of_scope		
+3607629	32823281	0	out_of_scope		
+3611029	32573538	1	out_of_scope		
+3620353	32518032	0	out_of_scope		
+3625754	31929579	0	out_of_scope		
+3627299	32595850	0	out_of_scope		
+3629121	32287517	0	out_of_scope		
+3619831	32454713	0	out_of_scope		
+3617835	32438256	0	out_of_scope		
+3619355	32491533	0	scored	E060	acceptor_intron
+3624751	32491529	0	scored	E060	acceptor_intron
+3626315	31478148	0	out_of_scope		
+3617424	32343182	0	out_of_scope		
+3622348	32644203	0	out_of_scope		
+3627942	31223036	0	out_of_scope		
+3638078	32468696	0	out_of_scope		
+3638104	31836832	0	scored	E102	acceptor_intron
+3632553	32595861	0	out_of_scope		
+3639409	32614286	0	out_of_scope		
+3640839	32342172	0	out_of_scope		
+3640879	32441224	1	out_of_scope		
+3642240	32310165	0	out_of_scope		
+3642446	32454736	1	out_of_scope		
+3642498	32362899	0	out_of_scope		
+3630392	31126689	0	scored	E185	acceptor_intron
+3638950	31627688	0	out_of_scope		
+3639036	32697986	0	out_of_scope		
+3640752	32348511	0	out_of_scope		
+3640156	31658152	0	scored	E111	acceptor_intron
+3640307	32380561	0	out_of_scope		
+3641533	31478370	0	out_of_scope		
+3641552	31932128	0	out_of_scope		
+3641555	32441303	0	out_of_scope		
+3641560	31206685	0	scored	E145	acceptor_intron
+3643210	32342166	0	out_of_scope		
+3643345	31169423	0	out_of_scope		
+3647977	32518017	0	out_of_scope		
+3649394	32644124	0	scored	E041	donor_intron
+3651205	32565764	0	out_of_scope		
+3652961	32545209	0	out_of_scope		
+3653053	32816466	1	scored	E028	donor_intron
+3653206	32501801	0	out_of_scope		
+3653210	31836704	0	out_of_scope		
+3656588	31444642	0	scored	E119	acceptor_intron
+3644102	32365044	0	out_of_scope		
+3644240	32380626	0	out_of_scope		
+3647326	31627805	0	out_of_scope		
+3650763	32361046	0	out_of_scope		
+3652373	32844792	0	out_of_scope		
+3652495	31658082	0	out_of_scope		
+3655999	32441323	0	scored	E070	acceptor_intron
+3647067	31932229	1	scored	E096	acceptor_intron
+3648790	32644322	0	scored	E041	acceptor_intron
+3650433	31323660	1	scored	E123	acceptor_intron
+3655653	31444641	0	scored	E119	acceptor_intron
+3655707	31875287	0	out_of_scope		
+3646567	32463589	0	out_of_scope		
+3651840	31774155	0	out_of_scope		
+3651879	32644308	1	out_of_scope		
+3653612	32287515	0	out_of_scope		
+3656844	32390057	0	out_of_scope		
+3659332	32645153	1	scored	E040	acceptor_intron
+3659411	31507345	1	out_of_scope		
+3662825	32849737	0	out_of_scope		
+3662840	31204021	0	out_of_scope		
+3664495	31679590	0	scored	E109	acceptor_intron
+3667873	32484947	0	out_of_scope		
+3657288	32287585	0	out_of_scope		
+3657345	32565780	0	out_of_scope		
+3660765	31260945	0	out_of_scope		
+3662243	31478092	0	out_of_scope		
+3667650	31348642	0	scored	E122	acceptor_intron
+3669502	32849773	0	out_of_scope		
+3658464	32545332	0	scored	E055	acceptor_exon
+3661783	31478375	1	scored	E118	acceptor_intron
+3665479	32342082	0	out_of_scope		
+3668732	32454652	0	out_of_scope		
+3670377	32699208	0	out_of_scope		
+3658252	31479026	0	out_of_scope		
+3661356	32390063	0	scored	E074	donor_intron
+3661677	31729614	0	out_of_scope		
+3661678	31729617	0	out_of_scope		
+3668383	31209581	0	out_of_scope		
+3673166	31479029	0	out_of_scope		
+3673238	31121946	0	out_of_scope		
+3672864	32348398	0	scored	E082	donor_intron
+3672003	31658131	0	out_of_scope		
+3672013	32595895	0	scored	E044	acceptor_intron
+3674514	32484906	0	out_of_scope		
+3679945	32411833	0	out_of_scope		
+3683331	32287518	0	out_of_scope		
+3686519	31478967	0	out_of_scope		
+3681253	32390143	0	out_of_scope		
+3682933	32463599	0	scored	E066	acceptor_intron
+3685803	32823282	0	out_of_scope		
+3685896	32595838	0	out_of_scope		
+3677198	31729630	1	scored	E107	donor_intron
+3677199	32697980	1	out_of_scope		
+3680734	32472209	0	out_of_scope		
+3680865	31478142	0	out_of_scope		
+3684346	31932245	0	scored	E096	acceptor_intron
+3685692	31932106	0	out_of_scope		
+3693524	32441162	0	out_of_scope		
+3693671	31875371	0	scored	E100	acceptor_exon
+3689697	32348472	0	out_of_scope		
+3691556	32501786	0	out_of_scope		
+3691630	32364584	1	scored	E080	donor_exon
+3696665	32809630	0	scored	E030	acceptor_intron
+3691112	31679417	0	out_of_scope		
+3697826	32816455	0	out_of_scope		
+3699593	31478966	0	out_of_scope		
+3690615	32816572	0	out_of_scope		
+3693898	31729624	0	scored	E107	donor_intron
+3702936	31323673	0	scored	E123	acceptor_intron
+3703101	32573519	0	out_of_scope		
+3714984	32491322	0	out_of_scope		
+3704448	31875386	0	scored	E100	acceptor_intron
+3706148	31169620	0	scored	E169	acceptor_intron
+3711286	32595802	0	out_of_scope		
+3713010	31147428	0	out_of_scope		
+3704120	31147523	0	ambiguous		
+3705671	32472197	0	out_of_scope		
+3709215	32501854	0	scored	E059	acceptor_intron
+3709216	32501862	0	scored	E059	acceptor_intron
+3709305	32464643	0	out_of_scope		
+3712801	31478389	0	scored	E118	acceptor_intron
+3714001	32849708	0	out_of_scope		
+3714002	32849713	0	out_of_scope		
+3703582	32345924	0	out_of_scope		
+3703610	31932221	0	out_of_scope		
+3710381	32362809	0	out_of_scope		
+3710637	32844763	0	out_of_scope		
+3712313	32380699	0	scored	E077	acceptor_intron
+3715373	31261030	0	scored	E137	acceptor_intron
+3716742	32518119	0	out_of_scope		
+3716756	32454646	0	out_of_scope		
+3716792	32380697	0	scored	E077	acceptor_intron
+3720059	31323584	0	out_of_scope		
+3723246	31929707	0	out_of_scope		
+3723250	32484959	0	out_of_scope		
+3723388	32573514	0	out_of_scope		
+3723532	32595878	1	scored	E044	acceptor_intron
+3725141	32644991	0	out_of_scope		
+3725266	31679493	1	out_of_scope		
+3728709	32468497	1	scored	E064	donor_intron
+3717691	32468485	0	out_of_scope		
+3717702	32217071	0	scored	E090	acceptor_intron
+3721325	32454797	0	out_of_scope		
+3721438	32484998	0	out_of_scope		
+3724625	32472227	0	out_of_scope		
+3724771	32573520	0	out_of_scope		
+3724839	32614472	0	scored	E043	acceptor_intron
+3727986	31496776	0	out_of_scope		
+3727988	32501853	0	scored	E059	acceptor_intron
+3728116	31209496	1	scored	E144	donor_intron
+3718940	31348651	0	scored	E122	acceptor_intron
+3724137	31178763	1	out_of_scope		
+3724140	31180483	1	scored	E151	acceptor_intron
+3724214	32644272	0	out_of_scope		
+3724426	32573858	0	scored	E047	acceptor_intron
+3725881	31820085	1	scored	E104	acceptor_intron
+3726191	32348515	1	out_of_scope		
+3727670	32362818	0	out_of_scope		
+3727853	31182851	0	out_of_scope		
+3729516	31819988	0	out_of_scope		
+3718562	31932110	0	out_of_scope		
+3722121	32573732	0	out_of_scope		
+3723802	31819982	0	out_of_scope		
+3723880	32441234	0	out_of_scope		
+3727253	31169544	0	out_of_scope		
+3727399	32216945	1	out_of_scope		
+3730510	32380694	0	scored	E077	acceptor_intron
+3775698	31180376	1	out_of_scope		
+3776203	31178668	1	scored	E153	donor_intron
+3840473	31875307	0	out_of_scope		
+3840478	31444625	0	scored	E119	acceptor_exon
+3840479	32468603	0	out_of_scope		
+3840480	32816479	0	out_of_scope		
+3840481	32645003	0	out_of_scope		
+3840483	31507457	0	scored	E115	acceptor_intron
+3840484	31679457	0	out_of_scope		
+3840485	31126672	0	scored	E185	acceptor_exon
+3840489	32463510	0	out_of_scope		
+3840490	32454812	0	out_of_scope		
+3840494	32491406	0	out_of_scope		
+3840495	32448455	1	scored	E068	donor_intron
+3894911	31195606	0	out_of_scope		
+3895205	32185927	0	out_of_scope		
+3895368	32151406	0	out_of_scope		
+3895422	31121887	0	out_of_scope		
+3895471	32484986	0	out_of_scope		
+3896668	31819973	1	scored	E104	donor_intron
+3896837	31147478	1	out_of_scope		
+3896840	32380516	1	out_of_scope		
+3900623	32565831	1	out_of_scope		
+3905172	32412031	0	out_of_scope		
+3911544	31836757	0	out_of_scope		
+3911545	32491353	0	out_of_scope		
+3911546	32491507	0	out_of_scope		
+4012247	31932207	0	out_of_scope		
+4012248	32342275	0	out_of_scope		
+4012237	31929725	0	out_of_scope		
+4012239	32365025	0	out_of_scope		
+4012240	31223096	0	out_of_scope		
+4012244	32342239	0	out_of_scope		
+4012245	32438275	0	out_of_scope		
+4066464	31169579	1	out_of_scope		
+4066524	31178788	0	out_of_scope		
+4066541	31658145	1	scored	E111	acceptor_intron
+4066544	32697999	1	scored	E038	acceptor_intron
+4066549	32463439	1	scored	E066	donor_exon
+4066557	32441183	0	out_of_scope		
+4066070	31932201	1	out_of_scope		
+4072197	32464660	0	out_of_scope		
+4078471	32485100	1	scored	E061	acceptor_intron
+4078474	31774066	1	out_of_scope		
+4078504	32468669	1	out_of_scope		
+4078506	32342772	1	out_of_scope		
+4081313	32347239	1	out_of_scope		
+4081326	33126849	1	out_of_scope		
+4081327	32366668	1	out_of_scope		
+4081329	33174344	1	out_of_scope		
+4081626	32217064	1	scored	E090	acceptor_intron
+4085387	32485067	0	out_of_scope		
+4241382	32484992	0	out_of_scope		
+4241389	32441218	0	out_of_scope		
+4241390	31177967	0	out_of_scope		
+4241393	32463439	1	scored	E066	donor_exon
+4241394	32389530	0	out_of_scope		
+4241396	31223084	0	out_of_scope		
+4241398	32348508	0	out_of_scope		
+4241399	32448624	0	out_of_scope		
+4241400	32644991	0	out_of_scope		
+4241402	32287582	0	out_of_scope		
+4241403	31496935	0	out_of_scope		
+4279609	31729681	1	out_of_scope		
+4280599	32441275	1	out_of_scope		
+4291915	32411751	1	scored	E073	donor_intron
+4292718	32411849	1	out_of_scope		
+4293327	32565744	1	out_of_scope		
+4613965	32463439	1	scored	E066	donor_exon
+4613967	32454836	0	scored	E067	acceptor_intron
+4613968	32491487	0	out_of_scope		
+4613971	32485013	0	out_of_scope		
+4613972	31496866	0	out_of_scope		
+4613973	31478291	0	out_of_scope		
+4613976	32565788	0	out_of_scope		
+4613981	32468670	0	out_of_scope		
+4680874	32386466	1	scored	E076	acceptor_intron
+4684513	32501776	0	out_of_scope		
+4684514	32565745	0	out_of_scope		
+4685858	31932071	0	out_of_scope		
+4687554	31729749	1	scored	E107	acceptor_intron
+4688942	32441421	1	out_of_scope		
+4689496	32809478	0	out_of_scope		
+4689729	31182821	0	out_of_scope		
+4696646	32411738	0	out_of_scope		
+4696687	32365212	0	scored	E078	acceptor_intron
+4699960	31146423	0	scored	E176	acceptor_intron
+4699778	31180490	0	scored	E151	acceptor_intron
+4701187	32310133	0	out_of_scope		
+4699002	32614472	0	scored	E043	acceptor_intron
+4699343	31204132	0	scored	E147	acceptor_intron
+4702110	32348547	0	scored	E082	acceptor_intron
+4705903	32448594	0	out_of_scope		
+4706016	31180495	0	scored	E151	acceptor_intron
+4707736	31348643	0	scored	E122	acceptor_intron
+4707774	31658151	0	scored	E111	acceptor_intron
+4705540	32468615	0	out_of_scope		
+4707266	32441161	0	out_of_scope		
+4705169	31657978	0	out_of_scope		
+4705388	32545142	0	out_of_scope		
+4706762	31203950	0	out_of_scope		
+4710668	31261017	1	scored	E137	acceptor_intron
+4710705	32823294	1	scored	E025	donor_intron
+4710707	32823317	1	out_of_scope		
+4713908	33020187	0	out_of_scope		
+4714169	32216904	0	out_of_scope		
+4715585	32573656	0	scored	E050	acceptor_intron
+4717307	31679569	1	out_of_scope		
+4717316	32389679	0	scored	E075	acceptor_intron
+4719189	32454704	1	out_of_scope		
+4719265	31627874	0	scored	E112	acceptor_intron
+4713451	32438406	0	scored	E071	acceptor_intron
+4713521	32816578	0	out_of_scope		
+4718697	32342136	0	out_of_scope		
+4720182	32644284	0	out_of_scope		
+4720209	31172423	0	scored	E166	acceptor_intron
+4720386	32454803	0	out_of_scope		
+4713359	31729617	0	out_of_scope		
+4714857	32545343	0	scored	E055	acceptor_intron
+4714955	32364563	0	out_of_scope		
+4716426	31774016	1	out_of_scope		
+4716599	32364568	0	out_of_scope		
+4720104	32823850	0	out_of_scope		
+4714474	32844834	0	out_of_scope		
+4715991	31968476	0	out_of_scope		
+4716059	31444637	0	scored	E119	acceptor_intron
+4717660	32697954	0	out_of_scope		
+4720766	31507467	0	scored	E115	acceptor_intron
+4720966	32448588	0	out_of_scope		
+4720980	32463420	0	out_of_scope		
+4722386	31178662	0	scored	E153	donor_intron
+4724887	32518142	0	scored	E057	acceptor_intron
+4725200	32816605	0	out_of_scope		
+4726867	32614296	0	scored	E043	donor_intron
+4731994	32438394	0	scored	E071	acceptor_intron
+4733327	32468723	0	scored	E064	acceptor_intron
+4735301	31496956	0	scored	E116	acceptor_intron
+4724549	32343275	0	out_of_scope		
+4724687	32698013	0	scored	E038	acceptor_intron
+4729794	31182725	0	out_of_scope		
+4731447	32448591	0	out_of_scope		
+4731455	31146388	0	out_of_scope		
+4731469	31146278	0	out_of_scope		
+4731579	32645021	0	out_of_scope		
+4731601	32380537	0	out_of_scope		
+4732955	31478088	0	out_of_scope		
+4733038	31679599	0	scored	E109	acceptor_intron
+4733297	31836801	1	out_of_scope		
+4734645	31496786	1	scored	E116	donor_intron
+4734718	31773984	0	out_of_scope		
+4729344	32411931	0	scored	E073	acceptor_intron
+4730825	32644175	0	out_of_scope		
+4732541	32491505	0	out_of_scope		
+4732626	32346054	0	out_of_scope		
+4732737	31169621	0	scored	E169	acceptor_intron
+4734152	32468726	0	scored	E064	acceptor_intron
+4734254	31178784	0	out_of_scope		
+4723583	31173565	0	out_of_scope		
+4723631	32844782	1	scored	E024	donor_intron
+4723850	32216904	0	out_of_scope		
+4727168	31204126	0	scored	E147	acceptor_intron
+4727174	31178779	0	out_of_scope		
+4727282	32389576	0	out_of_scope		
+4728904	31507265	0	out_of_scope		
+4730337	31173556	0	out_of_scope		
+4734069	32362938	0	out_of_scope		
+4734119	32485031	0	out_of_scope		
+4738544	32644113	0	out_of_scope		
+4745757	32390196	0	scored	E074	acceptor_intron
+4736473	32463591	0	out_of_scope		
+4742819	32310071	0	out_of_scope		
+4746446	32389537	0	out_of_scope		
+4748056	32573651	0	scored	E050	acceptor_intron
+4751830	31774206	0	scored	E105	acceptor_intron
+4751842	31729658	0	out_of_scope		
+4747833	31507264	0	out_of_scope		
+4751145	31172336	0	out_of_scope		
+4748913	32342271	0	out_of_scope		
+4750663	32823388	1	scored	E025	acceptor_intron
+4748523	32844843	0	out_of_scope		
+4748881	32484959	0	out_of_scope		
+4752019	33020172	0	out_of_scope		
+4752348	32342151	0	out_of_scope		
+4754018	32310091	0	out_of_scope		
+4754978	32389487	0	out_of_scope		
+4759597	32823281	0	out_of_scope		
+4766827	32645172	0	scored	E040	acceptor_intron
+4771062	31479032	0	out_of_scope		
+4763919	32464711	0	scored	E065	acceptor_intron
+4765941	32484932	0	out_of_scope		
+4769045	31146432	0	scored	E176	acceptor_intron
+4773464	32310229	0	out_of_scope		
+4773530	32644323	0	scored	E041	acceptor_intron
+4776127	32448442	0	out_of_scope		
+4776344	31444547	0	out_of_scope		
+4773842	31169481	0	out_of_scope		
+4781083	31875215	0	out_of_scope		
+4776967	32699181	0	out_of_scope		
+4778751	32809626	0	scored	E030	acceptor_intron
+4780309	32386290	0	out_of_scope		
+4773255	32386427	0	out_of_scope		
+4776462	32361039	0	out_of_scope		
+4780099	32573550	0	out_of_scope		
+4802108	31178766	0	out_of_scope		
+4807252	31134087	0	out_of_scope		
+4803490	31729619	0	out_of_scope		
+4808257	31178764	0	out_of_scope		
+4808280	31496874	0	out_of_scope		
+4809648	32310112	0	out_of_scope		
+4799359	32287588	0	out_of_scope		
+4809394	32310295	0	scored	E088	acceptor_intron
+4811623	31479047	0	out_of_scope		
+4811624	31180360	0	out_of_scope		
+4812261	31134212	0	scored	E180	acceptor_intron
+4813720	31478225	1	out_of_scope		
+4813722	32823900	1	out_of_scope		
+4814247	32441305	0	out_of_scope		
+4815295	31178793	1	out_of_scope		
+4815297	31146324	1	out_of_scope		
+4815298	32595877	1	scored	E044	acceptor_intron
+4815299	32573607	1	out_of_scope		
+4815300	32573541	1	out_of_scope		
+4815302	32545336	1	scored	E055	acceptor_intron
+4815304	32461199	1	out_of_scope		
+4815307	32441259	1	out_of_scope		
+4815312	32365132	1	out_of_scope		
+4815314	32346081	1	scored	E084	acceptor_intron
+4815323	33020137	1	scored	E018	donor_intron
+4819116	32644714	1	out_of_scope		
+4820515	32151395	0	out_of_scope		
+4820548	32545224	0	out_of_scope		
+4820781	32565825	0	out_of_scope		
+4822467	32518026	0	out_of_scope		
+4822989	32844858	0	scored	E024	acceptor_exon
+4824037	32491385	0	out_of_scope		
+4824040	31875269	0	out_of_scope		
+4824041	32463478	0	out_of_scope		
+4842492	31627859	0	out_of_scope		
+4842496	32463559	0	out_of_scope		
+4847332	32411914	1	scored	E073	acceptor_intron
+4849006	32491382	0	out_of_scope		
+4849007	31348638	0	scored	E122	acceptor_intron
+4854224	32644316	1	scored	E041	acceptor_intron
+4854330	31203966	1	out_of_scope		
+4855150	31147472	1	out_of_scope		
+4855516	32390070	1	scored	E074	donor_intron
+4855661	32343178	1	out_of_scope		
+4869847	31126650	0	out_of_scope		
+4869850	32362859	0	out_of_scope		
+4869851	32472200	0	out_of_scope		
+4869852	31774020	0	out_of_scope		
+4869855	32518131	0	scored	E057	acceptor_exon
+4869856	32518130	0	scored	E057	acceptor_exon
+4869866	32565850	0	out_of_scope		
+4869868	31507358	0	out_of_scope		
+4869869	32573563	0	out_of_scope		
+4869873	31968356	0	out_of_scope		
+4869875	32468525	0	out_of_scope		
+4869876	32501778	0	out_of_scope		
+4869878	32310097	0	out_of_scope		
+4869880	31260956	0	scored	E137	donor_exon
+4874315	32484929	0	out_of_scope		
+4873272	32412061	0	out_of_scope		
+4875073	32491451	0	out_of_scope		
+4876774	31657989	1	scored	E111	donor_intron
+4879342	32346020	1	out_of_scope		
+4879408	32485101	1	scored	E061	acceptor_intron
+4884714	31657990	1	scored	E111	donor_exon
+4886884	32699276	1	out_of_scope		
+4949635	33174316	0	out_of_scope		
+4949636	33339241	0	out_of_scope		
+4949506	31178475	0	out_of_scope		
+4949507	31178498	0	out_of_scope		
+4949510	31182548	0	out_of_scope		
+4949511	31182818	0	out_of_scope		
+4949512	31182884	0	out_of_scope		
+4949513	31201230	0	out_of_scope		
+4949516	31206580	1	scored	E145	donor_intron
+4949517	31206591	1	out_of_scope		
+4949518	31206634	0	out_of_scope		
+4949519	31206710	0	out_of_scope		
+4949521	31261174	0	out_of_scope		
+4949522	31261281	0	out_of_scope		
+4949524	31266791	0	out_of_scope		
+4949525	31266792	0	out_of_scope		
+4949527	31364136	0	out_of_scope		
+4949532	31496787	1	scored	E116	donor_intron
+4949533	31508235	0	out_of_scope		
+4949535	31658059	0	out_of_scope		
+4949537	31679612	0	out_of_scope		
+4949540	31774176	0	out_of_scope		
+4949543	31836839	0	scored	E102	acceptor_intron
+4949545	31879391	0	out_of_scope		
+4949547	31965017	0	out_of_scope		
+4949548	31965046	0	out_of_scope		
+4949549	32256555	0	out_of_scope		
+4949551	32256562	0	out_of_scope		
+4949553	32287611	1	out_of_scope		
+4949554	32287691	0	out_of_scope		
+4949556	32342214	0	out_of_scope		
+4949557	32342311	0	out_of_scope		
+4949558	32343133	1	scored	E085	donor_intron
+4949560	32361019	0	out_of_scope		
+4949563	32365068	0	out_of_scope		
+4949565	32380554	1	out_of_scope		
+4949567	32389496	1	scored	E075	donor_intron
+4949572	32412129	0	out_of_scope		
+4949575	32412227	0	out_of_scope		
+4949576	32442147	0	out_of_scope		
+4949577	32448533	0	out_of_scope		
+4949578	32452615	0	out_of_scope		
+4949581	32461181	0	out_of_scope		
+4949582	32461186	0	out_of_scope		
+4949583	32461391	0	out_of_scope		
+4949584	32461417	0	out_of_scope		
+4949586	32468561	0	out_of_scope		
+4949587	32472156	0	scored	E063	donor_intron
+4949588	32472173	0	out_of_scope		
+4949609	32595852	1	out_of_scope		
+4949615	32644318	0	scored	E041	acceptor_intron
+4949617	32644953	0	out_of_scope		
+4949620	32650964	0	out_of_scope		
+4949622	32651091	0	out_of_scope		
+4949623	32697854	0	out_of_scope		
+4949624	32697950	0	out_of_scope		
+4949626	32738782	0	out_of_scope		
+4949628	32809636	0	out_of_scope		
+4949629	32809642	0	out_of_scope		
+4949631	32823847	0	out_of_scope		
+4949633	32844796	1	out_of_scope		
+4980038	32412039	0	out_of_scope		
+4980310	32412172	0	out_of_scope		
+4983119	32572937	0	out_of_scope		
+4985542	32342768	0	out_of_scope		
+4996430	31207094	1	out_of_scope		
+5011354	32348429	1	out_of_scope		
+5035372	31147416	0	out_of_scope		
+5035378	32365119	0	out_of_scope		
+5035379	31836727	0	out_of_scope		
+5035381	32348418	0	out_of_scope		
+5035385	32472296	0	out_of_scope		
+5035389	32697884	0	out_of_scope		
+5035391	32699247	0	out_of_scope		
+5035395	32644165	0	out_of_scope		
+5035397	32518020	0	out_of_scope		
+5035398	32390085	0	out_of_scope		
+5035400	32438289	0	out_of_scope		
+5037874	31195692	0	out_of_scope		
+5037875	31195686	0	out_of_scope		
