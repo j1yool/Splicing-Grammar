@@ -1,0 +1,20 @@
+{
+  "source": "dmd_eval_v1_variants.tsv",
+  "source_sha256": "a0d9f75503e3a203f905236a2421e1c8581133296387806603b63502d834140d",
+  "n": 1084,
+  "window_rates": {
+    "acceptor_exon": 0.125,
+    "acceptor_intron": 0.22206896551724137,
+    "donor_exon": 0.8378378378378378,
+    "donor_intron": 0.6861313868613139
+  },
+  "auc_insample": 0.726899208693974,
+  "auc_loeo": 0.6351307213801088,
+  "loeo_ci95": [
+    0.610011864871194,
+    0.6653711693296751
+  ],
+  "boots_used": 2000,
+  "seed": 101,
+  "label": "EXPLORATORY"
+}
